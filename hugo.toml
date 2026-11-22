@@ -1,5 +1,5 @@
 # Sito Tesla3000 Società Cooperativa
-# NOME: cambiare SOLO params.brandName (grafia Telsa/Tesla da confermare).
+# NOME: "Tesla3000 Società Cooperativa" (confermato). Per cambiarlo: params.brandName.
 baseURL = "https://example.org/"   # dominio da decidere
 title = "Tesla3000"
 defaultContentLanguage = "it"
