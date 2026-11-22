@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tesla3000.it/sitemap.xml
