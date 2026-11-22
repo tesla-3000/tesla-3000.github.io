@@ -1,6 +1,6 @@
 # Sito Tesla3000 Società Cooperativa
 # NOME: "Tesla3000 Società Cooperativa" (confermato). Per cambiarlo: params.brandName.
-baseURL = "https://example.org/"   # dominio da decidere
+baseURL = "https://tesla3000.it/"
 title = "Tesla3000"
 defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = true
@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
   vatNumber = ""                          # P.IVA / C.F. da compilare
   reaNumber = ""                          # REA e Albo cooperative da compilare
   address = ""                            # sede legale da compilare
-  email = "info@example.org"              # email da definire con il dominio
+  email = "coop@tesla3000.it"
   whatsapp = ""                           # numero WhatsApp (formato 39XXXXXXXXXX)
   formEndpoint = ""                       # URL POST del modulo; vuoto = fallback mailto
   githubOrg = "tesla3000"
