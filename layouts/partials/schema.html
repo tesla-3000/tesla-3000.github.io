@@ -1,0 +1,14 @@
+{{ $brand := site.Params.brandName }}
+{{ $org := dict "@type" "Organization" "@id" (printf "%s#org" site.Home.Permalink) "name" (printf "%s %s" $brand site.Params.legalSuffix) "alternateName" $brand "url" site.Home.Permalink "logo" ("img/logo.svg" | absURL) "email" site.Params.email }}
+{{ with site.Params.vatNumber }}{{ $org = merge $org (dict "vatID" .) }}{{ end }}
+{{ $graph := slice $org }}
+{{ if and .IsPage (in (slice "articoli" "articles") .Section) }}
+  {{ $art := dict "@type" "Article" "headline" .Title "description" .Description "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "inLanguage" site.Language.Locale "mainEntityOfPage" .Permalink "author" (dict "@id" (printf "%s#org" site.Home.Permalink)) "publisher" (dict "@id" (printf "%s#org" site.Home.Permalink)) }}
+  {{ $graph = $graph | append $art }}
+{{ end }}
+{{ with .Params.faq }}
+  {{ $qs := slice }}
+  {{ range . }}{{ $qs = $qs | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" .a)) }}{{ end }}
+  {{ $graph = $graph | append (dict "@type" "FAQPage" "mainEntity" $qs) }}
+{{ end }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

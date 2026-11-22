@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ $isArt := in (slice "articoli" "articles") .Section }}
+<article class="wrap narrow page">
+  {{ if $isArt }}<p class="kicker">{{ range .Params.categories }}{{ i18n (printf "cat_%s" .) }}{{ end }}</p>{{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+  <div class="prose">{{ .Content }}</div>
+  {{ with .Params.faq }}
+  <section class="faq"><h2>{{ i18n "faq" }}</h2>
+  {{ range . }}<details><summary>{{ .q }}</summary><p>{{ .a }}</p></details>{{ end }}
+  </section>{{ end }}
+  {{ if $isArt }}
+  <aside class="cta-box"><p>{{ if eq site.Language.Lang "it" }}Hai un cliente estero e non vuoi aprire partita IVA?{{ else }}Have a foreign client and don't want to open an Italian VAT number?{{ end }}</p><a class="btn" href="{{ (cond (eq site.Language.Lang "it") "/contatti/" "/contact/") | relLangURL }}">{{ i18n "cta_talk" }}</a></aside>
+  {{ $rel := site.RegularPages.Related . | first 3 }}
+  {{ with $rel }}<section class="related"><h2>{{ i18n "related" }}</h2><ul class="cards">{{ range . }}{{ partial "card.html" . }}{{ end }}</ul></section>{{ end }}
+  {{ end }}
+</article>
+{{ end }}

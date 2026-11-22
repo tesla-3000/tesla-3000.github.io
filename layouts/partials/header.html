@@ -1,0 +1,16 @@
+{{ $l := site.Language.Lang }}
+<a class="skip" href="#main">{{ if eq $l "it" }}Vai al contenuto{{ else }}Skip to content{{ end }}</a>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="logo" href="{{ site.Home.RelPermalink }}" aria-label="{{ site.Params.brandName }}">
+      <img src="{{ "img/mark.svg" | relURL }}" alt="" width="36" height="36"><span>{{ site.Params.brandName }}</span>
+    </a>
+    <nav aria-label="menu">
+      <input type="checkbox" id="nt" hidden><label for="nt" class="burger" aria-label="Menu">☰</label>
+      <ul>
+      {{ range site.Menus.main }}<li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>{{ end }}
+      {{ range $.Translations }}<li><a class="lang" hreflang="{{ .Language.Lang }}" href="{{ .RelPermalink }}">{{ upper .Language.Lang }}</a></li>{{ else }}{{ range site.Home.Translations }}<li><a class="lang" href="{{ .RelPermalink }}">{{ upper .Language.Lang }}</a></li>{{ end }}{{ end }}
+      </ul>
+    </nav>
+  </div>
+</header>

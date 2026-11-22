@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ $l := site.Language.Lang }}{{ $p := .Params }}
+<section class="hero"><div class="wrap hero-in">
+  <div>
+    <p class="kicker">{{ $p.kicker }}</p>
+    <h1>{{ $p.headline }}</h1>
+    <p class="lead">{{ $p.sub }}</p>
+    <p><a class="btn" href="{{ (cond (eq $l "it") "/contatti/" "/contact/") | relLangURL }}">{{ i18n "cta_join" }}</a>
+       <a class="btn ghost" href="{{ (cond (eq $l "it") "/come-funziona/" "/how-it-works/") | relLangURL }}">{{ i18n "nav_how" }}</a></p>
+  </div>
+  <figure class="hero-art" aria-hidden="true">{{ readFile "static/img/hero.svg" | safeHTML }}</figure>
+</div></section>
+
+<section class="wrap band"><h2>{{ $p.stepsTitle }}</h2>
+<ol class="steps">{{ range $p.steps }}<li><strong>{{ .t }}</strong><span>{{ .d }}</span></li>{{ end }}</ol></section>
+
+<section class="alt"><div class="wrap band"><h2>{{ $p.whoTitle }}</h2>
+<ul class="chips">{{ range $p.who }}<li>{{ . }}</li>{{ end }}</ul>
+<p class="note">{{ $p.whoNote }}</p></div></section>
+
+<section class="wrap band two">
+  <div><h2>{{ $p.inclTitle }}</h2><ul class="ticks">{{ range $p.incl }}<li>{{ . }}</li>{{ end }}</ul></div>
+  <div class="price-card"><p class="kicker">{{ i18n "nav_pricing" }}</p>
+    <p class="big">{{ (index hugo.Data.pricing.items 0).ours }}%</p>
+    <p>{{ $p.priceLine }}</p>
+    <a class="btn" href="{{ (cond (eq $l "it") "/prezzi/" "/pricing/") | relLangURL }}">{{ i18n "read_more" }}</a></div>
+</section>
+
+<section class="alt"><div class="wrap band"><h2>{{ i18n "articles_title" }}</h2>
+{{ $sec := cond (eq $l "it") "articoli" "articles" }}
+<ul class="cards">{{ range first 6 (where site.RegularPages "Section" $sec).ByTitle }}{{ partial "card.html" . }}{{ end }}</ul>
+<p><a href="{{ printf "/%s/" $sec | relLangURL }}">{{ i18n "read_more" }} →</a></p></div></section>
+
+{{ with $p.faq }}<section class="wrap band narrow faq"><h2>{{ i18n "faq" }}</h2>{{ range . }}<details><summary>{{ .q }}</summary><p>{{ .a }}</p></details>{{ end }}</section>{{ end }}
+{{ end }}

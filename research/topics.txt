@@ -1,0 +1,104 @@
+001|Sviluppatore software con un cliente negli Stati Uniti|casi-uso
+002|Traduttore freelance che lavora per agenzie tedesche|casi-uso
+003|Grafico e designer con clienti nel Regno Unito|casi-uso
+004|Musicista che suona in festival all'estero|casi-uso
+005|Agente di vendita per un'azienda estera che vuole entrare in Italia|casi-uso
+006|Copywriter per startup francesi|casi-uso
+007|Data analyst con un unico cliente svizzero|casi-uso
+008|UX researcher per una software house olandese|casi-uso
+009|Fotografo che lavora per riviste internazionali|casi-uso
+010|Illustratore per editori stranieri|casi-uso
+011|Video editor per creator e YouTuber esteri|casi-uso
+012|Sottotitolatore e adattatore per piattaforme streaming|casi-uso
+013|Consulente marketing digitale per e-commerce spagnoli|casi-uso
+014|SEO specialist con clienti in più paesi|casi-uso
+015|Community manager per un brand americano|casi-uso
+016|Project manager IT in un team remoto internazionale|casi-uso
+017|DevOps e cloud engineer a contratto per aziende UE|casi-uso
+018|Sviluppatore mobile per un'agenzia di Londra|casi-uso
+019|QA tester remoto per software house estere|casi-uso
+020|Formatore e docente online per piattaforme straniere|casi-uso
+021|Insegnante di italiano online con studenti esteri|casi-uso
+022|Attore e doppiatore per produzioni internazionali|casi-uso
+023|Ballerino e coreografo in tournée|casi-uso
+024|Sound designer per videogiochi esteri|casi-uso
+025|Game artist e animatore 3D|casi-uso
+026|Architetto d'interni non iscritto all'albo: attività di design per clienti esteri e limiti|casi-uso
+027|Ricercatore indipendente per fondazioni estere|casi-uso
+028|Giornalista e content writer per testate straniere|casi-uso
+029|Interprete per fiere e congressi all'estero|casi-uso
+030|Business developer per una SaaS americana in Europa|casi-uso
+031|Customer success manager remoto per una scale-up|casi-uso
+032|Assistente virtuale per imprenditori esteri|casi-uso
+033|Product designer con due clienti contemporanei|casi-uso
+034|Consulente e-commerce per marketplace internazionali|casi-uso
+035|Tecnico audio e luci per eventi all'estero|casi-uso
+036|Stylist e consulente moda per brand stranieri|casi-uso
+037|Specialista di cybersecurity per clienti esteri|casi-uso
+038|Data scientist e machine learning engineer a progetto|casi-uso
+039|Scrittore ghostwriter per autori stranieri|casi-uso
+040|Consulente HR e recruiter per aziende estere che cercano in Italia|casi-uso
+041|Sviluppatore WordPress e Shopify per agenzie straniere|casi-uso
+042|Social media manager per una catena di hotel internazionale|casi-uso
+043|Motion designer per agenzie pubblicitarie estere|casi-uso
+044|Tecnico informatico che segue un cliente estero in Italia|casi-uso
+045|Consulente di localizzazione software|casi-uso
+046|Podcast producer per network esteri|casi-uso
+047|Guida e accompagnatore per tour operator stranieri: attenzione ai requisiti|casi-uso
+048|Neolaureato con il primo cliente estero|casi-uso
+049|Lavoratore dipendente che vuole un secondo lavoro con un cliente estero|casi-uso
+050|Rientro in Italia dopo anni all'estero mantenendo il cliente|casi-uso
+051|Nomade digitale italiano: cosa valutare su residenza e cooperativa|casi-uso
+052|Freelance con clienti sia italiani che esteri|casi-uso
+053|Lavoro a progetto breve: una commessa di tre mesi|casi-uso
+054|Collaborazione continuativa con un solo cliente estero|casi-uso
+055|Coppia di freelance che lavora sullo stesso progetto|casi-uso
+056|Team di soci che risponde a una gara di un cliente estero|casi-uso
+057|Artista visivo che vende opere e realizza commissioni all'estero|casi-uso
+058|Cantautore e diritti: compensi da concerti e da altri canali|casi-uso
+059|Scenografo per produzioni teatrali estere|casi-uso
+060|Consulente di sostenibilità per aziende nordeuropee|casi-uso
+061|Cooperativa contro partita IVA forfettaria: confronto onesto|vantaggi
+062|Cosa significa essere socio lavoratore|vantaggi
+063|Contributi e pensione: cosa cambia lavorando tramite cooperativa|vantaggi
+064|Malattia, ferie e maternità per chi lavora con clienti esteri|vantaggi
+065|NASpI: la tutela in caso di fine del lavoro|vantaggi
+066|Il TFR per il socio lavoratore|vantaggi
+067|Busta paga invece di fatture: vantaggi pratici con banche e affitti|vantaggi
+068|Niente commercialista e niente contabilità personale|vantaggi
+069|Incassi in valuta estera: come li gestisce la cooperativa|vantaggi
+070|Ritardi di pagamento del cliente estero: chi se ne occupa|vantaggi
+071|Assicurazione INAIL e RC professionale per il socio|vantaggi
+072|La mutualità: cos'è e cosa può dare ai soci|vantaggi
+073|Partecipazione democratica: un socio un voto|vantaggi
+074|Ristorni: come funzionano in una cooperativa|vantaggi
+075|Rimborsi spese di trasferta e attrezzatura|vantaggi
+076|Mettersi alla prova prima di aprire partita IVA|vantaggi
+077|Supporto WhatsApp: risposte rapide a chi lavora da solo|vantaggi
+078|La piattaforma digitale del socio: tutto online|vantaggi
+079|Formazione e community tra soci|vantaggi
+080|Credibilità verso il cliente estero: contratto con un'organizzazione|vantaggi
+081|Come diventare socio: i passi dall'iscrizione al primo stipendio|guide
+082|La quota sociale: cos'è e quando si recupera|guide
+083|Come presentare la cooperativa al tuo cliente estero|guide
+084|Il contratto commerciale (commessa) con il cliente: cosa contiene|guide
+085|Come si calcola il costo per il cliente e il tuo stipendio|guide
+086|Fatturazione verso clienti UE ed extra UE: le regole IVA di base|guide
+087|Ho già la partita IVA: posso passare alla cooperativa?|guide
+088|Prestazione occasionale, cooperativa o partita IVA: come scegliere|guide
+089|Il regolamento interno della cooperativa di lavoro|guide
+090|Legge 142/2001 spiegata semplice|guide
+091|Clienti con contratti in inglese: cosa controllare|guide
+092|Come negoziare la tariffa con un cliente estero|guide
+093|Cosa succede se il cliente non paga|guide
+094|Lavorare con più clienti contemporaneamente come socio|guide
+095|Orari, autonomia e organizzazione del lavoro da remoto|guide
+096|Proprietà intellettuale: chi possiede il lavoro consegnato|guide
+097|Riservatezza e NDA con il cliente estero|guide
+098|Uscire dalla cooperativa: recesso e chiusura del rapporto|guide
+099|Dichiarazione dei redditi per il socio dipendente: 730 e CU|guide
+100|Errori comuni di chi lavora con clienti esteri senza struttura|guide
+101|Checklist: sei pronto a lavorare tramite cooperativa?|guide
+102|Professioni ordinistiche: quando la cooperativa non è la soluzione|guide
+103|Lavoro all'estero in trasferta: distacco e cosa sapere|guide
+104|Glossario della cooperativa di lavoro per freelance|guide

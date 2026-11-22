@@ -1,0 +1,26 @@
+027|Ricercatore indipendente per fondazioni estere|casi-uso
+028|Giornalista e content writer per testate straniere|casi-uso
+029|Interprete per fiere e congressi all'estero|casi-uso
+030|Business developer per una SaaS americana in Europa|casi-uso
+031|Customer success manager remoto per una scale-up|casi-uso
+032|Assistente virtuale per imprenditori esteri|casi-uso
+033|Product designer con due clienti contemporanei|casi-uso
+034|Consulente e-commerce per marketplace internazionali|casi-uso
+035|Tecnico audio e luci per eventi all'estero|casi-uso
+036|Stylist e consulente moda per brand stranieri|casi-uso
+037|Specialista di cybersecurity per clienti esteri|casi-uso
+038|Data scientist e machine learning engineer a progetto|casi-uso
+039|Scrittore ghostwriter per autori stranieri|casi-uso
+040|Consulente HR e recruiter per aziende estere che cercano in Italia|casi-uso
+041|Sviluppatore WordPress e Shopify per agenzie straniere|casi-uso
+042|Social media manager per una catena di hotel internazionale|casi-uso
+043|Motion designer per agenzie pubblicitarie estere|casi-uso
+044|Tecnico informatico che segue un cliente estero in Italia|casi-uso
+045|Consulente di localizzazione software|casi-uso
+046|Podcast producer per network esteri|casi-uso
+047|Guida e accompagnatore per tour operator stranieri: attenzione ai requisiti|casi-uso
+048|Neolaureato con il primo cliente estero|casi-uso
+049|Lavoratore dipendente che vuole un secondo lavoro con un cliente estero|casi-uso
+050|Rientro in Italia dopo anni all'estero mantenendo il cliente|casi-uso
+051|Nomade digitale italiano: cosa valutare su residenza e cooperativa|casi-uso
+052|Freelance con clienti sia italiani che esteri|casi-uso

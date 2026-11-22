@@ -1,0 +1,38 @@
+---
+title: "Home"
+description: "Lavora con clienti esteri senza partita IVA: diventi socio della cooperativa, hai busta paga e contributi, noi gestiamo contratto, fatture e incassi."
+translationKey: "home"
+kicker: "Cooperativa di lavoro per freelance"
+headline: "Il tuo cliente è all'estero. La tua busta paga è in Italia."
+sub: "Diventi socio della cooperativa, vieni assunto e lavori per i tuoi clienti come oggi. Contratto con il cliente, fatture, incassi, contributi e buste paga li gestiamo noi. Senza partita IVA, senza commercialista."
+stepsTitle: "Come funziona, in quattro passi"
+steps:
+  - t: "Ci racconti il tuo lavoro"
+    d: "Chi è il cliente, che attività svolgi, quanto vale la commessa. Rispondiamo su WhatsApp o email."
+  - t: "Diventi socio"
+    d: "Sottoscrivi la quota sociale e firmi online: niente code, niente uffici."
+  - t: "Firmiamo con il tuo cliente"
+    d: "La cooperativa firma la commessa, anche in inglese, e fattura al cliente."
+  - t: "Ricevi lo stipendio"
+    d: "Busta paga mensile con contributi INPS, INAIL, ferie, malattia e TFR."
+whoTitle: "Per chi lavora con clienti esteri"
+who: ["Sviluppatori", "Designer", "Traduttori e interpreti", "Copywriter", "Data analyst", "Marketing e SEO", "Agenti di vendita", "Musicisti", "Attori e doppiatori", "Fotografi e video maker", "Formatori online", "Lavoratori da remoto", "Nomadi digitali"]
+whoNote: "Non gestiamo professioni riservate agli iscritti a un albo (ad esempio avvocati, medici, ingegneri che firmano progetti)."
+inclTitle: "Tutto incluso, un solo costo"
+incl:
+  - "Contratto commerciale con il tuo cliente estero"
+  - "Fatture e incassi, anche in dollari, sterline o franchi"
+  - "Assunzione, busta paga, contributi e CU"
+  - "Stipendio a data fissa anche se il cliente ritarda"
+  - "Rimborsi spese e trasferte"
+  - "Piattaforma digitale del socio e firma online"
+  - "Supporto WhatsApp con un referente"
+priceLine: "del fatturato, IVA esclusa. Nessun canone mensile. 15% sotto il riferimento di mercato, con il calcolo pubblicato."
+faq:
+  - q: "Devo aprire la partita IVA?"
+    a: "No. Fattura la cooperativa e tu sei assunto come socio lavoratore con busta paga."
+  - q: "Posso scegliere io i clienti e la tariffa?"
+    a: "Sì. Porti tu il cliente e concordi tu il prezzo; la cooperativa firma il contratto e gestisce la parte amministrativa."
+  - q: "Funziona anche con clienti italiani?"
+    a: "Sì, il servizio è pensato per clienti esteri ma vale anche per clienti in Italia."
+---

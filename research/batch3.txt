@@ -1,0 +1,26 @@
+053|Lavoro a progetto breve: una commessa di tre mesi|casi-uso
+054|Collaborazione continuativa con un solo cliente estero|casi-uso
+055|Coppia di freelance che lavora sullo stesso progetto|casi-uso
+056|Team di soci che risponde a una gara di un cliente estero|casi-uso
+057|Artista visivo che vende opere e realizza commissioni all'estero|casi-uso
+058|Cantautore e diritti: compensi da concerti e da altri canali|casi-uso
+059|Scenografo per produzioni teatrali estere|casi-uso
+060|Consulente di sostenibilità per aziende nordeuropee|casi-uso
+061|Cooperativa contro partita IVA forfettaria: confronto onesto|vantaggi
+062|Cosa significa essere socio lavoratore|vantaggi
+063|Contributi e pensione: cosa cambia lavorando tramite cooperativa|vantaggi
+064|Malattia, ferie e maternità per chi lavora con clienti esteri|vantaggi
+065|NASpI: la tutela in caso di fine del lavoro|vantaggi
+066|Il TFR per il socio lavoratore|vantaggi
+067|Busta paga invece di fatture: vantaggi pratici con banche e affitti|vantaggi
+068|Niente commercialista e niente contabilità personale|vantaggi
+069|Incassi in valuta estera: come li gestisce la cooperativa|vantaggi
+070|Ritardi di pagamento del cliente estero: chi se ne occupa|vantaggi
+071|Assicurazione INAIL e RC professionale per il socio|vantaggi
+072|La mutualità: cos'è e cosa può dare ai soci|vantaggi
+073|Partecipazione democratica: un socio un voto|vantaggi
+074|Ristorni: come funzionano in una cooperativa|vantaggi
+075|Rimborsi spese di trasferta e attrezzatura|vantaggi
+076|Mettersi alla prova prima di aprire partita IVA|vantaggi
+077|Supporto WhatsApp: risposte rapide a chi lavora da solo|vantaggi
+078|La piattaforma digitale del socio: tutto online|vantaggi

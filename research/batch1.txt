@@ -1,0 +1,26 @@
+001|Sviluppatore software con un cliente negli Stati Uniti|casi-uso
+002|Traduttore freelance che lavora per agenzie tedesche|casi-uso
+003|Grafico e designer con clienti nel Regno Unito|casi-uso
+004|Musicista che suona in festival all'estero|casi-uso
+005|Agente di vendita per un'azienda estera che vuole entrare in Italia|casi-uso
+006|Copywriter per startup francesi|casi-uso
+007|Data analyst con un unico cliente svizzero|casi-uso
+008|UX researcher per una software house olandese|casi-uso
+009|Fotografo che lavora per riviste internazionali|casi-uso
+010|Illustratore per editori stranieri|casi-uso
+011|Video editor per creator e YouTuber esteri|casi-uso
+012|Sottotitolatore e adattatore per piattaforme streaming|casi-uso
+013|Consulente marketing digitale per e-commerce spagnoli|casi-uso
+014|SEO specialist con clienti in più paesi|casi-uso
+015|Community manager per un brand americano|casi-uso
+016|Project manager IT in un team remoto internazionale|casi-uso
+017|DevOps e cloud engineer a contratto per aziende UE|casi-uso
+018|Sviluppatore mobile per un'agenzia di Londra|casi-uso
+019|QA tester remoto per software house estere|casi-uso
+020|Formatore e docente online per piattaforme straniere|casi-uso
+021|Insegnante di italiano online con studenti esteri|casi-uso
+022|Attore e doppiatore per produzioni internazionali|casi-uso
+023|Ballerino e coreografo in tournée|casi-uso
+024|Sound designer per videogiochi esteri|casi-uso
+025|Game artist e animatore 3D|casi-uso
+026|Architetto d'interni non iscritto all'albo: attività di design per clienti esteri e limiti|casi-uso

@@ -1,0 +1,15 @@
+{{ $l := site.Language.Lang }}
+<form id="cf" class="form" method="post" action="{{ with site.Params.formEndpoint }}{{ . }}{{ else }}mailto:{{ site.Params.email }}{{ end }}" data-endpoint="{{ site.Params.formEndpoint }}" data-mailto="{{ site.Params.email }}" data-ok="{{ i18n "form_ok" }}" data-err="{{ i18n "form_err" }}" data-lang="{{ $l }}">
+  <label>{{ i18n "form_name" }}<input name="name" required autocomplete="name"></label>
+  <label>{{ i18n "form_email" }}<input name="email" type="email" required autocomplete="email"></label>
+  <label>{{ i18n "form_role" }}<input name="role" placeholder="{{ if eq $l "it" }}es. sviluppatrice, traduttore, musicista{{ else }}e.g. developer, translator, musician{{ end }}"></label>
+  <label>{{ i18n "form_clients" }}<input name="clients" placeholder="{{ if eq $l "it" }}es. USA, Germania{{ else }}e.g. USA, Germany{{ end }}"></label>
+  <label>{{ i18n "form_message" }}<textarea name="message" rows="5" required></textarea></label>
+  <input name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <label class="chk"><input type="checkbox" name="privacy" required> <span>{{ i18n "form_privacy" }} <a href="{{ "/privacy/" | relLangURL }}">{{ i18n "privacy" }}</a></span></label>
+  <button class="btn" type="submit">{{ i18n "form_send" }}</button>
+  {{ if not site.Params.formEndpoint }}<p class="note">{{ i18n "form_mailto_note" }}</p>{{ end }}
+  <p class="msg" role="status" aria-live="polite"></p>
+</form>
+{{ $js := resources.Get "js/form.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" defer></script>

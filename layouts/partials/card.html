@@ -1,0 +1,1 @@
+<li class="card"><a href="{{ .RelPermalink }}"><span class="kicker">{{ range .Params.categories }}{{ i18n (printf "cat_%s" .) }}{{ end }}</span><strong>{{ .Title }}</strong><span class="desc">{{ .Description }}</span></a></li>

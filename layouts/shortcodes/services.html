@@ -1,0 +1,4 @@
+{{ $l := site.Language.Lang }}
+<div class="table-scroll"><table class="svc"><thead><tr><th>{{ if eq $l "it" }}Servizio incluso{{ else }}Included service{{ end }}</th><th>{{ if eq $l "it" }}Offerto anche da{{ else }}Also offered by{{ end }}</th></tr></thead><tbody>
+{{ range hugo.Data.services }}<tr><td>✓ {{ index . $l }}</td><td class="src">{{ replace .src "own" (cond (eq $l "it") "solo da noi" "only us") }}</td></tr>{{ end }}
+</tbody></table></div>

@@ -1,0 +1,26 @@
+079|Formazione e community tra soci|vantaggi
+080|Credibilità verso il cliente estero: contratto con un'organizzazione|vantaggi
+081|Come diventare socio: i passi dall'iscrizione al primo stipendio|guide
+082|La quota sociale: cos'è e quando si recupera|guide
+083|Come presentare la cooperativa al tuo cliente estero|guide
+084|Il contratto commerciale (commessa) con il cliente: cosa contiene|guide
+085|Come si calcola il costo per il cliente e il tuo stipendio|guide
+086|Fatturazione verso clienti UE ed extra UE: le regole IVA di base|guide
+087|Ho già la partita IVA: posso passare alla cooperativa?|guide
+088|Prestazione occasionale, cooperativa o partita IVA: come scegliere|guide
+089|Il regolamento interno della cooperativa di lavoro|guide
+090|Legge 142/2001 spiegata semplice|guide
+091|Clienti con contratti in inglese: cosa controllare|guide
+092|Come negoziare la tariffa con un cliente estero|guide
+093|Cosa succede se il cliente non paga|guide
+094|Lavorare con più clienti contemporaneamente come socio|guide
+095|Orari, autonomia e organizzazione del lavoro da remoto|guide
+096|Proprietà intellettuale: chi possiede il lavoro consegnato|guide
+097|Riservatezza e NDA con il cliente estero|guide
+098|Uscire dalla cooperativa: recesso e chiusura del rapporto|guide
+099|Dichiarazione dei redditi per il socio dipendente: 730 e CU|guide
+100|Errori comuni di chi lavora con clienti esteri senza struttura|guide
+101|Checklist: sei pronto a lavorare tramite cooperativa?|guide
+102|Professioni ordinistiche: quando la cooperativa non è la soluzione|guide
+103|Lavoro all'estero in trasferta: distacco e cosa sapere|guide
+104|Glossario della cooperativa di lavoro per freelance|guide

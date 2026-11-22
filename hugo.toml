@@ -1,0 +1,78 @@
+# Sito Tesla3000 Società Cooperativa
+# NOME: cambiare SOLO params.brandName (grafia Telsa/Tesla da confermare).
+baseURL = "https://example.org/"   # dominio da decidere
+title = "Tesla3000"
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  brandName = "Tesla3000"                 # <-- unico punto per il nome
+  legalSuffix = "Società Cooperativa"     # ragione sociale = brandName + legalSuffix
+  vatNumber = ""                          # P.IVA / C.F. da compilare
+  reaNumber = ""                          # REA e Albo cooperative da compilare
+  address = ""                            # sede legale da compilare
+  email = "info@example.org"              # email da definire con il dominio
+  whatsapp = ""                           # numero WhatsApp (formato 39XXXXXXXXXX)
+  formEndpoint = ""                       # URL POST del modulo; vuoto = fallback mailto
+  githubOrg = "tesla3000"
+
+[languages]
+  [languages.it]
+    label = "Italiano"
+    locale = "it-IT"
+    contentDir = "content/it"
+    weight = 1
+    [languages.it.params]
+      description = "Lavora con i tuoi clienti esteri senza partita IVA: diventi socio della cooperativa, vieni assunto con busta paga e noi gestiamo contratto, fatture e incassi."
+  [languages.en]
+    label = "English"
+    locale = "en"
+    contentDir = "content/en"
+    weight = 2
+    [languages.en.params]
+      description = "Work with your foreign clients without an Italian VAT number: become a member of the cooperative, get a payslip, and we handle contracts, invoices and collections."
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[sitemap]
+  changeFreq = "monthly"
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+
+[[languages.it.menus.main]]
+  name = "Come funziona"
+  url = "/come-funziona/"
+  weight = 1
+[[languages.it.menus.main]]
+  name = "Servizi e prezzi"
+  url = "/prezzi/"
+  weight = 2
+[[languages.it.menus.main]]
+  name = "Articoli"
+  url = "/articoli/"
+  weight = 3
+[[languages.it.menus.main]]
+  name = "Contatti"
+  url = "/contatti/"
+  weight = 4
+[[languages.en.menus.main]]
+  name = "How it works"
+  url = "/how-it-works/"
+  weight = 1
+[[languages.en.menus.main]]
+  name = "Services & pricing"
+  url = "/pricing/"
+  weight = 2
+[[languages.en.menus.main]]
+  name = "Articles"
+  url = "/articles/"
+  weight = 3
+[[languages.en.menus.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4

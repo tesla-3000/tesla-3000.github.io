@@ -1,0 +1,14 @@
+{{ $l := site.Language.Lang }}
+<footer class="foot">
+  <div class="wrap foot-in">
+    <div>
+      <p class="logo light"><img src="{{ "img/mark.svg" | relURL }}" alt="" width="32" height="32"><span>{{ site.Params.brandName }}</span></p>
+      <p>{{ site.Params.brandName }} {{ site.Params.legalSuffix }}{{ with site.Params.address }} · {{ . }}{{ end }}<br>
+      {{ with site.Params.vatNumber }}P.IVA {{ . }}{{ else }}{{ i18n "footer_legal" }}{{ end }}{{ with site.Params.reaNumber }} · {{ . }}{{ end }}</p>
+    </div>
+    <ul>
+      {{ range site.Menus.main }}<li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>{{ end }}
+      <li><a href="{{ (cond (eq $l "it") "/privacy/" "/privacy/") | relLangURL }}">{{ i18n "privacy" }}</a></li>
+    </ul>
+  </div>
+</footer>

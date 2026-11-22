@@ -1,0 +1,38 @@
+---
+title: "Home"
+description: "Work with foreign clients without an Italian VAT number: become a cooperative member, get a payslip and contributions, we handle contracts and invoices."
+translationKey: "home"
+kicker: "Worker cooperative for freelancers in Italy"
+headline: "Your client is abroad. Your payslip is in Italy."
+sub: "Become a member of the cooperative, get hired, and keep working for your clients as you do today. Client contract, invoices, collections, contributions and payroll are on us. No VAT number, no accountant."
+stepsTitle: "How it works, in four steps"
+steps:
+  - t: "Tell us about your work"
+    d: "Who the client is, what you do, what the contract is worth. We reply on WhatsApp or email."
+  - t: "Become a member"
+    d: "Subscribe the membership share and sign online."
+  - t: "We sign with your client"
+    d: "The cooperative signs the contract, in English if needed, and invoices the client."
+  - t: "Get paid monthly"
+    d: "A monthly payslip with INPS pension contributions, INAIL insurance, paid leave, sick pay and severance (TFR)."
+whoTitle: "For people working with foreign clients"
+who: ["Developers", "Designers", "Translators and interpreters", "Copywriters", "Data analysts", "Marketing and SEO", "Sales agents", "Musicians", "Actors and voice artists", "Photographers and video makers", "Online trainers", "Remote workers", "Digital nomads"]
+whoNote: "We do not handle professions reserved to members of a professional register (e.g. lawyers, doctors, engineers signing designs)."
+inclTitle: "Everything included, one fee"
+incl:
+  - "Commercial contract with your foreign client"
+  - "Invoices and collections, in USD, GBP or CHF too"
+  - "Employment, payslip, contributions and annual tax statement"
+  - "Salary on a fixed date even if the client pays late"
+  - "Expense and travel refunds"
+  - "Digital member platform and e-signature"
+  - "WhatsApp support with a named contact"
+priceLine: "of the billed amount, excl. VAT. No monthly fee. 15% below the market reference, with the math published."
+faq:
+  - q: "Do I need an Italian VAT number (partita IVA)?"
+    a: "No. The cooperative invoices your client and you are employed as a worker-member with a payslip."
+  - q: "Do I choose my clients and my rate?"
+    a: "Yes. You bring the client and agree the price; the cooperative signs the contract and handles the admin."
+  - q: "Do I need to live in Italy?"
+    a: "Usually yes. If you live abroad, tax residence and social security rules must be assessed case by case before starting."
+---
