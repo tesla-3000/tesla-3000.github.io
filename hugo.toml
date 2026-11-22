@@ -1,6 +1,6 @@
 # Sito Tesla3000 Società Cooperativa
 # NOME: "Tesla3000 Società Cooperativa" (confermato). Per cambiarlo: params.brandName.
-baseURL = "https://tesla3000.it/"
+baseURL = "https://tesla-3000.github.io/"   # provvisorio; poi https://tesla3000.it/ e static/CNAME
 title = "Tesla3000"
 defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = true
