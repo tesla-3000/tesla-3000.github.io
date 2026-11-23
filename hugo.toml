@@ -57,9 +57,13 @@ disableKinds = ["taxonomy", "term", "RSS"]
   url = "/articoli/"
   weight = 3
 [[languages.it.menus.main]]
+  name = "Cooperazione"
+  url = "/cooperazione/"
+  weight = 4
+[[languages.it.menus.main]]
   name = "Contatti"
   url = "/contatti/"
-  weight = 4
+  weight = 5
 [[languages.en.menus.main]]
   name = "How it works"
   url = "/how-it-works/"
@@ -73,6 +77,10 @@ disableKinds = ["taxonomy", "term", "RSS"]
   url = "/articles/"
   weight = 3
 [[languages.en.menus.main]]
+  name = "Cooperation"
+  url = "/cooperation/"
+  weight = 4
+[[languages.en.menus.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 4
+  weight = 5

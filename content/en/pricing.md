@@ -1,6 +1,6 @@
 ---
 title: "Services and pricing"
-description: "One package with every service: 8% of billed amount, 42.50 euro membership share, no monthly fee. 15% below the market reference, math included."
+description: "One package with every service: 8% of billed amount, 42.50 euro membership share, no monthly fee, no tiered plans."
 translationKey: "pricing"
 url: "/en/pricing/"
 faq:
@@ -13,7 +13,7 @@ faq:
 ---
 ## One package, everything in
 
-No basic and premium tiers. We took every service that worker cooperatives for freelancers offer in Italy and put them in one package. The right column shows which of the cooperatives we analysed offer the same service.
+No basic and premium tiers: one package with every service you need to work with your clients through the cooperative, under your own employment contract.
 
 {{< services >}}
 
@@ -21,15 +21,11 @@ No basic and premium tiers. We took every service that worker cooperatives for f
 
 {{< pricing >}}
 
-### How we set our prices
-
-1. We analysed the best-known Italian worker cooperatives for freelancers (November 2026).
-2. Only one publishes a full price list: 9.5% of the amount billed excl. VAT, a 50 euro membership share, a 50 euro annual contribution, no fixed fee. The others publish no prices, so we do not use them as a reference.
-3. We applied a 15% discount: 9.5% × 0.85 = 8.075%, rounded down to **8%**; 50 € × 0.85 = **42.50 €**.
+You pay a percentage only on what you bill your clients. No fixed fee: in months when you do not work you pay no service fee, and the annual contribution applies only in years you work with us.
 
 ### Example of the service fee
 
-On a contract worth 4,000 euro a month excl. VAT, our fee is 4,000 × 8% = **320 euro**. At the market reference it would be 4,000 × 9.5% = 380 euro. The remaining 3,680 euro is your activity budget, covering expenses, statutory contributions and taxes, and your salary.
+On a contract worth 4,000 euro a month excl. VAT, our fee is 4,000 × 8% = **320 euro**. The remaining 3,680 euro is your activity budget, covering expenses, statutory contributions and taxes, and your salary.
 
 Your net pay depends on contract, hours, expenses, municipality and family situation: we calculate it for your case before you sign.
 

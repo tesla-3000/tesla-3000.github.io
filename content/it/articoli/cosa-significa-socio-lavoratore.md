@@ -26,7 +26,7 @@ Per questo il socio ha una duplice posizione: partecipa alla vita dell'impresa e
 ## Cosa comporta essere socio
 
 - **Quota di capitale sociale.** Si sottoscrive una quota, rimborsabile all'uscita secondo lo statuto.
-- **Diritto di voto.** In assemblea ogni socio ha un voto, indipendentemente dalla quota.
+- **Partecipazione.** Ogni socio partecipa all'assemblea dei soci e ha accesso alle informazioni sulla cooperativa, indipendentemente dalla quota.
 - **Regolamento interno.** La cooperativa deve avere un regolamento, depositato come previsto dall'art. 6 della legge 142/2001, che disciplina l'organizzazione del lavoro.
 - **Mutualità.** La cooperativa lavora per dare ai soci opportunità di lavoro a condizioni favorevoli; se ci sono avanzi, può distribuire ristorni, senza garanzie sugli importi.
 
@@ -38,7 +38,7 @@ Il reddito da lavoro dipendente è soggetto a IRPEF progressiva con ritenute all
 
 ## Esempio: Sofia e le sue prime settimane
 
-Esempio: immaginiamo Sofia, grafica freelance che da anni fattura a clienti esteri. Decide di diventare socia. Sottoscrive la quota, legge il regolamento interno e firma il rapporto di lavoro. La cooperativa stipula il contratto commerciale con il suo cliente svizzero; Sofia registra le attività sulla piattaforma, scarica la prima busta paga e partecipa all'assemblea annuale, dove vota come tutti gli altri soci.
+Esempio: immaginiamo Sofia, grafica freelance che da anni fattura a clienti esteri. Decide di diventare socia. Sottoscrive la quota, legge il regolamento interno e firma il rapporto di lavoro. La cooperativa stipula il contratto commerciale con il suo cliente svizzero; Sofia registra le attività sulla piattaforma, scarica la prima busta paga e partecipa all'assemblea annuale, dove partecipa come tutti gli altri soci.
 
 All'inizio le sembra strano non emettere più fatture, poi capisce che il suo lavoro è lo stesso: cambia chi si occupa dell'amministrazione.
 

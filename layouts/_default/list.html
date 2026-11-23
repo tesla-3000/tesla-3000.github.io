@@ -3,7 +3,7 @@
   <h1>{{ .Title }}</h1>
   {{ with .Content }}<div class="prose narrow">{{ . }}</div>{{ end }}
   {{ $pages := .RegularPages.ByTitle }}
-  {{ $cats := cond (eq site.Language.Lang "it") (slice "casi-uso" "vantaggi" "guide") (slice "use-cases" "advantages" "guides") }}
+  {{ $cats := cond (eq site.Language.Lang "it") (slice "cooperazione" "scenari" "casi-uso" "vantaggi" "guide") (slice "cooperation" "scenarios" "use-cases" "advantages" "guides") }}
   {{ range $cats }}{{ $c := . }}
     {{ $sel := where $pages "Params.categories" "intersect" (slice $c) }}
     {{ with $sel }}<h2 id="{{ $c }}">{{ i18n (printf "cat_%s" $c) }} <small>({{ len . }})</small></h2><ul class="cards">{{ range . }}{{ partial "card.html" . }}{{ end }}</ul>{{ end }}

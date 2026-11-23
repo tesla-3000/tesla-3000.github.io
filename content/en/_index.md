@@ -27,7 +27,7 @@ incl:
   - "Expense and travel refunds"
   - "Digital member platform and e-signature"
   - "WhatsApp support with a named contact"
-priceLine: "of the billed amount, excl. VAT. No monthly fee. 15% below the market reference, with the math published."
+priceLine: "of the billed amount, excl. VAT. No monthly fee. One package with every service."
 faq:
   - q: "Do I need an Italian VAT number (partita IVA)?"
     a: "No. The cooperative invoices your client and you are employed as a worker-member with a payslip."

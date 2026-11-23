@@ -23,7 +23,7 @@ When people talk about cooperatives the word mutuality often appears, but it is 
 
 **Benefits go to members.** Services, protections and organisation are designed for those working in the cooperative: platform, support, training, insurance, invoicing and collection handled on members' behalf.
 
-**Democratic governance.** Each member has one vote in the assembly, regardless of capital quota, and takes part in the main decisions.
+**Participatory governance.** Every member takes part in the members' assembly, regardless of capital quota, and is informed about the main choices of the cooperative.
 
 ## What mutuality can give in practice
 
@@ -42,7 +42,7 @@ Example: imagine Lorenzo, a sound designer. At first he works alone with a Germa
 1. **Membership.** You become a member by subscribing the share capital quota, refundable on exit under the by-laws.
 2. **Employment relationship.** We define your classification and activity.
 3. **Services.** You access the platform, WhatsApp and email support, training, insurance and invoicing.
-4. **Assembly.** You take part in decisions with one vote.
+4. **Assembly.** You take part in the life of the cooperative through the members' assembly.
 5. **Accounts.** The assembly approves the accounts and decides on any surpluses.
 6. **Community.** You share experience and collaborations with other members.
 

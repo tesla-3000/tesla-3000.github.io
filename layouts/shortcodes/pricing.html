@@ -1,11 +1,8 @@
 {{ $l := site.Language.Lang }}{{ $p := hugo.Data.pricing }}
 {{ $labels := dict "it" (dict "fee" "Percentuale sul fatturato (IVA esclusa)" "share" "Quota sociale (una tantum, capitale)" "annual" "Contributo annuo (solo negli anni in cui lavori)" "monthly" "Canone mensile fisso") "en" (dict "fee" "Percentage of billed amount (excl. VAT)" "share" "Membership share (one-off, capital)" "annual" "Annual contribution (only in years you work)" "monthly" "Fixed monthly fee") }}
-<div class="table-scroll"><table class="price"><thead><tr><th></th><th>{{ i18n "pricing_ref" }}*</th><th>{{ site.Params.brandName }}</th><th>{{ if eq $l "it" }}Calcolo{{ else }}Math{{ end }}</th></tr></thead><tbody>
+<div class="table-scroll"><table class="price"><thead><tr><th></th><th>{{ site.Params.brandName }}</th></tr></thead><tbody>
 {{ range $p.items }}
 <tr><td>{{ index (index $labels $l) .key }}</td>
-<td>{{ if eq .unit "%" }}{{ lang.FormatNumber 1 .competitor }} %{{ else }}{{ lang.FormatNumber 2 .competitor }} €{{ end }}</td>
-<td class="ours">{{ if eq .unit "%" }}{{ lang.FormatNumber 1 .ours }} %{{ else }}{{ lang.FormatNumber 2 .ours }} €{{ end }}</td>
-<td class="math">{{ if eq .competitor 0 }}—{{ else }}{{ lang.FormatNumber 3 (mul .competitor 0.85) }} → {{ lang.FormatNumber 2 .ours }} (−{{ lang.FormatNumber 1 (mul (sub 1 (div .ours .competitor)) 100) }} %){{ end }}</td></tr>
+<td class="ours">{{ if eq .unit "%" }}{{ lang.FormatNumber 1 .value }} %{{ else if eq .value 0 }}{{ if eq $l "it" }}nessuno{{ else }}none{{ end }}{{ else }}{{ lang.FormatNumber 2 .value }} €{{ end }}</td></tr>
 {{ end }}
 </tbody></table></div>
-<p class="note">* {{ if eq $l "it" }}Unico listino pubblico trovato tra le cooperative analizzate{{ else }}The only public price list found among the cooperatives analysed{{ end }}: {{ $p.reference }}. {{ if eq $l "it" }}Prezzo nostro = riferimento × 0,85, arrotondato per difetto.{{ else }}Our price = reference × 0.85, rounded down.{{ end }}</p>

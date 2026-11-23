@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $isArt := in (slice "articoli" "articles") .Section }}
+{{ $isArt := in (slice "articoli" "articles" "cooperazione" "cooperation") .Section }}
 <article class="wrap narrow page">
   {{ if $isArt }}<p class="kicker">{{ range .Params.categories }}{{ i18n (printf "cat_%s" .) }}{{ end }}</p>{{ end }}
   <h1>{{ .Title }}</h1>

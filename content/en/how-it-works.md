@@ -11,7 +11,7 @@ faq:
 ---
 ## In short
 
-With {{< brand >}} you have two relationships with the cooperative: you are a **member** (you own part of it and vote) and a **worker** (you are employed and receive a payslip). This is the worker-member model set by Italian Law no. 142 of 3 April 2001.
+With {{< brand >}} you have two relationships with the cooperative: you are a **member** (you are part of it and take part in the members' assembly) and a **worker** (you are employed and receive a payslip). This is the worker-member model set by Italian Law no. 142 of 3 April 2001.
 
 Your client, in Italy or abroad, signs with the cooperative rather than with you. It receives a regular invoice and pays the cooperative, which then pays your salary, contributions, insurance and its own service fee.
 

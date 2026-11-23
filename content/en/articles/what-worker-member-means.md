@@ -26,7 +26,7 @@ That is why the member has a dual position: taking part in the life of the enter
 ## What being a member involves
 
 - **Share capital quota.** You subscribe a quota, refundable on exit according to the by-laws.
-- **Voting right.** At the assembly each member has one vote, regardless of quota.
+- **Participation.** Every member takes part in the members' assembly and has access to information on the cooperative, regardless of quota.
 - **Internal regulation.** The cooperative must have a regulation, filed as required by Article 6 of Law 142/2001, governing work organisation.
 - **Mutuality.** The cooperative works to give members work opportunities on favourable terms; if there are surpluses, it may distribute patronage refunds, with no guarantee on amounts.
 
@@ -38,7 +38,7 @@ Employment income is subject to progressive income tax with withholding at sourc
 
 ## Example: Sofia's first weeks
 
-Example: imagine Sofia, a freelance graphic designer who has invoiced foreign clients for years. She decides to become a member. She subscribes the quota, reads the internal regulation and signs the employment relationship. The cooperative signs the commercial contract with her Swiss client; Sofia logs activities on the platform, downloads her first payslip and takes part in the annual assembly, where she votes like every other member.
+Example: imagine Sofia, a freelance graphic designer who has invoiced foreign clients for years. She decides to become a member. She subscribes the quota, reads the internal regulation and signs the employment relationship. The cooperative signs the commercial contract with her Swiss client; Sofia logs activities on the platform, downloads her first payslip and takes part in the annual assembly, where she takes part like every other member.
 
 At first it feels odd not to issue invoices any more; then she realises her work is the same: what changes is who handles the administration.
 

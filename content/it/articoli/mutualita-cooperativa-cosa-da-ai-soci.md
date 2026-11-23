@@ -23,7 +23,7 @@ Quando si parla di cooperative compare spesso la parola mutualità, ma non sempr
 
 **I vantaggi vanno ai soci.** Servizi, tutele e organizzazione sono pensati per chi lavora nella cooperativa: piattaforma, supporto, formazione, assicurazioni, fatturazione e incasso gestiti per conto dei soci.
 
-**Governo democratico.** Ogni socio ha un voto in assemblea, indipendentemente dalla quota di capitale, e partecipa alle decisioni principali.
+**Governo partecipato.** Ogni socio partecipa all'assemblea dei soci, indipendentemente dalla quota di capitale, ed è informato sulle scelte principali della cooperativa.
 
 ## Cosa può dare la mutualità in pratica
 
@@ -42,7 +42,7 @@ Esempio: immaginiamo Lorenzo, sound designer. All'inizio lavora da solo con un c
 1. **Adesione.** Diventi socio sottoscrivendo la quota di capitale sociale, rimborsabile all'uscita secondo statuto.
 2. **Rapporto di lavoro.** Definiamo il tuo inquadramento e la tua attività.
 3. **Servizi.** Accedi a piattaforma, supporto WhatsApp ed email, formazione, assicurazioni e fatturazione.
-4. **Assemblea.** Partecipi alle decisioni con un voto.
+4. **Assemblea.** Partecipi alla vita della cooperativa attraverso l'assemblea dei soci.
 5. **Bilancio.** L'assemblea approva il bilancio e decide su eventuali avanzi.
 6. **Community.** Condividi esperienze e collaborazioni con gli altri soci.
 

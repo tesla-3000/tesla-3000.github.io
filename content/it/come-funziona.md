@@ -13,7 +13,7 @@ faq:
 ---
 ## In breve
 
-Con {{< brand >}} hai due rapporti con la cooperativa: sei **socio** (ne fai parte, voti in assemblea) e sei **lavoratore** (vieni assunto e ricevi la busta paga). È lo schema previsto dalla legge 3 aprile 2001 n. 142 sul socio lavoratore di cooperativa.
+Con {{< brand >}} hai due rapporti con la cooperativa: sei **socio** (ne fai parte e partecipi all'assemblea dei soci) e sei **lavoratore** (vieni assunto e ricevi la busta paga). È lo schema previsto dalla legge 3 aprile 2001 n. 142 sul socio lavoratore di cooperativa.
 
 Il tuo cliente, in Italia o all'estero, non firma con te ma con la cooperativa: riceve una fattura regolare e paga la cooperativa. Con quell'importo la cooperativa paga il tuo stipendio, i contributi, le assicurazioni e la propria quota di servizio.
 

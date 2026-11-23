@@ -1,21 +1,14 @@
-# Prezzi Tesla3000 = riferimento competitor x 0,85 (15% in meno), arrotondati per difetto.
-# Fonte: research/competitors-2026-11.md e research/pricing-2026-11.md
-reference: "Smart (SmartIT), smartit.coop/smart-faq/, consultato 2026-11-22"
-discount: 0.15
+# Listino Tesla3000.
 items:
   - key: fee
-    competitor: 9.5
-    ours: 8.0
+    value: 8.0
     unit: "%"
   - key: share
-    competitor: 50
-    ours: 42.5
+    value: 42.5
     unit: "€"
   - key: annual
-    competitor: 50
-    ours: 42.5
+    value: 42.5
     unit: "€"
   - key: monthly
-    competitor: 0
-    ours: 0
+    value: 0
     unit: "€"
