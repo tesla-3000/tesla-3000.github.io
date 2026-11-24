@@ -13,7 +13,7 @@ faq:
 ---
 ## One package, everything in
 
-No basic and premium tiers: one package with every service you need to work with your clients through the cooperative, under your own employment contract.
+No basic and premium tiers: one package with every service you need to work with your clients through the cooperative, under your own employment contract. A few extra services, useful only in some cases, are available on request: any cost is quoted upfront.
 
 {{< services >}}
 

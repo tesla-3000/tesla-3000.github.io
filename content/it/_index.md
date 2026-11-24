@@ -27,7 +27,9 @@ incl:
   - "Rimborsi spese e trasferte"
   - "Piattaforma digitale del socio e firma online"
   - "Supporto WhatsApp con un referente"
-priceLine: "del fatturato, IVA esclusa. Nessun canone mensile. Un solo pacchetto con tutti i servizi."
+  - "Recupero crediti, RC professionale e tutela legale"
+  - "Formazione, community e team di progetto tra soci"
+priceLine: "del fatturato, IVA esclusa. Nessun canone mensile. Un solo pacchetto con tutti i servizi essenziali."
 faq:
   - q: "Devo aprire la partita IVA?"
     a: "No. Fattura la cooperativa e tu sei assunto come socio lavoratore con busta paga."

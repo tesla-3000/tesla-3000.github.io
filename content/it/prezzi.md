@@ -13,7 +13,7 @@ faq:
 ---
 ## Un pacchetto, tutto dentro
 
-Non ci sono piani base e piani premium: un solo pacchetto con tutti i servizi che servono per lavorare con i tuoi clienti tramite la cooperativa, con il tuo contratto di lavoro.
+Non ci sono piani base e piani premium: un solo pacchetto con tutti i servizi che servono per lavorare con i tuoi clienti tramite la cooperativa, con il tuo contratto di lavoro. Alcuni servizi in più, utili solo in certi casi, li attivi su richiesta: il costo, se c'è, te lo indichiamo prima.
 
 {{< services >}}
 

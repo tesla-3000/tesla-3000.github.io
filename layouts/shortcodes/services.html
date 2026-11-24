@@ -1,4 +1,6 @@
-{{ $l := site.Language.Lang }}
-<div class="table-scroll"><table class="svc"><thead><tr><th>{{ if eq $l "it" }}Servizio incluso{{ else }}Included service{{ end }}</th></tr></thead><tbody>
-{{ range hugo.Data.services }}<tr><td>✓ {{ index . $l }}</td></tr>{{ end }}
-</tbody></table></div>
+{{ $l := site.Language.Lang }}{{ $it := eq $l "it" }}
+<p class="note">✓ {{ if $it }}incluso nel pacchetto{{ else }}included in the package{{ end }} · ○ {{ if $it }}su richiesta, costo su richiesta{{ else }}on request, price on request{{ end }}</p>
+{{ range hugo.Data.services }}<h3>{{ index .cat $l }}</h3>
+<div class="table-scroll"><table class="svc"><thead><tr><th>{{ if $it }}Servizio{{ else }}Service{{ end }}</th><th>{{ if $it }}Condizione{{ else }}Terms{{ end }}</th></tr></thead><tbody>
+{{ range .items }}<tr><td>{{ if .inc }}✓{{ else }}○{{ end }} {{ index . $l }}</td><td>{{ if .inc }}{{ if $it }}Incluso{{ else }}Included{{ end }}{{ else }}{{ if $it }}Su richiesta{{ else }}On request{{ end }}{{ end }}</td></tr>{{ end }}
+</tbody></table></div>{{ end }}

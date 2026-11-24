@@ -1,35 +1,53 @@
-# Servizi inclusi nel pacchetto unico.
-- it: "Contratto commerciale (commessa) con il tuo cliente, anche estero e in inglese"
-  en: "Commercial contract with your client, foreign clients and English contracts included"
-- it: "Fatturazione al cliente a nome della cooperativa: niente partita IVA personale"
-  en: "Invoicing the client in the cooperative's name: no personal VAT number"
-- it: "Incasso dei pagamenti, anche in valuta estera"
-  en: "Collecting payments, foreign currencies included"
-- it: "Assunzione come socio lavoratore, busta paga, contributi INPS, INAIL, CU"
-  en: "Employment as a worker-member: payslip, INPS pension contributions, INAIL insurance, annual CU tax statement"
-- it: "Stipendio a data fissa (il 10 del mese successivo) anche se il cliente paga in ritardo, tramite fondo mutualistico"
-  en: "Salary on a fixed date (the 10th of the following month) even if the client pays late, through a mutual fund"
-- it: "Rimborso spese professionali e trasferte, con recupero IVA"
-  en: "Refunds of professional and travel expenses, with VAT recovery"
-- it: "Budget di attività consultabile online"
-  en: "Online view of your activity budget"
-- it: "Piattaforma digitale del socio: commesse, attività, note spese, buste paga, documenti e firma online"
-  en: "Digital member platform: contracts, activity, expenses, payslips, documents and e-signature"
-- it: "Supporto WhatsApp ed email con un referente"
-  en: "WhatsApp and email support with a named contact"
-- it: "Clienti esteri: contratti, fatture e regole IVA gestiti dalla cooperativa"
-  en: "Foreign clients: contracts, invoices and VAT rules handled by the cooperative"
-- it: "Formazione obbligatoria sulla sicurezza gratuita e altri corsi"
-  en: "Free mandatory safety training and other courses"
-- it: "Consulenza di base su contratti, tariffe e organizzazione del lavoro"
-  en: "Basic advice on contracts, rates and work organisation"
-- it: "Assicurazione RC professionale e tutela legale sulle commesse"
-  en: "Professional liability insurance and legal protection on contracts"
-- it: "Incontro informativo gratuito prima di associarti"
-  en: "Free information session before you join"
-- it: "Community dei soci, eventi e collaborazione tra professionisti"
-  en: "Member community, events and collaboration between professionals"
-- it: "Supporto per avviare progetti e team tra soci"
-  en: "Support to start projects and teams among members"
-- it: "Percorso verso la partita IVA, se un giorno vorrai aprirla"
-  en: "A path to your own VAT number, if one day you want one"
+# Servizi ai soci, per categoria. inc: true = incluso nel pacchetto; false = su richiesta.
+# Costi dei servizi su richiesta: non presenti in pricing.yaml, quindi "su richiesta".
+- cat: {it: "Amministrazione e fatturazione", en: "Administration and invoicing"}
+  items:
+    - {inc: true, it: "Contratto di servizio con il tuo cliente, anche estero e in inglese: oggetto, consegne, prezzo a corpo, per fase o continuativo", en: "Service contract with your client, foreign and English-language included: scope, deliverables, fixed, phased or retainer price"}
+    - {inc: true, it: "Preventivi e offerte preparati con te, a nome della cooperativa", en: "Quotes and proposals prepared with you, in the cooperative's name"}
+    - {inc: true, it: "Fatturazione elettronica al cliente a nome della cooperativa: niente partita IVA personale", en: "E-invoicing the client in the cooperative's name: no personal VAT number"}
+    - {inc: true, it: "Clienti esteri: regole IVA, fatture in lingua e adempimenti gestiti dalla cooperativa", en: "Foreign clients: VAT rules, invoices in their language and filings handled by the cooperative"}
+    - {inc: true, it: "Contabilità della tua attività e budget consultabile online", en: "Bookkeeping of your activity and an online view of your budget"}
+    - {inc: false, it: "Iscrizione ai portali degli acquisti pubblici e supporto per gare e bandi", en: "Registration on public procurement portals and support with tenders and calls"}
+    - {inc: false, it: "Pratiche per eventi e spettacolo (agibilità, diritti d'autore e simili)", en: "Paperwork for events and live shows (performance permits, copyright filings and similar)"}
+- cat: {it: "Contratto e tutele", en: "Employment and protection"}
+  items:
+    - {inc: true, it: "Assunzione come socio lavoratore con contratto collettivo, busta paga, contributi INPS, INAIL e CU", en: "Employment as a worker-member under a collective agreement: payslip, INPS contributions, INAIL insurance, annual CU tax statement"}
+    - {inc: true, it: "Malattia, maternità e paternità, infortuni, ferie e TFR come ogni dipendente", en: "Sick pay, parental leave, injury cover, paid holiday and severance pay like any employee"}
+    - {inc: true, it: "Sicurezza sul lavoro: valutazione dei rischi, visite mediche quando previste, dispositivi di protezione", en: "Health and safety: risk assessment, medical checks when required, protective equipment"}
+    - {inc: false, it: "Assistenza per l'indennità di disoccupazione nei periodi senza lavoro", en: "Help applying for unemployment benefit between engagements"}
+- cat: {it: "Pagamenti e anticipi", en: "Payments and advances"}
+  items:
+    - {inc: true, it: "Incasso dei pagamenti, anche in dollari, sterline, franchi e altre valute", en: "Collecting payments, including USD, GBP, CHF and other currencies"}
+    - {inc: true, it: "Stipendio a data fissa (il 10 del mese successivo) anche se il cliente paga in ritardo, tramite fondo mutualistico", en: "Salary on a fixed date (the 10th of the following month) even if the client pays late, through a mutual fund"}
+    - {inc: true, it: "Rimborso spese professionali e trasferte, con recupero IVA", en: "Refunds of professional and travel expenses, with VAT recovery"}
+    - {inc: true, it: "Solleciti e recupero dei crediti verso i clienti che non pagano", en: "Payment reminders and debt recovery from clients who do not pay"}
+    - {inc: false, it: "Anticipo dei compensi su commesse firmate, secondo le regole del fondo", en: "Advance on pay for signed contracts, under the fund's rules"}
+- cat: {it: "Assicurazioni", en: "Insurance"}
+  items:
+    - {inc: true, it: "Assicurazione RC professionale sulle commesse", en: "Professional liability insurance on contracts"}
+    - {inc: true, it: "Tutela legale nelle contestazioni con i clienti", en: "Legal protection in disputes with clients"}
+    - {inc: false, it: "Coperture aggiuntive per attrezzature, viaggi o rischi informatici, a condizioni di gruppo", en: "Extra cover for equipment, travel or cyber risks, at group rates"}
+- cat: {it: "Formazione", en: "Training"}
+  items:
+    - {inc: true, it: "Formazione obbligatoria sulla sicurezza, gratuita", en: "Free mandatory safety training"}
+    - {inc: true, it: "Incontri periodici su contratti, fiscalità del lavoro, clienti esteri e privacy", en: "Regular sessions on contracts, employment tax, foreign clients and data protection"}
+    - {inc: false, it: "Corsi professionali e di sicurezza informatica, anche con fondi per la formazione dei dipendenti", en: "Professional and cybersecurity courses, also through employee training funds"}
+- cat: {it: "Strumenti digitali", en: "Digital tools"}
+  items:
+    - {inc: true, it: "Piattaforma del socio: commesse, attività e consegne, note spese, buste paga, documenti", en: "Member platform: contracts, activity and deliverables, expenses, payslips, documents"}
+    - {inc: true, it: "Firma elettronica di contratti e documenti", en: "E-signature for contracts and documents"}
+    - {inc: true, it: "Modelli di contratto per proprietà intellettuale, licenze, riservatezza e trattamento dei dati", en: "Contract templates for intellectual property, licensing, confidentiality and data processing"}
+    - {inc: false, it: "Pagina profilo e portfolio del socio sul sito della cooperativa", en: "Member profile and portfolio page on the cooperative's website"}
+- cat: {it: "Community e spazi", en: "Community and spaces"}
+  items:
+    - {inc: true, it: "Community dei soci, eventi e scambio di competenze", en: "Member community, events and skill sharing"}
+    - {inc: true, it: "Supporto per creare team di progetto tra soci e rispondere insieme a commesse più grandi", en: "Support to form project teams among members and take on larger contracts together"}
+    - {inc: false, it: "Spazi di lavoro, sale riunioni e attrezzature in condivisione o in convenzione", en: "Shared or partner workspaces, meeting rooms and equipment"}
+    - {inc: false, it: "Accompagnamento di nuovi progetti e prodotti nati dai soci", en: "Mentoring for new projects and products started by members"}
+- cat: {it: "Consulenza", en: "Advice"}
+  items:
+    - {inc: true, it: "Incontro informativo gratuito e calcolo dello stipendio sul tuo caso prima di associarti", en: "Free information session and pay calculation for your case before you join"}
+    - {inc: true, it: "Referente dedicato via WhatsApp ed email", en: "Named contact via WhatsApp and email"}
+    - {inc: true, it: "Consulenza di base su contratti, tariffe, prezzo del servizio e organizzazione del lavoro", en: "Basic advice on contracts, rates, service pricing and work organisation"}
+    - {inc: false, it: "Consulenza personalizzata su posizionamento, offerta commerciale e sviluppo dei clienti", en: "Tailored advice on positioning, commercial offer and client development"}
+    - {inc: false, it: "Percorso verso la partita IVA, se un giorno vorrai aprirla", en: "A path to your own VAT number, if one day you want one"}
