@@ -1,6 +1,6 @@
 ---
 title: "Un anno da socio lavoratore, mese per mese"
-description: "Dall'ammissione alla revisione di fine anno: cosa succede davvero in dodici mesi da socio lavoratore, tra commesse, presenze, buste paga, spese, ferie, CU e 730."
+description: "Dall'ammissione alla revisione di fine anno: cosa succede davvero in dodici mesi da socio lavoratore, tra commesse, attività, buste paga, spese, ferie, CU e 730."
 date: 2026-11-23
 slug: "un-anno-da-socio-mese-per-mese"
 translationKey: "c-022"
@@ -8,7 +8,7 @@ categories: ["scenari"]
 tags: ["socio-lavoratore", "busta-paga", "730", "ferie", "calendario"]
 faq:
   - q: "Ogni quanto ricevo la busta paga?"
-    a: "Ogni mese, sulla base delle presenze e delle attività registrate e secondo il contratto di lavoro. Nella piattaforma del socio trovi buste paga e documenti."
+    a: "Ogni mese, sulla base delle attività registrate e secondo il contratto di lavoro. Nella piattaforma del socio trovi buste paga e documenti."
   - q: "Devo fare la dichiarazione dei redditi?"
     a: "La cooperativa rilascia la Certificazione Unica. Se hai solo redditi da lavoro dipendente e nessuna spesa da detrarre potresti non doverla presentare, ma in molti casi conviene il 730: va valutato caso per caso."
   - q: "La tredicesima è sempre prevista?"
@@ -35,7 +35,7 @@ Ogni giorno, o a fine settimana, Giulia registra attività e ore sulla piattafor
 
 ## Aprile: la seconda commessa e le spese
 
-Lo studio danese chiede un lavoro di revisione per tre mesi. Si aggiunge una seconda commessa: Giulia ora registra le ore su due progetti. Ad aprile partecipa a una fiera a Bruxelles su richiesta dell'editore: carica biglietti e ricevute come note spese, che vengono rimborsate secondo il regolamento. Vedi [rimborsi spese](/it/articoli/rimborsi-spese-trasferta-attrezzatura/).
+Lo studio danese chiede un lavoro di revisione per tre mesi. Si aggiunge una seconda commessa: Giulia ora registra le attività su due progetti. Ad aprile partecipa a una fiera a Bruxelles su richiesta dell'editore: carica biglietti e ricevute come note spese, che vengono rimborsate secondo il regolamento. Vedi [rimborsi spese](/it/articoli/rimborsi-spese-trasferta-attrezzatura/).
 
 ## Maggio e giugno: CU e 730
 
@@ -65,7 +65,7 @@ Se il contratto collettivo e il contratto individuale la prevedono, a dicembre a
 
 1. **Ammissione e contratto.** Quota sociale, statuto, regolamento e contratto di lavoro.
 2. **Commesse.** Ogni cliente firma un contratto commerciale con la cooperativa.
-3. **Ogni mese.** Registri ore e spese; la cooperativa fattura, incassa e prepara la busta paga.
+3. **Ogni mese.** Registri attività e spese; la cooperativa fattura, incassa e prepara la busta paga.
 4. **Ogni anno.** Ricevi la CU, valuti il 730, maturano ferie e TFR.
 5. **Sempre.** Supporto via WhatsApp ed email e una community di soci con cui confrontarti.
 

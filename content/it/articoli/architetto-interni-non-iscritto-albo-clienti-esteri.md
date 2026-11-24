@@ -39,7 +39,7 @@ Da socio (legge 142/2001) hai con la cooperativa un rapporto di lavoro con contr
 
 ## Esempio
 
-Esempio: immaginiamo Marta, interior designer di Verona senza iscrizione all'albo, a cui una coppia di Lisbona chiede il design degli interni di un appartamento ristrutturato. La commessa riguarda concept, selezione di arredi e finiture, render e sourcing in Italia. Un architetto portoghese firma gli atti tecnici locali. Marta registra le giornate sulla piattaforma e riceve la busta paga mensile; la cooperativa fattura al cliente. Personaggio di fantasia.
+Esempio: immaginiamo Marta, interior designer di Verona senza iscrizione all'albo, a cui una coppia di Lisbona chiede il design degli interni di un appartamento ristrutturato. La commessa riguarda concept, selezione di arredi e finiture, render e sourcing in Italia. Un architetto portoghese firma gli atti tecnici locali. Marta registra le attività sulla piattaforma e riceve la busta paga mensile; la cooperativa fattura al cliente. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

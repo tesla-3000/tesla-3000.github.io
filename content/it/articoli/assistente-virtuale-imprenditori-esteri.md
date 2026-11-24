@@ -37,7 +37,7 @@ L'accordo più frequente è un **pacchetto mensile di ore** (per esempio venti o
 
 ## Esempio: tre imprenditori, un'unica busta paga
 
-*Esempio di fantasia.* Immaginiamo Giulia, ex segretaria di direzione. Ha tre clienti: una consulente canadese (20 ore al mese), un agente immobiliare tedesco (30 ore) e un piccolo studio di architettura londinese (10 ore). Con la partita IVA dovrebbe emettere tre fatture ogni mese in tre valute. Con la cooperativa, ciascun cliente firma una commessa con {{< brand >}}, Giulia registra le ore di ciascuna sulla piattaforma e riceve una busta paga unica. Il cliente sa chi paga, e lei non tiene la contabilità.
+*Esempio di fantasia.* Immaginiamo Giulia, ex segretaria di direzione. Ha tre clienti: una consulente canadese (20 ore al mese), un agente immobiliare tedesco (30 ore) e un piccolo studio di architettura londinese (10 ore). Con la partita IVA dovrebbe emettere tre fatture ogni mese in tre valute. Con la cooperativa, ciascun cliente firma una commessa con {{< brand >}}, Giulia registra le attività di ciascuna sulla piattaforma e riceve una busta paga unica. Il cliente sa chi paga, e lei non tiene la contabilità.
 
 ## Come lavorare bene con più imprenditori
 
@@ -48,7 +48,7 @@ Prepara per ciascun cliente una scheda con preferenze, tono delle email, orari i
 1. **Analisi**: elenchiamo clienti, ore e valute.
 2. **Adesione** del socio con quota di capitale sociale rimborsabile all'uscita (L. 142/2001).
 3. **Commesse separate** per ogni imprenditore, con pacchetto di ore e riservatezza.
-4. **Registro ore** sulla piattaforma: il cliente può verificare quanto lavorato.
+4. **Registro attività** sulla piattaforma: il cliente riceve un riepilogo dei servizi svolti.
 5. **Fatturazione**: la cooperativa emette fatture ai clienti esteri secondo le regole B2B da verificare caso per caso, anche in valuta.
 6. **Busta paga** mensile con contributi, INAIL e RC professionale; **anticipo** disponibile se un cliente ritarda.
 

@@ -4,7 +4,7 @@ description: "Work with foreign clients without an Italian VAT number: become a 
 translationKey: "home"
 kicker: "Worker cooperative for freelancers in Italy"
 headline: "Your client is abroad. Your payslip is in Italy."
-sub: "Become a member of the cooperative, get hired, and keep working for your clients as you do today. Client contract, invoices, collections, contributions and payroll are on us. No VAT number, no accountant."
+sub: "Become a member of the cooperative, get hired, and keep working for your clients as you do today. The cooperative signs a service contract with the client and is accountable for it; you organise the work independently. Invoices, collections, contributions and payroll are on us. No VAT number, no accountant."
 stepsTitle: "How it works, in four steps"
 steps:
   - t: "Tell us about your work"

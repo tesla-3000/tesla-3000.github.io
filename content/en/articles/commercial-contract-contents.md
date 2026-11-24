@@ -10,7 +10,7 @@ faq:
   - q: "Who signs the commercial contract?"
     a: "The cooperative and the client. The member is not a party to the commercial contract but follows its scope when carrying out the work."
   - q: "Can I ask for changes to the contract?"
-    a: "Yes, before signing: the member in practice negotiates working conditions and rate, which the cooperative turns into the contract. Some standard clauses may have limited room for change."
+    a: "Yes, before signing: the member in practice defines scope, deliverables and price of the service, which the cooperative turns into the contract. Some standard clauses may have limited room for change."
   - q: "What language is the contract in?"
     a: "Often Italian or English, depending on the client. If it is in a language you do not master, have the main points explained before proceeding."
 ---
@@ -30,10 +30,10 @@ Describes the service: activities, expected results, any exclusions. A vague sco
 Start date, end date, how renewal works, notice of termination for both parties.
 
 ### Fee and invoicing
-Rate (hourly, daily, fixed), currency, invoicing frequency, payment terms, any late-payment interest. For foreign clients, invoicing details and VAT treatment must be checked case by case.
+A fixed price, a price per phase or a retainer for defined services; hourly or daily rates only where they are the norm in the field (for example interpreting or events) and for defined services, or to price changes. Then currency, invoicing frequency, payment terms, any late-payment interest. For foreign clients, invoicing details and VAT treatment must be checked case by case.
 
 ### How the work is performed
-Place of work (remote, at the client's site), tools, availability, meetings, contact people. Note: it describes organisation, and should not be read as unlimited power of direction.
+The service is organised by the member and the cooperative, with their own tools. The client names a contact person who provides requirements, approves deliveries and agrees meeting windows; the client does not direct the work or give orders as it would to its own employee. Work at the client's premises is limited to what is necessary and occasional (installations, workshops, events).
 
 ### Confidentiality and intellectual property
 Confidentiality duties, use of results, ownership of what is produced. These clauses directly involve the member.
@@ -49,15 +49,15 @@ Which expenses are reimbursable, with what documents and limits.
 
 ## Example: Elena, data analyst
 
-A fictional example: Elena does data analysis for a British company. The agreement provides for 80 hours a month, an agreed hourly rate, delivery of a monthly report, invoicing at month end with payment at 30 days, confidentiality on the data and ownership of reports by the client. Elena notices the scope does not say who supplies the software tools: she flags it before signing and the clause is added. Without that reading, the doubt would have surfaced in the first month.
+A fictional example: Elena does data analysis for a British company. The agreement provides for a monthly fee for an analysis report with defined contents, one revision per report, invoicing at month end with payment at 30 days, confidentiality on the data and ownership of reports by the client. Elena notices the scope does not say who supplies the software tools: she flags it before signing and the clause is added. Without that reading, the doubt would have surfaced in the first month.
 
 ## How it works with the cooperative
 
 1. **Collecting terms.** The member tells {{< brand >}} the terms agreed with the client.
 2. **Draft agreement.** The cooperative prepares the contract (or adapts the client's) and shares it with the member.
-3. **Reading and comments.** The member checks that scope, timing and rate reflect the deal and flags changes.
+3. **Reading and comments.** The member checks that scope, deliverables, timing and price reflect the deal and flags changes.
 4. **Negotiation with the client.** The cooperative handles critical clauses.
-5. **Signature and start.** Once signed, work is recorded on the platform.
+5. **Signature and start.** Once signed, activities and deliveries are recorded on the platform.
 
 ## What to check
 

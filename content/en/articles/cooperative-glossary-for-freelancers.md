@@ -47,7 +47,7 @@ Anyone coming from the VAT-number world meets a new vocabulary in a cooperative.
 
 ## P-R
 
-**Platform.** The digital system in which the member records hours and activities, uploads expense claims, and consults payslips and documents.
+**Platform.** The digital system in which the member records activities and deliveries, uploads expense claims, and consults payslips and documents.
 
 **Share capital (quota sociale).** Capital the member subscribes on joining; refundable on leaving under the by-laws.
 

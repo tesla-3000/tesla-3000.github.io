@@ -45,7 +45,7 @@ La cooperativa firma la commessa con lo studio e fattura. Per clienti UE di norm
 
 ## Esempio
 
-Esempio: immaginiamo Tommaso, sound designer di Bergamo, ingaggiato da uno studio indie di Helsinki per un gioco d'avventura: 450 effetti, ambience per sei livelli e implementazione in FMOD, in quattro mesi. La commessa prevede pagamenti per milestone e una quota mensile minima. Tommaso registra le giornate sulla piattaforma e riceve la busta paga; la cooperativa fattura allo studio. Personaggio di fantasia.
+Esempio: immaginiamo Tommaso, sound designer di Bergamo, ingaggiato da uno studio indie di Helsinki per un gioco d'avventura: 450 effetti, ambience per sei livelli e implementazione in FMOD, in quattro mesi. La commessa prevede pagamenti per milestone e una quota mensile minima. Tommaso registra le attività sulla piattaforma e riceve la busta paga; la cooperativa fattura allo studio. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

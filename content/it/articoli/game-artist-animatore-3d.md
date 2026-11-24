@@ -44,7 +44,7 @@ La cooperativa firma la commessa con lo studio e fattura. Per clienti UE di norm
 
 ## Esempio
 
-Esempio: immaginiamo Chiara, character artist di Roma, ingaggiata da uno studio di Montréal per sei personaggi di un gioco d'azione: modelli, texture e rig, a milestone, in cinque mesi. La commessa prevede due giri di revisione per personaggio e NDA con possibilità di portfolio dopo la pubblicazione. La cooperativa fattura per milestone; Chiara registra le giornate sulla piattaforma e riceve la busta paga mensile. Personaggio di fantasia.
+Esempio: immaginiamo Chiara, character artist di Roma, ingaggiata da uno studio di Montréal per sei personaggi di un gioco d'azione: modelli, texture e rig, a milestone, in cinque mesi. La commessa prevede due giri di revisione per personaggio e NDA con possibilità di portfolio dopo la pubblicazione. La cooperativa fattura per milestone; Chiara registra le attività sulla piattaforma e riceve la busta paga mensile. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

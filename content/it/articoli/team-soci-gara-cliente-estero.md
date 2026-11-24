@@ -37,7 +37,7 @@ Il team prepara la proposta: Chiara coordina, Paolo stima i contenuti, Sara le o
 4. **Stima e proposta.** Il team prepara tempi e costi; la cooperativa rivede condizioni, fatturazione e pagamento.
 5. **Invio.** L'offerta viene presentata dalla cooperativa.
 6. **Aggiudicazione e commessa.** Se si vince, si firma il contratto commerciale e ogni socio ha il suo rapporto di lavoro.
-7. **Esecuzione.** Attività e presenze si registrano sulla piattaforma; la cooperativa fattura e incassa.
+7. **Esecuzione.** Attività e consegne si registrano sulla piattaforma; la cooperativa fattura e incassa.
 
 ## Aspetti pratici
 

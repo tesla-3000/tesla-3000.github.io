@@ -37,7 +37,7 @@ The team prepares the proposal: Chiara coordinates, Paolo estimates content, Sar
 4. **Estimate and proposal.** The team prepares time and cost; the cooperative reviews terms, invoicing and payment.
 5. **Submission.** The offer is submitted by the cooperative.
 6. **Award and engagement.** If you win, the commercial contract is signed and each member has their employment relationship.
-7. **Delivery.** Activities and attendance are logged on the platform; the cooperative invoices and collects.
+7. **Delivery.** Activities and deliveries are logged on the platform; the cooperative invoices and collects.
 
 ## Practical points
 

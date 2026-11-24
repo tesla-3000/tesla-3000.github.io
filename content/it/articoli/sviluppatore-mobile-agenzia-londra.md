@@ -10,7 +10,7 @@ faq:
   - q: "Chi possiede gli account developer di Apple e Google?"
     a: "Di norma il cliente finale o l'agenzia. Non pubblicare mai app con il tuo account personale se non è concordato in contratto."
   - q: "Come si pagano gli sviluppi a sprint?"
-    a: "La commessa può prevedere tariffa giornaliera o mensile con fatturazione per sprint, con tempi di approvazione definiti."
+    a: "La commessa può prevedere un prezzo per sprint o per milestone, con criteri e tempi di approvazione definiti."
   - q: "La cooperativa fattura in sterline?"
     a: "Sì, può fatturare e incassare in valuta. Il tuo compenso in busta paga resta in euro."
 ---
@@ -40,7 +40,7 @@ La cooperativa firma la commessa con l'agenzia e fattura in sterline. Dopo la Br
 
 ## Esempio
 
-Esempio: immaginiamo Nicola, sviluppatore Flutter di Lecce, ingaggiato da un'agenzia di Londra per sviluppare un'app di prenotazione per una catena di palestre: cinque mesi, day rate, sprint di due settimane. La commessa prevede 30 giorni di garanzia post-rilascio. La cooperativa fattura in sterline per sprint; Nicola registra i giorni sulla piattaforma e riceve la busta paga mensile. Personaggio di fantasia.
+Esempio: immaginiamo Nicola, sviluppatore Flutter di Lecce, ingaggiato da un'agenzia di Londra per sviluppare un'app di prenotazione per una catena di palestre: cinque mesi, sprint di due settimane con prezzo per sprint e funzionalità concordate. La commessa prevede 30 giorni di garanzia post-rilascio. La cooperativa fattura in sterline per sprint; Nicola registra attività e consegne sulla piattaforma e riceve la busta paga mensile. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

@@ -31,7 +31,7 @@ The relationship with the foreign client is contracted by the cooperative, which
 
 ## What remains your responsibility
 
-Honesty matters: not everything disappears. Your personal tax situation remains. Employment income is subject to progressive income tax, with withholding at source and year-end adjustment, plus regional and municipal surtaxes. You receive a CU, which you can use for your tax return when required. If you have other income or particular deductions, you can turn to a tax assistance centre or a personal adviser. Organising your work also remains: logging activities and attendance on the platform and uploading expense receipts.
+Honesty matters: not everything disappears. Your personal tax situation remains. Employment income is subject to progressive income tax, with withholding at source and year-end adjustment, plus regional and municipal surtaxes. You receive a CU, which you can use for your tax return when required. If you have other income or particular deductions, you can turn to a tax assistance centre or a personal adviser. Organising your work also remains: logging activities and deliveries on the platform and uploading expense receipts.
 
 ## Example: Stefania and the end of Wednesday evenings
 
@@ -42,7 +42,7 @@ Example: imagine Stefania, a communications consultant. For years she spent ever
 1. **Closing the VAT number.** If you already have one, we explain how to close it in an orderly way; you handle the procedure with your accountant.
 2. **Membership.** You join the cooperative with the share capital quota.
 3. **Contract with the client.** The cooperative signs it; from then on it invoices.
-4. **Day to day.** Activities, attendance and expense claims on the platform.
+4. **Day to day.** Activities, deliveries and expense claims on the platform.
 5. **Payslip.** Each month, with withholdings and contributions already calculated.
 6. **Annual CU.** At the start of the year, for your personal return.
 

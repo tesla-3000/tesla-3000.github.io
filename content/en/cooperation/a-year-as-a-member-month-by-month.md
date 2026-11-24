@@ -1,6 +1,6 @@
 ---
 title: "A year as a worker-member, month by month"
-description: "From admission to year-end review: twelve months as a worker-member, with engagements, timesheets, payslips, expenses, holidays, CU and the 730 return."
+description: "From admission to year-end review: twelve months as a worker-member, with engagements, activities, payslips, expenses, holidays, CU and the 730 return."
 date: 2026-11-23
 slug: "a-year-as-a-member-month-by-month"
 translationKey: "c-022"
@@ -8,7 +8,7 @@ categories: ["scenarios"]
 tags: ["worker-member", "payslip", "730", "holidays", "calendar"]
 faq:
   - q: "How often do I get a payslip?"
-    a: "Every month, based on the attendance and activities recorded and according to the employment contract. Payslips and documents are on the member's platform."
+    a: "Every month, based on the activities and deliveries recorded and according to the employment contract. Payslips and documents are on the member's platform."
   - q: "Do I have to file a tax return?"
     a: "The cooperative issues the Certificazione Unica (CU). With only employment income and nothing to deduct you may not need to file, but often the 730 return is worthwhile: assess it case by case."
   - q: "Is a thirteenth-month payment always included?"
@@ -35,7 +35,7 @@ Every day, or at the end of the week, Giulia logs activities and hours on the pl
 
 ## April: a second engagement and expenses
 
-The Danish studio asks for three months of editing work. A second engagement is added: Giulia now logs hours on two projects. In April she attends a trade fair in Brussels at the publisher's request and uploads tickets and receipts as expense claims, reimbursed under the internal regulation. See [expense reimbursements](/en/articles/travel-equipment-expense-reimbursements/).
+The Danish studio asks for three months of editing work. A second engagement is added: Giulia now logs activities on two projects. In April she attends a trade fair in Brussels at the publisher's request and uploads tickets and receipts as expense claims, reimbursed under the internal regulation. See [expense reimbursements](/en/articles/travel-equipment-expense-reimbursements/).
 
 ## May and June: CU and 730
 
@@ -65,7 +65,7 @@ If the collective agreement and individual contract provide for it, the thirteen
 
 1. **Admission and contract.** Share, by-laws, internal regulation and employment contract.
 2. **Engagements.** Each client signs a commercial contract with the cooperative.
-3. **Every month.** You log hours and expenses; the cooperative invoices, collects and prepares the payslip.
+3. **Every month.** You log activities and expenses; the cooperative invoices, collects and prepares the payslip.
 4. **Every year.** You receive the CU, consider the 730, and holidays and TFR accrue.
 5. **Always.** Support via WhatsApp and email, and a members' community to share with.
 

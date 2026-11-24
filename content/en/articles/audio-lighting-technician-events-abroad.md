@@ -42,14 +42,14 @@ Before each trip check: updated technical rider, who is responsible for stage sa
 
 ## Example: a six-date tour
 
-*A fictional example.* Imagine Andrea, a lighting technician with ten years on Italian stages. A Hamburg production offers him a tour across six German and Austrian cities, nine working days plus two travel days. Andrea does not want to open a VAT number for one international gig, and the production wants a single invoice. Through the cooperative, {{< brand >}} signs with the production and Andrea is engaged as a worker-member for the tour period. On the platform he logs days, travel and train and hotel receipts; the payslip arrives at month end.
+*A fictional example.* Imagine Andrea, a lighting technician with ten years on Italian stages. A Hamburg production offers him a tour across six German and Austrian cities, nine working days plus two travel days. Andrea does not want to open a VAT number for one international gig, and the production wants a single invoice. Through the cooperative, {{< brand >}} signs with the production and Andrea is engaged as a worker-member for the tour period. On the platform he logs activities, travel and train and hotel receipts; the payslip arrives at month end.
 
 ## How it works with the cooperative
 
 1. **Describe the gig**: dates, places, rider, proposed rate.
 2. **Membership** with a refundable share of capital (Law 142/2001).
 3. **Contract** with the production: day rates, overtime, travel, cancellations.
-4. **Operations**: attendance, expenses and documents on the platform; WhatsApp support during the tour.
+4. **Operations**: activities, expenses and documents on the platform; WhatsApp support during the tour.
 5. **Protections**: INPS contributions, INAIL cover, holidays, sick leave and severance pay under the employment relationship; professional liability included.
 6. **Invoicing**: the cooperative invoices the foreign production, in foreign currency if needed, under rules verified case by case.
 

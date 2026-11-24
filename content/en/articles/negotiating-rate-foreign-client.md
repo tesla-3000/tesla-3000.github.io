@@ -20,7 +20,7 @@ Negotiating the rate is the part many freelancers dread most. With a foreign cli
 ## Before talking numbers
 
 ### Know your real cost
-A sustainable rate must cover: the pay you want to earn, labour and cooperative service costs, unpaid days (holiday, sickness, gaps), tools and training. If you start from the number that "feels right", you risk finding out later that it does not hold. The guide on calculating the client's cost can help you structure the reasoning.
+A sustainable rate must cover: the pay you want to earn, contributions and the cooperative's service fee, unpaid days (holiday, sickness, gaps), tools and training. If you start from the number that "feels right", you risk finding out later that it does not hold. The guide from the price of your service to your payslip can help you structure the reasoning.
 
 ### Know the value to the client
 What does your work solve? How much would it cost the client not to do it, or to hire in-house? A rate is easier to defend when tied to a result, not only to hours.

@@ -42,7 +42,7 @@ Each client signs an agreement with the cooperative, which invoices each one. Fo
 
 ## Example
 
-Example: imagine Valentina, an SEO specialist in Florence, serving three clients: a travel site in Lyon, a SaaS in Berlin and a furniture e-commerce in Manchester. Each has its own retainer, in euro and pounds. The cooperative signs three agreements and invoices each; Valentina logs hours per client and receives a single monthly payslip. A client paying at 60 days does not stall her income thanks to the advance fund. Fictional character.
+Example: imagine Valentina, an SEO specialist in Florence, serving three clients: a travel site in Lyon, a SaaS in Berlin and a furniture e-commerce in Manchester. Each has its own retainer, in euro and pounds. The cooperative signs three agreements and invoices each; Valentina logs activities per client and receives a single monthly payslip. A client paying at 60 days does not stall her income thanks to the advance fund. Fictional character.
 
 ## How it works with the cooperative
 

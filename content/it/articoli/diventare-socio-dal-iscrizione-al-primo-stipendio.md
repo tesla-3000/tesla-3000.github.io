@@ -39,14 +39,14 @@ Il socio riceve il regolamento interno e firma il contratto di lavoro (di norma 
 La cooperativa firma con il cliente il contratto commerciale. Il socio non firma come fornitore: la commessa è tra cooperativa e cliente.
 
 ### 6. Accesso alla piattaforma
-Si ricevono le credenziali per registrare presenze e attività, caricare note spese e consultare documenti.
+Si ricevono le credenziali per registrare attività e consegne, caricare note spese e consultare documenti.
 
 ### 7. Lavoro, rendicontazione, busta paga
 Si lavora, si rendiconta nei tempi indicati, la cooperativa fattura al cliente, elabora la busta paga e versa contributi e ritenute. Poi arriva il primo stipendio.
 
 ## Esempio: Andrea, consulente marketing
 
-Esempio di fantasia: Andrea è un consulente marketing che collabora con un'azienda irlandese. Il lunedì fa il colloquio, entro pochi giorni riceve la documentazione di ammissione, sottoscrive la quota e firma contratto e regolamento. Intanto la cooperativa concorda la commessa con l'azienda. Andrea inizia a lavorare, registra ore e attività sulla piattaforma e a fine mese vede la sua prima busta paga. Il tempo reale tra un passaggio e l'altro dipende da quanto rapidamente cliente e socio rispondono.
+Esempio di fantasia: Andrea è un consulente marketing che collabora con un'azienda irlandese. Il lunedì fa il colloquio, entro pochi giorni riceve la documentazione di ammissione, sottoscrive la quota e firma contratto e regolamento. Intanto la cooperativa concorda la commessa con l'azienda. Andrea inizia a lavorare, registra attività e consegne sulla piattaforma e a fine mese vede la sua prima busta paga. Il tempo reale tra un passaggio e l'altro dipende da quanto rapidamente cliente e socio rispondono.
 
 ## Dove si perde più tempo
 
@@ -59,7 +59,7 @@ Esempio di fantasia: Andrea è un consulente marketing che collabora con un'azie
 
 - Importo della quota sociale e condizioni di rimborso.
 - Tipo di contratto di lavoro, durata, inquadramento.
-- Costi del servizio e come sono calcolati: vedi anche la guida sul calcolo del costo per il cliente.
+- Costi del servizio e come sono calcolati: vedi anche la guida [dal prezzo del servizio alla busta paga](/it/articoli/calcolo-costo-cliente-e-stipendio/).
 - Tempi indicativi di pagamento.
 
 Pronto a capire quale sarebbe il tuo percorso? [Contattaci](/it/contatti/): raccontaci la tua attività e ti diciamo i prossimi passi.

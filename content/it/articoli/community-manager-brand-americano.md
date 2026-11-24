@@ -8,7 +8,7 @@ categories: ["casi-uso"]
 tags: ["community-manager", "social", "clienti-usa"]
 faq:
   - q: "Posso coprire il fuso orario americano dall'Italia?"
-    a: "Sì, ma serve concordare turni e reperibilità in anticipo. Gli orari notturni o festivi vanno regolati nel contratto di lavoro e nella commessa."
+    a: "Sì, se il servizio lo richiede: le finestre di copertura nei weekend o in orari serali si definiscono nella commessa come livello di servizio, e il lavoro notturno o festivo va regolato nel contratto di lavoro."
   - q: "Gli account social sono miei o del cliente?"
     a: "Del cliente. Gli accessi vanno condivisi tramite strumenti ufficiali, mai con credenziali personali."
   - q: "Cosa succede in caso di crisi sui social?"
@@ -40,7 +40,7 @@ La cooperativa firma la commessa con il brand USA e fattura. Per clienti extra-U
 
 ## Esempio
 
-Esempio: immaginiamo Camilla, community manager di Cagliari, che segue la presenza italiana di un brand di running con sede a Portland. Lavora dal lunedì al venerdì, con call settimanale alle 17 italiane e turno festivo concordato. La commessa prevede 80 ore al mese, un report mensile e un protocollo di crisi. La cooperativa fattura in dollari; Camilla registra le ore sulla piattaforma e riceve la busta paga mensile. Personaggio di fantasia.
+Esempio: immaginiamo Camilla, community manager di Cagliari, che segue la presenza italiana di un brand di running con sede a Portland. La commessa descrive il servizio: piano editoriale mensile, pubblicazione e moderazione con tempi di risposta definiti, una call settimanale di allineamento, un report mensile e un protocollo di crisi, a canone mensile. Camilla organizza il proprio calendario. La cooperativa fattura in dollari; Camilla registra le attività sulla piattaforma e riceve la busta paga mensile. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

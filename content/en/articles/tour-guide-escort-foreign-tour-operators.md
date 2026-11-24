@@ -36,18 +36,18 @@ The practical advice is simple: before accepting, **ask what exactly you will do
 
 ## Preparing a tour well
 
-Even with every requirement in order, a tour's quality depends on preparation. Check museum and restaurant timetables and bookings a few days ahead, keep local suppliers' emergency numbers, and prepare a fallback plan for strikes and bad weather. Log attendance and expenses daily, uploading receipts to the platform. At the end of the trip, collect participants' comments and share them with the tour operator: they are the basis for winning new assignments.
+Even with every requirement in order, a tour's quality depends on preparation. Check museum and restaurant timetables and bookings a few days ahead, keep local suppliers' emergency numbers, and prepare a fallback plan for strikes and bad weather. Log activities and expenses daily, uploading receipts to the platform. At the end of the trip, collect participants' comments and share them with the tour operator: they are the basis for winning new assignments.
 
 ## Example: a ten-day tour
 
-*A fictional example.* Imagine Sofia, a cultural-heritage graduate who already holds the qualifications required for her activity. A Canadian tour operator engages her for four ten-day tours in spring. After checking qualifications and the scope of the assignment, the cooperative signs the contract and Sofia is engaged as a worker-member. On the platform she logs days and expense claims; the tour operator receives an invoice at the end of the cycle and Sofia the monthly payslip.
+*A fictional example.* Imagine Sofia, a cultural-heritage graduate who already holds the qualifications required for her activity. A Canadian tour operator engages her for four ten-day tours in spring. After checking qualifications and the scope of the assignment, the cooperative signs the contract and Sofia is engaged as a worker-member. On the platform she logs activities and expense claims; the tour operator receives an invoice at the end of the cycle and Sofia the monthly payslip.
 
 ## How it works with the cooperative
 
 1. **Check requirements**: qualification, type of activity, any registrations required. If they are missing, we talk before anything else.
 2. **Membership** with a share of capital refundable on exit (Law 142/2001).
 3. **Contract** with the tour operator: days, rates, expenses, contingencies.
-4. **Platform**: attendance per day, expense claims with receipts, documents.
+4. **Platform**: activities per day, expense claims with receipts, documents.
 5. **Invoicing** the foreign tour operator under B2B rules verified case by case.
 6. **Protections**: INPS, INAIL, holidays, sick leave, severance pay; professional liability included in the package.
 

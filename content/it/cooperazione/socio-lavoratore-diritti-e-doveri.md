@@ -40,7 +40,7 @@ Nel rapporto subordinato valgono le tutele del lavoro dipendente: contributi INP
 
 - **Quota sociale.** Sottoscriverla e versarla secondo statuto.
 - **Rispetto delle regole.** Statuto, regolamento interno e delibere degli organi sociali valgono per tutti i soci.
-- **Lavoro secondo contratto.** Svolgere le attività concordate con diligenza, rendicontare presenze e attività, rispettare le scadenze con i clienti.
+- **Lavoro secondo contratto.** Svolgere le attività concordate con diligenza, rendicontare attività e consegne, rispettare le scadenze con i clienti.
 - **Correttezza.** Comportarsi lealmente verso la cooperativa e gli altri soci; per esempio, non usare il nome della cooperativa in modo improprio e rispettare la riservatezza verso i clienti.
 - **Partecipazione.** Non è solo un diritto: informarsi, leggere le comunicazioni, prendere parte all'assemblea è ciò che tiene viva un'impresa che appartiene ai soci.
 - **Aggiornare i dati.** Comunicare cambi di residenza, recapiti e situazioni rilevanti, che hanno effetti su busta paga e adempimenti.
@@ -58,7 +58,7 @@ Esempio di fantasia: immaginiamo Davide, sviluppatore che lavora da remoto per u
 1. **Lettura dei documenti.** Statuto e regolamento sono disponibili prima dell'ammissione.
 2. **Ammissione e quota.** Nasce il rapporto associativo.
 3. **Contratto di lavoro.** Nasce il rapporto di lavoro, con le sue tutele.
-4. **Vita quotidiana.** Con {{< brand >}} il socio usa la piattaforma digitale per commesse, presenze, note spese, buste paga e documenti, con supporto via WhatsApp ed email.
+4. **Vita quotidiana.** Con {{< brand >}} il socio usa la piattaforma digitale per commesse, attività, note spese, buste paga e documenti, con supporto via WhatsApp ed email.
 5. **Vita sociale.** Comunicazioni, assemblea, accesso ai documenti sociali.
 
 ## Cosa verificare

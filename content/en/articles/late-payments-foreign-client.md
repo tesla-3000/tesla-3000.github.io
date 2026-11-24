@@ -44,7 +44,7 @@ The member's employment relationship provides pay under the contract and the int
 
 Even though reminders are the cooperative's job, some behaviours help:
 
-- log activities and attendance on the platform promptly;
+- log activities and deliveries on the platform promptly;
 - obtain written confirmation of deliveries and approvals from the client;
 - report to the cooperative at once any signs of trouble, such as unanswered messages or disputes;
 - make no side agreements with the client on fees or deadlines, because the contract belongs to the cooperative.

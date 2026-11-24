@@ -44,7 +44,7 @@ The cooperative signs the agreement with the studio and invoices. For EU clients
 
 ## Example
 
-Example: imagine Chiara, a character artist from Rome, hired by a Montréal studio for six characters in an action game: models, textures and rigs, by milestone, over five months. The agreement provides two revision rounds per character and an NDA allowing portfolio use after publication. The cooperative invoices per milestone; Chiara logs days on the platform and receives a monthly payslip. Fictional character.
+Example: imagine Chiara, a character artist from Rome, hired by a Montréal studio for six characters in an action game: models, textures and rigs, by milestone, over five months. The agreement provides two revision rounds per character and an NDA allowing portfolio use after publication. The cooperative invoices per milestone; Chiara logs activities on the platform and receives a monthly payslip. Fictional character.
 
 ## How it works with the cooperative
 

@@ -41,7 +41,7 @@ Use separate workspaces, folders and accounts for each client and never reuse on
 
 ## Example: twenty plus fifteen hours
 
-*A fictional example.* Imagine Matteo, a designer in Turin with eight years of experience. A Dutch client gives him twenty weekly hours of app redesign, a Swedish one fifteen hours of design-system upkeep. Matteo wants a steady payslip, not two sets of invoices in different currencies. Through the cooperative the clients sign two separate contracts with {{< brand >}}; Matteo logs hours per contract and receives a single monthly payslip. When the two clients delay payments at different times, an advance from the fund smooths the flow.
+*A fictional example.* Imagine Matteo, a designer in Turin with eight years of experience. A Dutch client gives him twenty weekly hours of app redesign, a Swedish one fifteen hours of design-system upkeep. Matteo wants a steady payslip, not two sets of invoices in different currencies. Through the cooperative the clients sign two separate contracts with {{< brand >}}; Matteo logs activities per contract and receives a single monthly payslip. When the two clients delay payments at different times, an advance from the fund smooths the flow.
 
 ## How it works with the cooperative
 

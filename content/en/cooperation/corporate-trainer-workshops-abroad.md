@@ -46,7 +46,7 @@ Which is better depends on the client and the amounts. How to document expenses 
 
 Fictional example: imagine Davide, a project management trainer living in Turin. An industrial group based in Lyon asks him for three two-day workshops, one a month, for department heads at three different plants in France.
 
-Davide agrees programme, daily rate and a flat preparation fee with the company. The cooperative drafts the commercial contract: dates, venues, a cancellation clause and a clear expense rule, with hotels booked directly by the client and train tickets advanced by Davide and refunded. After each workshop Davide uploads the days worked and his train receipts to the platform; the cooperative invoices the client, collects payment and pays him salary and refunds through his payslip.
+Davide agrees programme, daily rate and a flat preparation fee with the company. The cooperative drafts the commercial contract: dates, venues, a cancellation clause and a clear expense rule, with hotels booked directly by the client and train tickets advanced by Davide and refunded. After each workshop Davide records the workshop delivered and uploads his train receipts to the platform; the cooperative invoices the client, collects payment and pays him salary and refunds through his payslip.
 
 In the fourth month the company proposes extending the programme to two more countries. New dates, same rules, updated contract.
 

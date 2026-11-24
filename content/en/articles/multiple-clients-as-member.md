@@ -42,12 +42,12 @@ Several clients in different countries mean meetings at awkward hours. You need 
 - **Single agenda.** One calendar with blocks dedicated to each client.
 - **Maximum capacity.** Set a weekly hours ceiling and do not exceed it.
 - **Clear communication.** Tell each client when you are available and for what.
-- **Reporting per assignment.** Record hours immediately, per client.
+- **Reporting per assignment.** Record activities immediately, per client.
 - **Safety margin.** Do not fill your calendar to a hundred percent: surprises happen.
 
 ## Example: Silvia, translator and reviewer
 
-A fictional example: Silvia works for two clients, a French publisher (twenty hours a week) and a German software company (twelve hours). At the cooperative she has two assignments. Before accepting the second she checks that the first has no exclusivity clause and asks the cooperative to update her employment contract to reflect the new commitment. Each week she uses the platform to log hours per client and closes on Friday with a summary. When the German client asks to increase hours, she assesses her capacity and politely declines.
+A fictional example: Silvia works for two clients, a French publisher (twenty hours a week) and a German software company (twelve hours). At the cooperative she has two assignments. Before accepting the second she checks that the first has no exclusivity clause and asks the cooperative to update her employment contract to reflect the new commitment. Each week she uses the platform to log activities per client and closes on Friday with a summary. When the German client asks to increase hours, she assesses her capacity and politely declines.
 
 ## How it works with the cooperative
 

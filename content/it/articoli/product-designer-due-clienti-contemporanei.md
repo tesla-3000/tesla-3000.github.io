@@ -37,7 +37,7 @@ I deliverable tipici sono:
 
 ## Esempio: venti più quindici ore
 
-*Esempio di fantasia.* Immaginiamo Matteo, designer a Torino con otto anni di esperienza. Un cliente olandese gli affida venti ore settimanali di redesign dell'app, uno svedese quindici ore di manutenzione del design system. Matteo vuole una busta paga stabile e non due partite di fatture in valute diverse. Con la cooperativa i clienti firmano due commesse distinte con {{< brand >}}; Matteo registra le ore per commessa e riceve un'unica busta paga mensile. Quando i due clienti ritardano i pagamenti in momenti diversi, l'anticipo tramite fondo regola il flusso.
+*Esempio di fantasia.* Immaginiamo Matteo, designer a Torino con otto anni di esperienza. Un cliente olandese gli affida venti ore settimanali di redesign dell'app, uno svedese quindici ore di manutenzione del design system. Matteo vuole una busta paga stabile e non due partite di fatture in valute diverse. Con la cooperativa i clienti firmano due commesse distinte con {{< brand >}}; Matteo registra le attività per commessa e riceve un'unica busta paga mensile. Quando i due clienti ritardano i pagamenti in momenti diversi, l'anticipo tramite fondo regola il flusso.
 
 ## Come tenere separati i due progetti
 

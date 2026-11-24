@@ -41,7 +41,7 @@ The cooperative signs the agreement with the EU company and invoices. For B2B se
 
 ## Example
 
-Example: imagine Gabriele, a DevOps engineer from Turin, hired by a software house in Stockholm to migrate infrastructure to Kubernetes in the cloud: eight months, four days a week, with rotating on-call one weekend a month. The agreement regulates on-call and compensation, access and cloud budget. The cooperative invoices under reverse charge; Gabriele logs days and interventions on the platform and receives a monthly payslip. Fictional character.
+Example: imagine Gabriele, a DevOps engineer from Turin, hired by a software house in Stockholm to migrate infrastructure to Kubernetes in the cloud: eight months, four days a week, with rotating on-call one weekend a month. The agreement regulates on-call and compensation, access and cloud budget. The cooperative invoices under reverse charge; Gabriele logs activities and interventions on the platform and receives a monthly payslip. Fictional character.
 
 ## How it works with the cooperative
 

@@ -31,7 +31,7 @@ Sui primi due punti non diamo cifre né soglie: cambiano nel tempo e dipendono d
 
 ## Contratto di lavoro invece di partita IVA
 
-Per uno studente aprire una partita IVA per un solo cliente e poche ore può risultare sproporzionato: fatturazione elettronica, contributi, dichiarazioni, spesso un commercialista. Per lavori davvero sporadici esiste anche la prestazione occasionale, con i suoi limiti (ne parliamo in [prestazione occasionale, cooperativa o partita IVA](/it/articoli/prestazione-occasionale-cooperativa-partita-iva/)).
+Per uno studente aprire una partita IVA per un solo progetto di poche ore può risultare sproporzionato: fatturazione elettronica, contributi, dichiarazioni, spesso un commercialista. Per lavori davvero sporadici esiste anche la prestazione occasionale, con i suoi limiti (ne parliamo in [prestazione occasionale, cooperativa o partita IVA](/it/articoli/prestazione-occasionale-cooperativa-partita-iva/)).
 
 Con la cooperativa la strada è un'altra: diventi socio, hai un contratto di lavoro, anche a tempo parziale, e ricevi una busta paga. Il cliente estero firma un contratto commerciale con la cooperativa, che fattura e incassa. Tu ricevi la retribuzione con contributi INPS e copertura INAIL. Per molti studenti è anche il primo contatto con una busta paga vera, e con la contribuzione che comincia a costruire la futura pensione.
 
@@ -39,7 +39,7 @@ Con la cooperativa la strada è un'altra: diventi socio, hai un contratto di lav
 
 Esempio di fantasia: immaginiamo Tommaso, studente al terzo anno di ingegneria informatica a Pisa. Durante un hackathon online conosce i fondatori di una piccola startup olandese, che gli propongono di lavorare al loro sito e a qualche automazione interna, circa dodici ore a settimana per sei mesi.
 
-Prima di accettare, Tommaso parla con i genitori e con chi segue la loro dichiarazione dei redditi, e controlla il bando della sua borsa di studio. Chiarito il quadro, diventa socio della cooperativa con un contratto part-time. La cooperativa firma con la startup un contratto commerciale che indica ore, attività e una clausola che permette a Tommaso di ridurre l'impegno nelle settimane degli esami, concordandolo in anticipo. Tommaso registra le ore sulla piattaforma, riceve la busta paga ogni mese e, a fine anno, la Certificazione Unica.
+Prima di accettare, Tommaso parla con i genitori e con chi segue la loro dichiarazione dei redditi, e controlla il bando della sua borsa di studio. Chiarito il quadro, diventa socio della cooperativa con un contratto part-time. La cooperativa firma con la startup un contratto commerciale che indica ore, attività e una clausola che permette a Tommaso di ridurre l'impegno nelle settimane degli esami, concordandolo in anticipo. Tommaso registra le attività sulla piattaforma, riceve la busta paga ogni mese e, a fine anno, la Certificazione Unica.
 
 ## Come funziona con la cooperativa
 
@@ -47,7 +47,7 @@ Prima di accettare, Tommaso parla con i genitori e con chi segue la loro dichiar
 2. **Diventi socio** sottoscrivendo la quota di capitale e un contratto di lavoro, anche part-time, nel quadro della legge 142/2001 e del regolamento interno.
 3. **Concordi con il cliente** attività, ore e tariffa, tenendo conto del calendario accademico.
 4. **La cooperativa firma il contratto commerciale** e si occupa di fatturazione e incasso, anche in valuta.
-5. **Lavori e registri le ore** sulla piattaforma digitale.
+5. **Lavori e registri le attività** sulla piattaforma digitale.
 6. **Ricevi la busta paga** con contributi e tutele, e a fine anno la CU.
 
 ## Consigli per il primo cliente

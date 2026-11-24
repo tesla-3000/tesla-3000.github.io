@@ -39,7 +39,7 @@ As a member (Italian Law 142/2001) you have a work relationship with the coopera
 
 ## Example
 
-Example: imagine Marta, an interior designer from Verona not on the register, asked by a couple in Lisbon for the interior design of a renovated flat. The agreement covers concept, selection of furniture and finishes, renders and sourcing in Italy. A Portuguese architect signs the local technical documents. Marta logs days on the platform and receives a monthly payslip; the cooperative invoices the client. Fictional character.
+Example: imagine Marta, an interior designer from Verona not on the register, asked by a couple in Lisbon for the interior design of a renovated flat. The agreement covers concept, selection of furniture and finishes, renders and sourcing in Italy. A Portuguese architect signs the local technical documents. Marta logs activities on the platform and receives a monthly payslip; the cooperative invoices the client. Fictional character.
 
 ## How it works with the cooperative
 

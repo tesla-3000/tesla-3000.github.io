@@ -25,7 +25,7 @@ Questo non significa che il rischio di cambio sparisca magicamente: va regolato 
 
 ## Esempio: Giacomo e i dollari
 
-Esempio: immaginiamo Giacomo, consulente tecnico che lavora per una società di Austin. Prima fatturava in dollari con una piattaforma di pagamento, pagando commissioni e perdendo ore per riconciliare gli importi. In cooperativa, la commessa prevede una tariffa giornaliera in dollari; la cooperativa fattura, incassa e gestisce il cambio. Giacomo registra le giornate lavorate, e ogni mese la sua retribuzione in euro è calcolata secondo il rapporto di lavoro concordato. Se il dollaro si muove molto, la clausola prevista in commessa determina come se ne tiene conto.
+Esempio: immaginiamo Giacomo, consulente tecnico che lavora per una società di Austin. Prima fatturava in dollari con una piattaforma di pagamento, pagando commissioni e perdendo ore per riconciliare gli importi. In cooperativa, la commessa prevede un prezzo in dollari per ogni fase della consulenza; la cooperativa fattura, incassa e gestisce il cambio. Giacomo registra attività e consegne, e ogni mese la sua retribuzione in euro è calcolata secondo il rapporto di lavoro concordato. Se il dollaro si muove molto, la clausola prevista in commessa determina come se ne tiene conto.
 
 ## Come funziona con la cooperativa
 
@@ -33,7 +33,7 @@ Esempio: immaginiamo Giacomo, consulente tecnico che lavora per una società di 
 2. **Fatturazione.** La cooperativa emette la fattura al cliente, con il trattamento IVA valutato caso per caso (servizi B2B: reverse charge per l'UE, operazione generalmente non soggetta in Italia per l'extra-UE).
 3. **Incasso.** Il pagamento arriva sui conti della cooperativa.
 4. **Cambio e commissioni.** Gestiti dalla cooperativa nel rispetto di quanto concordato.
-5. **Retribuzione.** Ricevi la busta paga in euro; le giornate registrate costituiscono la base di calcolo.
+5. **Retribuzione.** Ricevi la busta paga in euro; la retribuzione segue il contratto di lavoro e il budget della tua attività.
 6. **Anticipo.** Se il cliente paga con tempi lunghi, si può valutare un anticipo tramite fondo.
 
 ## Cose da chiarire sempre

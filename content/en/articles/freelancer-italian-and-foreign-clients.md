@@ -12,7 +12,7 @@ faq:
   - q: "I already have a VAT number: must I close it?"
     a: "Not necessarily. Assess the consequences of having two modes in parallel, from the flat-rate regime to contributions. A conversation with a professional helps."
   - q: "How do I avoid overlaps between clients?"
-    a: "By logging hours per contract and keeping a single calendar. Read any exclusivity or confidentiality clauses before accepting."
+    a: "By logging activities per contract and keeping a single calendar. Read any exclusivity or confidentiality clauses before accepting."
 ---
 
 You have three long-standing Italian clients, an agency in Madrid and a company in Chicago just arrived. Your work is the same, but the management is not: invoices in euro and dollars, different deadlines, clients asking for different documents. In practical terms, having both Italian and foreign clients is a growth opportunity, but it requires **organising by flows**.
@@ -39,7 +39,7 @@ Spend an hour a week on personal bookkeeping: record income, deadlines and hours
 
 ## Example: three Italian and two foreign clients
 
-*A fictional example.* Imagine Valeria, a communications consultant with a flat-rate VAT number and three Italian clients. A Spanish agency and a US company arrive: revenue grows, invoices in two currencies, requests for documents. With an accountant she checks that adding foreign clients does not push her over the regime's revenue threshold or complicate her obligations. She decides to route the two foreign clients through the cooperative: {{< brand >}} signs the contracts and Valeria logs hours and activities on the platform, receiving a payslip for that part, while she continues with the VAT number for the Italians.
+*A fictional example.* Imagine Valeria, a communications consultant with a flat-rate VAT number and three Italian clients. A Spanish agency and a US company arrive: revenue grows, invoices in two currencies, requests for documents. With an accountant she checks that adding foreign clients does not push her over the regime's revenue threshold or complicate her obligations. She decides to route the two foreign clients through the cooperative: {{< brand >}} signs the contracts and Valeria logs activities and deliveries on the platform, receiving a payslip for that part, while she continues with the VAT number for the Italians.
 
 ## How it works with the cooperative
 

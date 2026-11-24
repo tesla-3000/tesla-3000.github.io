@@ -36,18 +36,18 @@ Il consiglio pratico è semplice: prima di accettare l'incarico, **chiedi cosa d
 
 ## Esempio: un tour di dieci giorni
 
-*Esempio di fantasia.* Immaginiamo Sofia, laureata in beni culturali e già in possesso dei titoli richiesti per la sua attività. Un tour operator canadese la ingaggia per quattro tour di dieci giorni in primavera. Verificati titoli e perimetro dell'incarico, la cooperativa firma la commessa e Sofia viene inquadrata come socio lavoratore. Sulla piattaforma registra giornate e note spese; il tour operator riceve una fattura a fine ciclo e Sofia la busta paga mensile.
+*Esempio di fantasia.* Immaginiamo Sofia, laureata in beni culturali e già in possesso dei titoli richiesti per la sua attività. Un tour operator canadese la ingaggia per quattro tour di dieci giorni in primavera. Verificati titoli e perimetro dell'incarico, la cooperativa firma la commessa e Sofia viene inquadrata come socio lavoratore. Sulla piattaforma registra attività e note spese; il tour operator riceve una fattura a fine ciclo e Sofia la busta paga mensile.
 
 ## Preparare bene un tour
 
-Anche con tutti i requisiti in regola, la qualità di un tour dipende dalla preparazione. Verifica orari e prenotazioni di musei e ristoranti con alcuni giorni di anticipo, conserva i numeri di emergenza dei fornitori locali e prepara un piano alternativo per scioperi e maltempo. Registra giorno per giorno presenze e spese, caricando le ricevute sulla piattaforma. Raccogli a fine viaggio i commenti dei partecipanti e condividili con il tour operator: sono la base per ottenere nuovi incarichi.
+Anche con tutti i requisiti in regola, la qualità di un tour dipende dalla preparazione. Verifica orari e prenotazioni di musei e ristoranti con alcuni giorni di anticipo, conserva i numeri di emergenza dei fornitori locali e prepara un piano alternativo per scioperi e maltempo. Registra giorno per giorno attività e spese, caricando le ricevute sulla piattaforma. Raccogli a fine viaggio i commenti dei partecipanti e condividili con il tour operator: sono la base per ottenere nuovi incarichi.
 
 ## Come funziona con la cooperativa
 
 1. **Verifica dei requisiti**: titolo, tipo di attività, eventuali iscrizioni richieste. Se mancano, ne parliamo prima.
 2. **Adesione** con quota di capitale sociale rimborsabile all'uscita (L. 142/2001).
 3. **Commessa** con il tour operator: giornate, tariffe, spese, imprevisti.
-4. **Piattaforma**: presenze per giornata, note spese con ricevute, documenti.
+4. **Piattaforma**: attività per giornata, note spese con ricevute, documenti.
 5. **Fatturazione** al tour operator estero, con regole B2B da verificare caso per caso.
 6. **Tutele**: INPS, INAIL, ferie, malattia, TFR; RC professionale inclusa nel pacchetto.
 

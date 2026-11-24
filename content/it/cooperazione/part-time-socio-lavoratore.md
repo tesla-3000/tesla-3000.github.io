@@ -15,7 +15,7 @@ faq:
     a: "Sì, con un accordo scritto. Si può aumentare l'orario o passare al tempo pieno, e viceversa, nel rispetto della normativa e del contratto collettivo."
 ---
 
-Non tutti i freelance lavorano otto ore al giorno per un solo cliente. C'è chi segue un cliente estero per tre giorni a settimana, chi ha picchi concentrati in alcuni mesi, chi affianca un'altra attività. Per queste situazioni il socio lavoratore di una cooperativa può avere un contratto **part-time**. Questa guida spiega le forme possibili e i loro effetti, in termini generali.
+Non tutti i freelance lavorano a tempo pieno. C'è chi segue un cliente estero per tre giorni a settimana, chi ha picchi concentrati in alcuni mesi, chi affianca un'altra attività. Per queste situazioni il socio lavoratore di una cooperativa può avere un contratto **part-time**. Questa guida spiega le forme possibili e i loro effetti, in termini generali.
 
 ## Le tre forme di part-time
 
@@ -44,7 +44,7 @@ Il part-time è uno strumento utile quando le commesse non coprono un tempo pien
 - **Allineare l'orario alla commessa:** le ore del contratto dovrebbero corrispondere a quelle effettivamente richieste dal cliente.
 - **Prevedere la crescita:** se il cliente può aumentare l'impegno, conviene sapere già come si aumenterà l'orario.
 - **Gestire i picchi:** il verticale o il misto permettono di concentrare il lavoro nei periodi di maggior richiesta.
-- **Rendicontare con regolarità:** attività e presenze registrate sulla piattaforma aiutano a tenere coerenti contratto e lavoro reale.
+- **Rendicontare con regolarità:** attività e consegne registrate sulla piattaforma aiutano a tenere coerenti contratto e lavoro reale.
 
 Approfondisci il tema dell'orario in [orari e autonomia nel lavoro remoto](/it/articoli/orari-autonomia-lavoro-remoto/).
 
@@ -73,7 +73,7 @@ Esempio di fantasia: immaginiamo Chiara, copywriter, che segue una casa editrice
 1. **Mappa del lavoro.** Si stima l'impegno richiesto dal cliente nel corso dell'anno.
 2. **Scelta della forma.** {{< brand >}} propone orizzontale, verticale o misto in base alla commessa.
 3. **Contratto scritto.** Con durata e collocazione dell'orario.
-4. **Rendicontazione.** Presenze e attività registrate sulla piattaforma.
+4. **Rendicontazione.** Attività e consegne registrate sulla piattaforma.
 5. **Adeguamento.** Se il carico cambia, si aggiorna l'orario con accordo scritto.
 
 Vuoi capire quale part-time si adatta alle tue commesse? [Contattaci](/it/contatti/).

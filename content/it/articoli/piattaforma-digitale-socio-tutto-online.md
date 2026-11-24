@@ -21,7 +21,7 @@ Chi lavora per clienti esteri spesso si muove tra fusi orari, città e Paesi. Av
 
 **Commesse.** Le commesse a cui sei assegnato, con cliente, periodo, attività previste e condizioni principali. Sai sempre a che punto sei.
 
-**Attività e presenze.** Registri ciò che fai, giorno per giorno o secondo il metodo previsto dalla commessa. È la base per retribuzione, fatturazione al cliente e controllo dei tempi.
+**Attività e consegne.** Registri ciò che fai, giorno per giorno o secondo il metodo previsto dalla commessa. È la base per retribuzione, fatturazione al cliente e controllo dei tempi.
 
 **Note spese.** Carichi i giustificativi di trasferte e acquisti, con date e importi, e segui lo stato del rimborso.
 
@@ -37,14 +37,14 @@ La piattaforma riduce attriti tipici del lavoro a distanza: nessuna firma su car
 
 ## Esempio: Teresa tra tre Paesi
 
-Esempio: immaginiamo Teresa, traduttrice che passa l'anno tra Italia, Portogallo e Germania. A inizio mese registra le ore del progetto in corso, carica la ricevuta di un biglietto, firma online l'integrazione alla commessa e scarica la busta paga del mese precedente, che le serve per un contratto d'affitto. Non ha dovuto stampare nulla né spedire documenti. Per un dubbio sull'integrazione scrive su WhatsApp al supporto.
+Esempio: immaginiamo Teresa, traduttrice che passa l'anno tra Italia, Portogallo e Germania. A inizio mese registra le attività del progetto in corso, carica la ricevuta di un biglietto, firma online l'integrazione alla commessa e scarica la busta paga del mese precedente, che le serve per un contratto d'affitto. Non ha dovuto stampare nulla né spedire documenti. Per un dubbio sull'integrazione scrive su WhatsApp al supporto.
 
 ## Come funziona con la cooperativa
 
 1. **Accesso.** All'adesione ricevi le credenziali e una breve guida.
 2. **Profilo.** Verifichi i tuoi dati e i recapiti.
 3. **Commessa.** Trovi le commesse assegnate e le condizioni.
-4. **Uso quotidiano.** Registri attività, presenze e spese.
+4. **Uso quotidiano.** Registri attività, consegne e spese.
 5. **Documenti.** Consulti buste paga, CU e contratti, e firmi dove richiesto.
 6. **Supporto.** In caso di difficoltà, scrivi al supporto via WhatsApp o email.
 

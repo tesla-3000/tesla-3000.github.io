@@ -36,7 +36,7 @@ La cooperativa firma la commessa con la compagnia o il festival, fattura e incas
 
 ## Esempio
 
-Esempio: immaginiamo Elisa, ballerina di Reggio Emilia, scritturata da una compagnia tedesca per sei settimane di prove e quattordici repliche in tre paesi. La commessa tra cooperativa e compagnia stabilisce prove, recite, rimborsi e giorni di riposo. Elisa registra giornate e spese sulla piattaforma, la cooperativa fattura alla compagnia e lei riceve la busta paga mensile, con copertura INAIL durante il lavoro. Personaggio di fantasia.
+Esempio: immaginiamo Elisa, ballerina di Reggio Emilia, scritturata da una compagnia tedesca per sei settimane di prove e quattordici repliche in tre paesi. La commessa tra cooperativa e compagnia stabilisce prove, recite, rimborsi e giorni di riposo. Elisa registra attività e spese sulla piattaforma, la cooperativa fattura alla compagnia e lei riceve la busta paga mensile, con copertura INAIL durante il lavoro. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

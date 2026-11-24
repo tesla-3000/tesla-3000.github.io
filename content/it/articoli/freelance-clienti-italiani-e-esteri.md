@@ -12,7 +12,7 @@ faq:
   - q: "Ho già la partita IVA: devo chiuderla?"
     a: "Non necessariamente. Vanno valutate le conseguenze di avere due modalità in parallelo, dal regime forfettario ai contributi. Conviene un confronto con un professionista."
   - q: "Come evito sovrapposizioni tra clienti?"
-    a: "Registrando le ore per commessa e tenendo un calendario unico. Clausole di esclusiva o riservatezza vanno lette prima di accettare."
+    a: "Registrando le attività per commessa e tenendo un calendario unico. Clausole di esclusiva o riservatezza vanno lette prima di accettare."
 ---
 
 Hai tre clienti italiani storici, un'agenzia di Madrid e un'azienda di Chicago appena arrivata. Il tuo lavoro è sempre lo stesso, ma la gestione non lo è più: fatture in euro e in dollari, scadenze diverse, clienti che chiedono documenti differenti. Dal punto di vista pratico, avere clienti sia italiani che esteri è un'opportunità di crescita, ma richiede **un'organizzazione per flussi**.
@@ -35,7 +35,7 @@ La scelta dipende da quanto pesano i clienti esteri e da quanta amministrazione 
 
 ## Esempio: tre italiani e due esteri
 
-*Esempio di fantasia.* Immaginiamo Valeria, consulente di comunicazione con partita IVA forfettaria e tre clienti italiani. Arrivano un'agenzia spagnola e una società statunitense: ricavi in crescita, fatture in due valute, richieste di documenti. Con un commercialista valuta che aggiungere clienti esteri non le faccia superare la soglia di ricavi del regime e le complichi gli adempimenti. Decide di far passare i due clienti esteri dalla cooperativa: {{< brand >}} firma le commesse e Valeria registra ore e attività sulla piattaforma, ricevendo busta paga per quella parte, mentre continua con la partita IVA per gli italiani.
+*Esempio di fantasia.* Immaginiamo Valeria, consulente di comunicazione con partita IVA forfettaria e tre clienti italiani. Arrivano un'agenzia spagnola e una società statunitense: ricavi in crescita, fatture in due valute, richieste di documenti. Con un commercialista valuta che aggiungere clienti esteri non le faccia superare la soglia di ricavi del regime e le complichi gli adempimenti. Decide di far passare i due clienti esteri dalla cooperativa: {{< brand >}} firma le commesse e Valeria registra attività e consegne sulla piattaforma, ricevendo busta paga per quella parte, mentre continua con la partita IVA per gli italiani.
 
 ## Un metodo semplice per tenere in ordine i conti
 

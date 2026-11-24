@@ -35,7 +35,7 @@ La cooperativa stipula la commessa con l'azienda olandese, assegna a Marta le at
 2. **Adesione.** Diventi socio sottoscrivendo la quota di capitale sociale, rimborsabile all'uscita secondo statuto.
 3. **Contratto commerciale.** La cooperativa formalizza la commessa con il cliente estero; tu non firmi nulla con lui.
 4. **Contratto di lavoro.** Definiamo il tuo rapporto di lavoro per la durata del progetto, nel rispetto del regolamento interno.
-5. **Esecuzione.** Registri attività e presenze sulla piattaforma e puoi chiedere supporto via WhatsApp o email.
+5. **Esecuzione.** Registri attività e consegne sulla piattaforma e puoi chiedere supporto via WhatsApp o email.
 6. **Fatturazione e incasso.** Fatturiamo noi al cliente, anche in valuta estera, e gestiamo l'incasso.
 7. **Chiusura.** A fine progetto ricevi l'ultima busta paga con le competenze maturate e i documenti, tra cui la CU.
 

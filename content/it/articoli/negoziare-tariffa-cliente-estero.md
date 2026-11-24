@@ -20,7 +20,7 @@ Negoziare la tariffa è la parte che molti freelance temono di più. Con un clie
 ## Prima di parlare di cifre
 
 ### Conosci il tuo costo reale
-Una tariffa sostenibile deve coprire: la retribuzione che vuoi ottenere, i costi di lavoro e del servizio della cooperativa, i giorni non pagati (ferie, malattia, pause), strumenti e formazione. Se parti dal numero che "sembra giusto", rischi di accorgerti dopo che non regge. La guida sul calcolo del costo per il cliente può aiutarti a impostare il ragionamento.
+Una tariffa sostenibile deve coprire: la retribuzione che vuoi ottenere, contributi e quota di servizio della cooperativa, i giorni non pagati (ferie, malattia, pause), strumenti e formazione. Se parti dal numero che "sembra giusto", rischi di accorgerti dopo che non regge. La guida dal prezzo del servizio alla busta paga può aiutarti a impostare il ragionamento.
 
 ### Conosci il valore per il cliente
 Cosa risolve il tuo lavoro? Quanto costerebbe al cliente non farlo, o assumere internamente? Una tariffa si difende meglio se collegata a un risultato, non solo alle ore.

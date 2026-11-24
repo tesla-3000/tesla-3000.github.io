@@ -34,7 +34,7 @@ Con un secondo lavoro, la partita IVA è una possibilità, ma comporta la gestio
 
 ## Esempio: consulenza serale per un cliente irlandese
 
-*Esempio di fantasia.* Immaginiamo Pietro, impiegato in un'azienda di Brescia. Una società irlandese gli propone una consulenza di dieci ore a settimana su sistemi gestionali, in orari serali, per quattro mesi. Pietro legge il suo contratto, verifica che non ci sia divieto di altre attività non concorrenti e ne parla con il responsabile. Non vuole aprire una partita IVA per quattro mesi. Con la cooperativa, {{< brand >}} firma la commessa; Pietro registra le ore serali sulla piattaforma e riceve una seconda busta paga. Alla dichiarazione dei redditi dovrà considerare entrambi i redditi, e per questo si rivolge a un professionista fiscale.
+*Esempio di fantasia.* Immaginiamo Pietro, impiegato in un'azienda di Brescia. Una società irlandese gli propone una consulenza di dieci ore a settimana su sistemi gestionali, in orari serali, per quattro mesi. Pietro legge il suo contratto, verifica che non ci sia divieto di altre attività non concorrenti e ne parla con il responsabile. Non vuole aprire una partita IVA per quattro mesi. Con la cooperativa, {{< brand >}} firma la commessa; Pietro registra attività e consegne sulla piattaforma e riceve una seconda busta paga. Alla dichiarazione dei redditi dovrà considerare entrambi i redditi, e per questo si rivolge a un professionista fiscale.
 
 ## Gestire tempo e confini
 
@@ -46,7 +46,7 @@ Stabilisci una finestra di lavoro precisa per il secondo incarico e comunicala a
 2. **Verifica di compatibilità**: ti suggeriamo cosa controllare, senza sostituirci al tuo contratto.
 3. **Adesione** come socio con quota di capitale sociale rimborsabile all'uscita (L. 142/2001).
 4. **Commessa** firmata dalla cooperativa con il cliente estero, con ore e deliverable.
-5. **Piattaforma**: registro ore, note spese, documenti.
+5. **Piattaforma**: registro attività, note spese, documenti.
 6. **Busta paga** e fatturazione al cliente, con regole B2B da verificare caso per caso; copertura INAIL e RC professionale inclusa.
 
 ## Le alternative a confronto

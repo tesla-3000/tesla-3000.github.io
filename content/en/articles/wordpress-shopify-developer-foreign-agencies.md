@@ -43,7 +43,7 @@ Ask for the design to be approved in writing before starting and deliver a first
 
 ## Example: two shops and a maintenance plan
 
-*A fictional example.* Imagine Stefano, a freelancer in Padua. An English agency hands him two Shopify stores and a WordPress site over two months, with a monthly maintenance fee for the next six. The agency wants a single counterpart to sign with and pay at 30 days. Through the cooperative, {{< brand >}} signs the contract, Stefano logs hours and deliveries on the platform and receives the payslip. Plugin licences are on the agency; if an invoice arrives late, he can access an advance from the fund.
+*A fictional example.* Imagine Stefano, a freelancer in Padua. An English agency hands him two Shopify stores and a WordPress site over two months, with a monthly maintenance fee for the next six. The agency wants a single counterpart to sign with and pay at 30 days. Through the cooperative, {{< brand >}} signs the contract, Stefano logs activities and deliveries on the platform and receives the payslip. Plugin licences are on the agency; if an invoice arrives late, he can access an advance from the fund.
 
 ## How it works with the cooperative
 

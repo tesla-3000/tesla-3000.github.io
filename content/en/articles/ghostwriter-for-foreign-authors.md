@@ -49,7 +49,7 @@ Ghostwriting is a trust job. Record interview sessions with the author's consent
 2. **Check**: for assignments of rights and creative works the rules are specific and we check them case by case.
 3. **Membership** with a share of capital refundable on exit (Law 142/2001).
 4. **Contract** with stages, confidentiality, assignment of rights, revisions.
-5. **Platform**: hours worked, expenses for travel and transcripts, signed documents.
+5. **Platform**: activities and deliveries, expenses for travel and transcripts, signed documents.
 6. **Pay**: payslip with contributions, INAIL and professional liability included; invoicing the client in foreign currency too under B2B rules verified case by case.
 
 ## A comparison with the VAT number

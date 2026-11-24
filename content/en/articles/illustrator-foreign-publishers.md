@@ -41,7 +41,7 @@ The cooperative signs the agreement with the publisher, invoices the fee for the
 
 ## Example
 
-Example: imagine Irene, an illustrator from Bologna, hired by a French publisher for a 32-page picture book. The agreement covers twelve double-page spreads, two revision rounds, a four-month deadline and payment in three instalments. Irene logs days on the platform and the cooperative invoices at each instalment; Irene receives a monthly payslip. A fund advance spares her the wait between instalments. Fictional character.
+Example: imagine Irene, an illustrator from Bologna, hired by a French publisher for a 32-page picture book. The agreement covers twelve double-page spreads, two revision rounds, a four-month deadline and payment in three instalments. Irene logs activities on the platform and the cooperative invoices at each instalment; Irene receives a monthly payslip. A fund advance spares her the wait between instalments. Fictional character.
 
 ## How it works with the cooperative
 

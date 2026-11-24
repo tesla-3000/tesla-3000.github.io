@@ -41,7 +41,7 @@ La cooperativa firma la commessa con l'editore, fattura il compenso per il lavor
 
 ## Esempio
 
-Esempio: immaginiamo Irene, illustratrice di Bologna, ingaggiata da un editore francese per un albo di 32 pagine. La commessa prevede dodici tavole a doppia pagina, due giri di revisione, scadenza in quattro mesi e pagamento in tre tranche. Irene registra le giornate sulla piattaforma e la cooperativa fattura a ogni tranche; Irene riceve la busta paga mensile. Un anticipo tramite fondo le evita l'attesa tra una tranche e l'altra. Personaggio di fantasia.
+Esempio: immaginiamo Irene, illustratrice di Bologna, ingaggiata da un editore francese per un albo di 32 pagine. La commessa prevede dodici tavole a doppia pagina, due giri di revisione, scadenza in quattro mesi e pagamento in tre tranche. Irene registra le attività sulla piattaforma e la cooperativa fattura a ogni tranche; Irene riceve la busta paga mensile. Un anticipo tramite fondo le evita l'attesa tra una tranche e l'altra. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

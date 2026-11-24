@@ -43,14 +43,14 @@ Since Brexit the UK is outside the EU: for generic B2B services the supply is no
 
 ## Example
 
-Example: imagine Giulia, a brand designer in Turin, commissioned by a Bristol studio to rework the identity of a coffee-shop chain: 12 days of work over three weeks at a day rate. The cooperative signs the agreement with the studio, providing for two revision rounds and delivery of final files. Giulia logs her days on the platform and submits expenses for test prints; at month end the cooperative invoices in pounds and, after collection, runs payroll. Fictional character.
+Example: imagine Giulia, a brand designer in Turin, commissioned by a Bristol studio to rework the identity of a coffee-shop chain: logo, palette, typography and guidelines in three weeks, at a project price. The cooperative signs the agreement with the studio, providing for two revision rounds and delivery of final files. Giulia logs activities and deliveries on the platform and submits expenses for test prints; at month end the cooperative invoices in pounds and, after collection, runs payroll. Fictional character.
 
 ## How it works with the cooperative
 
 1. **Intro call.** Describe client, scope, days, rate.
 2. **Joining.** Share of capital, refundable on exit under the bylaws.
 3. **Agreement.** Commercial contract between the cooperative and the UK studio.
-4. **Activity.** Attendance, deliverables and expenses on the platform.
+4. **Activity.** Activities, deliverables and expenses on the platform.
 5. **Invoicing.** Invoice and collection, also in foreign currency; then payslip.
 6. **Protection.** INAIL cover and professional liability insurance included; WhatsApp and email support.
 

@@ -39,7 +39,7 @@ La cooperativa firma la commessa con la testata, fattura il compenso (per client
 
 ## Esempio
 
-Esempio: immaginiamo Paolo, fotografo di Napoli, incaricato da una rivista di viaggi olandese di realizzare un servizio di cinque giorni sulla costa amalfitana. La commessa prevede 40 foto selezionate, licenza per carta e web per 24 mesi, rimborso di vitto e alloggio. Paolo registra le giornate sulla piattaforma, carica gli scontrini nelle note spese e consegna le foto. La cooperativa fattura alla rivista; Paolo riceve la busta paga. Personaggio di fantasia.
+Esempio: immaginiamo Paolo, fotografo di Napoli, incaricato da una rivista di viaggi olandese di realizzare un servizio di cinque giorni sulla costa amalfitana. La commessa prevede 40 foto selezionate, licenza per carta e web per 24 mesi, rimborso di vitto e alloggio. Paolo registra le attività sulla piattaforma, carica gli scontrini nelle note spese e consegna le foto. La cooperativa fattura alla rivista; Paolo riceve la busta paga. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

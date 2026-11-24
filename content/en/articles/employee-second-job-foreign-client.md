@@ -38,7 +38,7 @@ Set a precise work window for the second assignment and tell the client: for exa
 
 ## Example: evening consultancy for an Irish client
 
-*A fictional example.* Imagine Pietro, an office worker at a company in Brescia. An Irish firm offers him a consultancy of ten hours a week on management systems, in the evening, for four months. Pietro reads his contract, checks there is no ban on other non-competing activities and speaks to his manager. He does not want to open a VAT number for four months. Through the cooperative, {{< brand >}} signs the contract; Pietro logs evening hours on the platform and receives a second payslip. In his tax return he will need to consider both incomes, so he consults a tax professional.
+*A fictional example.* Imagine Pietro, an office worker at a company in Brescia. An Irish firm offers him a consultancy of ten hours a week on management systems, in the evening, for four months. Pietro reads his contract, checks there is no ban on other non-competing activities and speaks to his manager. He does not want to open a VAT number for four months. Through the cooperative, {{< brand >}} signs the contract; Pietro logs activities and deliveries on the platform and receives a second payslip. In his tax return he will need to consider both incomes, so he consults a tax professional.
 
 ## How it works with the cooperative
 

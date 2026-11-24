@@ -43,7 +43,7 @@ A fictional example: Giulia translates technical manuals for a Dutch company. Th
 1. **Outline agreement with the client.** The member agrees on content, duration and the principle of the rate.
 2. **Commercial contract.** The cooperative prepares and signs the contract with the client; the member does not sign as supplier.
 3. **Member's employment relationship.** In parallel, the member works under a contract with the cooperative (normally as an employee), with a monthly payslip.
-4. **Activity and reporting.** Timesheets and activities are recorded on the platform, which also helps document the work to the client.
+4. **Activity and reporting.** Activities and deliveries are recorded on the platform, which also helps document the work to the client.
 5. **Invoice and collection.** The cooperative invoices the client, including in foreign currency, and collects payment.
 
 ## What to check

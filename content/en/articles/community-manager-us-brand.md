@@ -8,7 +8,7 @@ categories: ["use-cases"]
 tags: ["community-manager", "social", "us-clients"]
 faq:
   - q: "Can I cover US time zones from Italy?"
-    a: "Yes, but shifts and on-call availability must be agreed in advance. Night or holiday hours should be regulated in the employment contract and the agreement."
+    a: "Yes, if the service requires it: weekend or evening coverage windows are set in the contract as a service level, and night or holiday work is regulated in the employment contract."
   - q: "Are the social accounts mine or the client's?"
     a: "The client's. Access should be shared through official tools, never with personal credentials."
   - q: "What happens in a social media crisis?"
@@ -40,7 +40,7 @@ The cooperative signs the agreement with the US brand and invoices. For non-EU c
 
 ## Example
 
-Example: imagine Camilla, a community manager from Cagliari, running the Italian presence of a running brand based in Portland. She works Monday to Friday, with a weekly call at 5 pm Italian time and an agreed holiday shift. The agreement covers 80 hours a month, a monthly report and a crisis protocol. The cooperative invoices in dollars; Camilla logs hours on the platform and receives a monthly payslip. Fictional character.
+Example: imagine Camilla, a community manager from Cagliari, running the Italian presence of a running brand based in Portland. The agreement describes the service: a monthly editorial plan, publishing and moderation with defined response times, a weekly alignment call, a monthly report and a crisis protocol, for a monthly fee. Camilla organises her own schedule. The cooperative invoices in dollars; Camilla logs activities on the platform and receives a monthly payslip. Fictional character.
 
 ## How it works with the cooperative
 

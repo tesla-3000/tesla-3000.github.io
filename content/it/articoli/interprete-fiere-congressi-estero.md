@@ -8,7 +8,7 @@ categories: ["casi-uso"]
 tags: ["interpreti", "eventi", "trasferte"]
 faq:
   - q: "Come vengono pagate le giornate di congresso?"
-    a: "Di solito a giornata o mezza giornata, con tariffa concordata nella commessa con l'organizzatore. La cooperativa fattura e il socio riceve la busta paga per le giornate registrate."
+    a: "Di solito a giornata o mezza giornata, con tariffa concordata nella commessa con l'organizzatore. La cooperativa fattura e il socio riceve la busta paga per le prestazioni svolte."
   - q: "Le trasferte estere sono coperte?"
     a: "Viaggio, vitto e alloggio si concordano nella commessa e si rendicontano come note spese. Le regole su coperture e trattamento fiscale delle trasferte vanno verificate caso per caso."
   - q: "Posso lavorare per più organizzatori contemporaneamente?"
@@ -39,7 +39,7 @@ Le cancellazioni tardive sono il punto dolente più frequente: senza una clausol
 
 ## Esempio: tre eventi in un trimestre
 
-*Esempio di fantasia.* Immaginiamo Silvia, interprete italiano-inglese-spagnolo. Un'agenzia di eventi di Madrid le offre sette giornate a una fiera dell'agroalimentare, poi un'altra agenzia di Londra tre giorni di congresso in simultanea. Nel mezzo ha lavori occasionali per aziende italiane. Con la cooperativa, ogni commessa viene firmata da {{< brand >}} con l'organizzatore; Silvia registra le giornate sulla piattaforma e carica le ricevute di treno e hotel per le note spese. A fine mese riceve un'unica busta paga con le attività di tutti i committenti, senza fatture da emettere in tre lingue.
+*Esempio di fantasia.* Immaginiamo Silvia, interprete italiano-inglese-spagnolo. Un'agenzia di eventi di Madrid le offre sette giornate a una fiera dell'agroalimentare, poi un'altra agenzia di Londra tre giorni di congresso in simultanea. Nel mezzo ha lavori occasionali per aziende italiane. Con la cooperativa, ogni commessa viene firmata da {{< brand >}} con l'organizzatore; Silvia registra le attività sulla piattaforma e carica le ricevute di treno e hotel per le note spese. A fine mese riceve un'unica busta paga con le attività di tutti i committenti, senza fatture da emettere in tre lingue.
 
 ## Preparazione e qualità del servizio
 
@@ -60,6 +60,6 @@ Chi lavora per più organizzatori rischia di accettare due eventi nello stesso p
 
 ## Valutare le alternative
 
-Con la partita IVA forfettaria (ricavi sotto 85.000 euro, imposta sostitutiva 15%, 5% per i primi cinque anni se ci sono i requisiti) l'interprete ha la massima libertà sulle tariffe e sulla clientela, ma si occupa di fatture elettroniche, dichiarazioni e contributi alla Gestione Separata. Alcuni scelgono una soluzione mista: partita IVA per i clienti stabili, cooperativa per gli eventi esteri con organizzatori che chiedono una struttura. Una cosa conta: se il lavoro è molto discontinuo, avere una busta paga che segue le giornate registrate semplifica la contabilità personale.
+Con la partita IVA forfettaria (ricavi sotto 85.000 euro, imposta sostitutiva 15%, 5% per i primi cinque anni se ci sono i requisiti) l'interprete ha la massima libertà sulle tariffe e sulla clientela, ma si occupa di fatture elettroniche, dichiarazioni e contributi alla Gestione Separata. Alcuni scelgono una soluzione mista: partita IVA per i clienti stabili, cooperativa per gli eventi esteri con organizzatori che chiedono una struttura. Una cosa conta: se il lavoro è molto discontinuo, avere una busta paga che segue le prestazioni svolte semplifica la contabilità personale.
 
 Se sei un interprete con un calendario pieno di eventi esteri, [parliamone dalla pagina contatti](/it/contatti/): vediamo come gestire commesse e trasferte.

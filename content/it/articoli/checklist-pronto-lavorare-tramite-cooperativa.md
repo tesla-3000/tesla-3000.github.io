@@ -42,7 +42,7 @@ Prima di iscriverti, conviene fermarti dieci minuti e fare il punto. Questa chec
 
 ## 4. Soldi e tempi
 
-- [ ] Ho calcolato la **tariffa minima** che copre il costo del lavoro e del servizio.
+- [ ] Ho calcolato il **prezzo minimo** del mio servizio che copre retribuzione, contributi e quota di servizio.
 - [ ] So che il **netto** dipende da molti fattori e non va dato per scontato.
 - [ ] Conosco i **termini di pagamento** del cliente.
 - [ ] Ho chiesto come funzionano **anticipo e tempi della busta paga**.
@@ -51,7 +51,7 @@ Prima di iscriverti, conviene fermarti dieci minuti e fare il punto. Questa chec
 ## 5. Organizzazione
 
 - [ ] Ho un **luogo di lavoro** e strumenti adeguati.
-- [ ] Sono disposto a **registrare ore e attività** in modo regolare.
+- [ ] Sono disposto a **registrare attività e consegne** in modo regolare.
 - [ ] So gestire **fusi orari** e comunicazione a distanza.
 - [ ] Ho valutato **riservatezza e proprietà intellettuale** del lavoro.
 

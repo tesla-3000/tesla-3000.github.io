@@ -42,14 +42,14 @@ Prepare a sheet for each look with references, sizes, accessories and the origin
 
 ## Example: a capsule collection
 
-*A fictional example.* Imagine Francesca, a stylist in Florence with a network of Tuscan workshops. A Scandinavian knitwear brand entrusts her with a capsule: four trips between Prato and Biella, a two-day shoot in Milan, a final supplier report. Three-month contract with agreed days. Francesca has no VAT number and the brand does not want to manage an assignment with an individual. Through the cooperative, {{< brand >}} signs the contract, Francesca logs days and uploads receipts for trains, samples and hotels; she receives the payslip and the client pays one invoice.
+*A fictional example.* Imagine Francesca, a stylist in Florence with a network of Tuscan workshops. A Scandinavian knitwear brand entrusts her with a capsule: four trips between Prato and Biella, a two-day shoot in Milan, a final supplier report. Three-month contract with agreed days. Francesca has no VAT number and the brand does not want to manage an assignment with an individual. Through the cooperative, {{< brand >}} signs the contract, Francesca logs activities and uploads receipts for trains, samples and hotels; she receives the payslip and the client pays one invoice.
 
 ## How it works with the cooperative
 
 1. **Tell us about the project**: duration, days, deliverables, sample budget.
 2. **Membership** as a worker-member with a share of capital refundable on exit (Law 142/2001).
 3. **Contract** with the brand: day rates, expenses, image rights.
-4. **Platform**: you log days and expenses; documents are signed online.
+4. **Platform**: you log activities and expenses; documents are signed online.
 5. **Invoicing and foreign clients**: the cooperative invoices the brand (EU or non-EU) under B2B rules verified case by case.
 6. **Pay**: payslip with contributions, INAIL and professional liability included; advance if needed.
 

@@ -39,7 +39,7 @@ I deliverable sono il sito funzionante, il tema o il child theme, la documentazi
 
 ## Esempio: due negozi e una manutenzione
 
-*Esempio di fantasia.* Immaginiamo Stefano, freelance a Padova. Un'agenzia inglese gli affida in due mesi due negozi Shopify e un sito WordPress, con un canone di manutenzione mensile per i sei mesi successivi. L'agenzia vuole una sola controparte con cui firmare e pagare a 30 giorni. Con la cooperativa, {{< brand >}} firma la commessa, Stefano registra ore e consegne sulla piattaforma e riceve la busta paga. Le licenze dei plugin sono a carico dell'agenzia; se una fattura arriva in ritardo, ha accesso a un anticipo tramite fondo.
+*Esempio di fantasia.* Immaginiamo Stefano, freelance a Padova. Un'agenzia inglese gli affida in due mesi due negozi Shopify e un sito WordPress, con un canone di manutenzione mensile per i sei mesi successivi. L'agenzia vuole una sola controparte con cui firmare e pagare a 30 giorni. Con la cooperativa, {{< brand >}} firma la commessa, Stefano registra attività e consegne sulla piattaforma e riceve la busta paga. Le licenze dei plugin sono a carico dell'agenzia; se una fattura arriva in ritardo, ha accesso a un anticipo tramite fondo.
 
 ## Come ridurre le modifiche infinite
 

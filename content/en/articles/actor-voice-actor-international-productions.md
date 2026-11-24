@@ -35,7 +35,7 @@ The cooperative signs the agreement with the production, invoices and collects (
 
 ## Example
 
-Example: imagine Lorenzo, an actor and voice actor from Milan, who gets a role of four shooting days in a series filmed in the Czech Republic and, in the same period, eight voice sessions for a video game from a Canadian studio, recorded from a professional home studio. The cooperative signs the two agreements; Lorenzo logs days and sessions on the platform, uploads travel expenses and receives a payslip. The character is fictional; eligibility of each case is checked first.
+Example: imagine Lorenzo, an actor and voice actor from Milan, who gets a role of four shooting days in a series filmed in the Czech Republic and, in the same period, eight voice sessions for a video game from a Canadian studio, recorded from a professional home studio. The cooperative signs the two agreements; Lorenzo logs activities and sessions on the platform, uploads travel expenses and receives a payslip. The character is fictional; eligibility of each case is checked first.
 
 ## How it works with the cooperative
 

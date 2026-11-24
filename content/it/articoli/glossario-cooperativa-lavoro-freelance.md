@@ -47,7 +47,7 @@ Chi viene dal mondo delle partite IVA incontra in cooperativa un vocabolario nuo
 
 ## P-R
 
-**Piattaforma.** Il sistema digitale in cui il socio registra presenze e attività, carica note spese, consulta buste paga e documenti.
+**Piattaforma.** Il sistema digitale in cui il socio registra attività e consegne, carica note spese, consulta buste paga e documenti.
 
 **Quota sociale.** Capitale che il socio sottoscrive entrando in cooperativa; rimborsabile all'uscita secondo statuto.
 
@@ -82,7 +82,7 @@ Esempio di fantasia: Beatrice, redattrice freelance, riceve il regolamento e il 
 1. **Lettura dei documenti.** Statuto, regolamento e contratto sono la fonte definitiva.
 2. **Uso del glossario.** Per orientarti sui termini principali.
 3. **Domande al supporto.** {{< brand >}} risponde via WhatsApp o email.
-4. **Piattaforma.** Molti termini compaiono nelle sezioni (presenze, note spese, documenti).
+4. **Piattaforma.** Molti termini compaiono nelle sezioni (attività, note spese, documenti).
 5. **Formazione.** Nella community puoi chiedere esempi pratici ad altri soci.
 
 ## Cosa verificare

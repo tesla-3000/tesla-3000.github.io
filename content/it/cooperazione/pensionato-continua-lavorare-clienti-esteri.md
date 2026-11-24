@@ -50,7 +50,7 @@ Molti pensionati trascorrono parte dell'anno fuori dall'Italia. Residenza fiscal
 
 ## Esempio di fantasia
 
-Esempio di fantasia: immaginiamo Roberto, 68 anni, ex responsabile qualità in un'azienda meccanica, in pensione di vecchiaia da un anno. Un'azienda austriaca gli chiede di seguire per sei mesi la certificazione di un nuovo impianto, con alcune visite in loco. Prima di accettare, Roberto va al patronato con il suo certificato di pensione e verifica che la sua pensione sia cumulabile con un reddito da lavoro. Poi diventa socio della cooperativa: l'azienda austriaca firma la commessa, Roberto viene assunto per la durata del progetto, registra le giornate e carica le spese di viaggio. A fine progetto il contratto si chiude e Roberto resta socio, pronto per il prossimo incarico.
+Esempio di fantasia: immaginiamo Roberto, 68 anni, ex responsabile qualità in un'azienda meccanica, in pensione di vecchiaia da un anno. Un'azienda austriaca gli chiede di seguire per sei mesi la certificazione di un nuovo impianto, con alcune visite in loco. Prima di accettare, Roberto va al patronato con il suo certificato di pensione e verifica che la sua pensione sia cumulabile con un reddito da lavoro. Poi diventa socio della cooperativa: l'azienda austriaca firma la commessa, Roberto viene assunto per la durata del progetto, registra attività e carica le spese di viaggio. A fine progetto il contratto si chiude e Roberto resta socio, pronto per il prossimo incarico.
 
 ## Come funziona con la cooperativa
 

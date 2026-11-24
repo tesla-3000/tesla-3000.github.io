@@ -30,7 +30,7 @@ Concorda:
 
 ## Il ruolo della cooperativa
 
-La cooperativa firma la commessa e fattura. Per clienti UE di norma si applica il reverse charge (art. 7-ter DPR 633/72); per extra-UE i servizi B2B generici non sono di norma soggetti a IVA in Italia: da verificare caso per caso. Da socio lavoratore (legge 142/2001) hai un rapporto di lavoro con contributi INPS, INAIL e, se subordinato, ferie, malattia, TFR e busta paga. Un rapporto di lavoro si adatta bene a un ruolo spesso integrato nel team e con orari definiti.
+La cooperativa firma la commessa e fattura. Per clienti UE di norma si applica il reverse charge (art. 7-ter DPR 633/72); per extra-UE i servizi B2B generici non sono di norma soggetti a IVA in Italia: da verificare caso per caso. Da socio lavoratore (legge 142/2001) hai un rapporto di lavoro con contributi INPS, INAIL e, se subordinato, ferie, malattia, TFR e busta paga. Il contratto con il cliente descrive il servizio di test: perimetro, cicli di test, report dei difetti e tempi di consegna. Il lavoro lo organizzi tu.
 
 ## Pitfall tipici
 

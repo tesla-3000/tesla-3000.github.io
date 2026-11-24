@@ -43,7 +43,7 @@ Structure the project with clear folders and naming, because the agency may ask 
 
 ## Example: twenty animations in two weeks
 
-*A fictional example.* Imagine Irene, a freelance motion designer in Bologna. An American agency commissions twenty short animations for a campaign, flat fee per video, three formats each, delivered in two weeks. Payment at 45 days. Irene does not want to wait a month and a half for pay, and the agency wants a single invoice in dollars. Through the cooperative, {{< brand >}} signs the contract; Irene logs days and deliveries on the platform and receives the monthly payslip, while an advance from the fund covers the collection delay.
+*A fictional example.* Imagine Irene, a freelance motion designer in Bologna. An American agency commissions twenty short animations for a campaign, flat fee per video, three formats each, delivered in two weeks. Payment at 45 days. Irene does not want to wait a month and a half for pay, and the agency wants a single invoice in dollars. Through the cooperative, {{< brand >}} signs the contract; Irene logs activities and deliveries on the platform and receives the monthly payslip, while an advance from the fund covers the collection delay.
 
 ## How it works with the cooperative
 

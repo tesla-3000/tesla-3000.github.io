@@ -4,7 +4,7 @@ description: "Lavora con clienti esteri senza partita IVA: diventi socio della c
 translationKey: "home"
 kicker: "Cooperativa di lavoro per freelance"
 headline: "Il tuo cliente è all'estero. La tua busta paga è in Italia."
-sub: "Diventi socio della cooperativa, vieni assunto e lavori per i tuoi clienti come oggi. Contratto con il cliente, fatture, incassi, contributi e buste paga li gestiamo noi. Senza partita IVA, senza commercialista."
+sub: "Diventi socio della cooperativa, vieni assunto e lavori per i tuoi clienti come oggi. La cooperativa firma con il cliente un contratto di servizio e ne risponde; tu organizzi il lavoro in autonomia. Fatture, incassi, contributi e buste paga li gestiamo noi. Senza partita IVA, senza commercialista."
 stepsTitle: "Come funziona, in quattro passi"
 steps:
   - t: "Ci racconti il tuo lavoro"

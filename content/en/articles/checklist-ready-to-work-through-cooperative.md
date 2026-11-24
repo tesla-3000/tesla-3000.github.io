@@ -42,7 +42,7 @@ Before signing up, it pays to stop for ten minutes and take stock. This checklis
 
 ## 4. Money and timing
 
-- [ ] I have calculated the **minimum rate** that covers labour and service costs.
+- [ ] I have calculated the **minimum price** for my service that covers pay, contributions and the service fee.
 - [ ] I know **net pay** depends on many factors and should not be taken for granted.
 - [ ] I know the client's **payment terms**.
 - [ ] I have asked how **advance and payslip timing** work.
@@ -51,7 +51,7 @@ Before signing up, it pays to stop for ten minutes and take stock. This checklis
 ## 5. Organisation
 
 - [ ] I have a **workspace** and suitable equipment.
-- [ ] I am willing to **record hours and activities** regularly.
+- [ ] I am willing to **record activities and deliveries** regularly.
 - [ ] I can handle **time zones** and remote communication.
 - [ ] I have considered **confidentiality and intellectual property** of the work.
 

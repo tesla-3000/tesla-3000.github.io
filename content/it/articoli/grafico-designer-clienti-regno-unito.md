@@ -43,14 +43,14 @@ Dopo la Brexit il Regno Unito è un paese extra-UE: per i servizi generici B2B l
 
 ## Esempio
 
-Esempio: immaginiamo Giulia, brand designer a Torino, che riceve da uno studio di Bristol l'incarico di rifare l'identità di una catena di caffetterie: 12 giorni di lavoro in tre settimane, a day rate. La cooperativa firma la commessa con lo studio, che prevede due round di revisione e la cessione dei file finali. Giulia registra le giornate sulla piattaforma e carica la bozza delle note spese per le stampe di prova; a fine mese la cooperativa fattura in sterline e dopo l'incasso elabora la busta paga. Personaggio di fantasia.
+Esempio: immaginiamo Giulia, brand designer a Torino, che riceve da uno studio di Bristol l'incarico di rifare l'identità di una catena di caffetterie: logo, palette, tipografia e linee guida in tre settimane, a prezzo di progetto. La cooperativa firma la commessa con lo studio, che prevede due round di revisione e la cessione dei file finali. Giulia registra le attività sulla piattaforma e carica la bozza delle note spese per le stampe di prova; a fine mese la cooperativa fattura in sterline e dopo l'incasso elabora la busta paga. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 
 1. **Colloquio.** Descrivi cliente, scope, giornate, tariffa.
 2. **Adesione.** Quota di capitale sociale, rimborsabile all'uscita secondo statuto.
 3. **Commessa.** Contratto commerciale tra cooperativa e studio britannico.
-4. **Attività.** Presenze, deliverable e note spese sulla piattaforma.
+4. **Attività.** Attività, deliverable e note spese sulla piattaforma.
 5. **Fatturazione.** Fattura e incasso, anche in valuta; poi busta paga.
 6. **Tutele.** Copertura INAIL e RC professionale incluse; supporto su WhatsApp ed email.
 

@@ -8,7 +8,7 @@ categories: ["use-cases"]
 tags: ["it-support", "assistance", "italian-branch"]
 faq:
   - q: "Can the cooperative also handle on-site interventions?"
-    a: "Yes, the contract can include interventions at the client's sites in Italy, with logging of days and trips and INAIL cover."
+    a: "Yes, the support contract can include interventions at the client's sites in Italy, scheduled or on call, with logging of interventions and trips and INAIL cover."
   - q: "How is on-call duty regulated?"
     a: "It is defined in the contract with time slots, response times and extra pay."
   - q: "Who buys spare hardware?"
@@ -26,7 +26,7 @@ A company in Sao Paulo has opened a sales office in Milan with twelve people. He
 - **Basic security**: updates, backups, credential management and lost devices.
 - **Liaison** with the central IT team, via tickets and periodic meetings.
 
-Such an assignment often translates into a **fixed number of days per month** (for example four on site) with remote **on-call** for emergencies.
+Such an assignment often translates into a **support contract with service levels (SLA)**: scheduled maintenance, on-site interventions on call, remote tickets and guaranteed response times for emergencies, for a monthly fee.
 
 ## The delicate points
 
@@ -42,19 +42,19 @@ A technician following a site alone risks becoming the only one who knows where 
 
 ## Example: an office of twelve
 
-*A fictional example.* Imagine Fabrizio, a sysadmin with fifteen years' experience. A Brazilian company opens an office in Milan and entrusts him with IT support: four on-site days a month, remote on-call, direct contact with the IT manager in Brazil. Fabrizio does not want a VAT number with a single client; the company has no Italian entity that could hire him. Through the cooperative, {{< brand >}} signs the contract, Fabrizio logs days and interventions on the platform, with INAIL cover and professional liability included, and receives the monthly payslip.
+*A fictional example.* Imagine Fabrizio, a sysadmin with fifteen years' experience. A Brazilian company opens an office in Milan and asks him for an IT support contract: scheduled maintenance, on-site interventions on call, remote tickets with defined response times, for a monthly fee. The client's contact opens the tickets; Fabrizio organises the interventions. He does not want a VAT number. Through the cooperative, {{< brand >}} signs the support contract, Fabrizio logs interventions and tickets on the platform, with INAIL cover and professional liability included, and receives the monthly payslip.
 
 ## How it works with the cooperative
 
-1. **Framing the assignment**: sites, days, on-call, tools.
+1. **Framing the service**: sites, service levels, response times, tools.
 2. **Membership** as a member with a share of capital refundable on exit (Law 142/2001).
 3. **Contract** with service levels, expenses and liability.
-4. **Platform**: day log, tickets, expense claims, documents.
+4. **Platform**: intervention log, tickets, expense claims, documents.
 5. **Invoicing** the non-EU client under B2B rules verified case by case, in foreign currency too.
 6. **Employment contract** and payslip with holidays, sick leave, severance pay and unemployment benefit under legal conditions.
 
 ## Comparison with the VAT number
 
-Under the flat-rate regime (85,000 euro threshold, 15% substitute tax, 5% in the first five years with requirements) a technician with many small clients has excellent margins, paying contributions to Separate Management or to the craftsmen/traders scheme depending on the activity, and handling invoices and returns. With a single stable foreign client, the cooperative reduces paperwork and offers ordinary employment protections.
+Under the flat-rate regime (85,000 euro threshold, 15% substitute tax, 5% in the first five years with requirements) a technician with many small clients has excellent margins, paying contributions to Separate Management or to the craftsmen/traders scheme depending on the activity, and handling invoices and returns. If you prefer employee protections and no admin, the cooperative reduces paperwork and offers ordinary employment protections.
 
 Following, or wanting to follow, a foreign company in Italy? [Contact us](/en/contact/).

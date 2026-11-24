@@ -42,7 +42,7 @@ Ask the client what you may show and in what form, and keep a description of the
 
 ## Example: three months of analysis for a startup
 
-*A fictional example.* Imagine Lorenzo, an economics graduate of two months. A Finnish startup offers him three months of market analysis on the Italian food sector: twenty hours a week, interim and final report. Lorenzo does not know whether he will continue as a freelancer and does not want to open a VAT number for one client. Through the cooperative, {{< brand >}} signs the contract with the startup, Lorenzo is engaged as a worker-member with an employment contract for the project's duration, logs activities on the platform and receives the payslip. Contributions, INAIL and professional liability are included; if he wants to continue with other clients he can consider it at the end.
+*A fictional example.* Imagine Lorenzo, an economics graduate of two months. A Finnish startup offers him three months of market analysis on the Italian food sector: an interim and a final report, at a price agreed per phase. Lorenzo does not know whether he will continue as a freelancer and does not want to open a VAT number for a single project. Through the cooperative, {{< brand >}} signs the contract with the startup, Lorenzo is engaged as a worker-member with an employment contract for the project's duration, logs activities on the platform and receives the payslip. Contributions, INAIL and professional liability are included; if he wants to continue with other clients he can consider it at the end.
 
 ## How it works with the cooperative
 

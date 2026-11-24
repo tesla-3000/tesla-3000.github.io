@@ -40,7 +40,7 @@ La cooperativa firma con l'azienda spagnola la commessa e fattura il retainer. P
 
 ## Esempio
 
-Esempio: immaginiamo Andrea, consulente di Padova, che segue un e-commerce di Valencia che vende prodotti per animali. Retainer di sei mesi: gestione campagne Meta e Google per l'Italia, un report mensile, due call. Il budget pubblicitario è del cliente con accessi condivisi. La cooperativa fattura il retainer in euro con reverse charge; Andrea registra ore e attività sulla piattaforma e riceve la busta paga mensile. Personaggio di fantasia.
+Esempio: immaginiamo Andrea, consulente di Padova, che segue un e-commerce di Valencia che vende prodotti per animali. Retainer di sei mesi: gestione campagne Meta e Google per l'Italia, un report mensile, due call. Il budget pubblicitario è del cliente con accessi condivisi. La cooperativa fattura il retainer in euro con reverse charge; Andrea registra attività e consegne sulla piattaforma e riceve la busta paga mensile. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

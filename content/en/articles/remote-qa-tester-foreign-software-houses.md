@@ -30,7 +30,7 @@ Agree on:
 
 ## The cooperative's role
 
-The cooperative signs the agreement and invoices. For EU clients the reverse charge normally applies (art. 7-ter of decree 633/72); for non-EU clients generic B2B services are normally outside Italian VAT: checked case by case. As a worker-member (Italian Law 142/2001) you have a work relationship with INPS contributions, INAIL and, if employment, paid leave, sick leave, severance and a payslip. An employment relationship fits a role often embedded in the team with defined hours.
+The cooperative signs the agreement and invoices. For EU clients the reverse charge normally applies (art. 7-ter of decree 633/72); for non-EU clients generic B2B services are normally outside Italian VAT: checked case by case. As a worker-member (Italian Law 142/2001) you have a work relationship with INPS contributions, INAIL and, if employment, paid leave, sick leave, severance and a payslip. The contract with the client describes the testing service: scope, test cycles, defect reports and delivery times. You organise the work.
 
 ## Typical pitfalls
 
@@ -61,7 +61,7 @@ The flat-rate regime (revenue up to 85,000 euro, 15% substitute tax, 5% for the 
 
 ## Checklist before signing
 
-Before starting, ask for: requirements documentation and acceptance criteria; access to test environments with dummy data; the device and browser matrix; the bug report template; developers' response times. Propose creating a shared regression test set from the first weeks: it gives your work lasting value. Agree a minimum monthly commitment, because release peaks should not leave you with empty months. Record hours by activity on the platform.
+Before starting, ask for: requirements documentation and acceptance criteria; access to test environments with dummy data; the device and browser matrix; the bug report template; developers' response times. Propose creating a shared regression test set from the first weeks: it gives your work lasting value. Agree a minimum monthly commitment, because release peaks should not leave you with empty months. Record activities on the platform.
 
 
 Looking for QA work with foreign companies? [Contact us](/en/contact/).

@@ -37,7 +37,7 @@ Un libro di 50.000-70.000 parole richiede in genere diversi mesi. Il pagamento �
 
 ## Esempio: un manuale di leadership
 
-*Esempio di fantasia.* Immaginiamo Marco, scrittore con esperienza editoriale, che riceve un incarico da una dirigente britannica: un libro di 60.000 parole in otto mesi, con quattro tappe di pagamento. Marco non vuole fatture a suo nome perché il contratto prevede riservatezza stretta e vuole un rapporto stabile. Con la cooperativa, {{< brand >}} firma la commessa con la cliente, comprensiva di clausola di riservatezza, e Marco, socio lavoratore, registra le ore di intervista e scrittura sulla piattaforma. La busta paga mensile arriva anche nei mesi senza tappa di pagamento, grazie all'anticipo tramite fondo.
+*Esempio di fantasia.* Immaginiamo Marco, scrittore con esperienza editoriale, che riceve un incarico da una dirigente britannica: un libro di 60.000 parole in otto mesi, con quattro tappe di pagamento. Marco non vuole fatture a suo nome perché il contratto prevede riservatezza stretta e vuole un rapporto stabile. Con la cooperativa, {{< brand >}} firma la commessa con la cliente, comprensiva di clausola di riservatezza, e Marco, socio lavoratore, registra le attività di intervista e scrittura sulla piattaforma. La busta paga mensile arriva anche nei mesi senza tappa di pagamento, grazie all'anticipo tramite fondo.
 
 ## Come proteggere il rapporto con l'autore
 
@@ -49,7 +49,7 @@ Il ghostwriting è un lavoro di fiducia. Registra le sessioni di intervista con 
 2. **Verifica**: per cessioni di diritti e opere creative le regole sono specifiche e le controlliamo caso per caso.
 3. **Adesione** con quota di capitale sociale rimborsabile all'uscita (L. 142/2001).
 4. **Commessa** con tappe, riservatezza, cessione dei diritti, revisioni.
-5. **Piattaforma**: ore di lavoro, note spese per viaggi e trascrizioni, documenti firmati.
+5. **Piattaforma**: attività e consegne, note spese per viaggi e trascrizioni, documenti firmati.
 6. **Retribuzione**: busta paga con contributi, INAIL e RC professionale inclusa; fatturazione alla cliente anche in valuta con regole B2B da verificare caso per caso.
 
 ## Un confronto con la partita IVA

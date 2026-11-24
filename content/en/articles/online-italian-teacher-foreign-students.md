@@ -35,7 +35,7 @@ With the cooperative the relationship changes: for foreign schools and companies
 
 ## Example
 
-Example: imagine Silvia, an Italian teacher from Siena, working with a language school in Toronto (three groups a week) and twelve private students across the US and Australia. The cooperative signs the agreement with the school and works out with us how to handle the private students. Silvia logs hours on the platform and receives one monthly payslip. Fictional character.
+Example: imagine Silvia, an Italian teacher from Siena, working with a language school in Toronto (three groups a week) and twelve private students across the US and Australia. The cooperative signs the agreement with the school and works out with us how to handle the private students. Silvia logs activities on the platform and receives one monthly payslip. Fictional character.
 
 ## How it works with the cooperative
 

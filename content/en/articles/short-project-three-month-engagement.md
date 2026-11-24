@@ -35,7 +35,7 @@ The cooperative signs the engagement with the Dutch company and assigns the acti
 2. **Membership.** You become a member by subscribing the share capital quota, refundable on exit according to the by-laws.
 3. **Commercial contract.** The cooperative formalises the engagement with the foreign client; you sign nothing with them.
 4. **Employment contract.** We define your employment relationship for the length of the project, in line with the internal regulation.
-5. **Delivery.** You log activities and attendance on the platform and can ask for support via WhatsApp or email.
+5. **Delivery.** You log activities and deliveries on the platform and can ask for support via WhatsApp or email.
 6. **Invoicing and collection.** We invoice the client, including in foreign currency, and manage the collection.
 7. **Closing.** At the end you receive your final payslip with accrued entitlements and your documents, including the annual tax certificate (CU).
 

@@ -21,7 +21,7 @@ People working for foreign clients often move between time zones, cities and cou
 
 **Engagements.** The engagements you are assigned to, with client, period, planned activities and main conditions. You always know where you stand.
 
-**Activities and attendance.** You log what you do, day by day or as the engagement requires. It is the basis for pay, client invoicing and time checks.
+**Activities and deliveries.** You log what you do, day by day or as the engagement requires. It is the basis for pay, client invoicing and time checks.
 
 **Expense claims.** You upload receipts for trips and purchases, with dates and amounts, and follow the status of reimbursement.
 
@@ -37,14 +37,14 @@ The platform reduces typical frictions of remote work: no paper signatures to po
 
 ## Example: Teresa across three countries
 
-Example: imagine Teresa, a translator who spends the year between Italy, Portugal and Germany. At the start of the month she logs hours for the current project, uploads a ticket receipt, signs the engagement addendum online and downloads last month's payslip, which she needs for a rental contract. She did not have to print anything or post documents. For a doubt about the addendum she writes to support on WhatsApp.
+Example: imagine Teresa, a translator who spends the year between Italy, Portugal and Germany. At the start of the month she logs activities for the current project, uploads a ticket receipt, signs the engagement addendum online and downloads last month's payslip, which she needs for a rental contract. She did not have to print anything or post documents. For a doubt about the addendum she writes to support on WhatsApp.
 
 ## How it works with the cooperative
 
 1. **Access.** On joining you receive credentials and a short guide.
 2. **Profile.** You check your details and contact information.
 3. **Engagement.** You find assigned engagements and their conditions.
-4. **Daily use.** You log activities, attendance and expenses.
+4. **Daily use.** You log activities, deliveries and expenses.
 5. **Documents.** You consult payslips, CU and contracts, and sign where required.
 6. **Support.** If you have trouble, you write to support via WhatsApp or email.
 

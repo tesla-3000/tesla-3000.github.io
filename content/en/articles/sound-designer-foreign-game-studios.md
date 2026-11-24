@@ -45,7 +45,7 @@ The cooperative signs the agreement with the studio and invoices. For EU clients
 
 ## Example
 
-Example: imagine Tommaso, a sound designer from Bergamo, hired by an indie studio in Helsinki for an adventure game: 450 effects, ambience for six levels and FMOD implementation, over four months. The agreement provides milestone payments and a minimum monthly share. Tommaso logs days on the platform and receives a payslip; the cooperative invoices the studio. Fictional character.
+Example: imagine Tommaso, a sound designer from Bergamo, hired by an indie studio in Helsinki for an adventure game: 450 effects, ambience for six levels and FMOD implementation, over four months. The agreement provides milestone payments and a minimum monthly share. Tommaso logs activities on the platform and receives a payslip; the cooperative invoices the studio. Fictional character.
 
 ## How it works with the cooperative
 

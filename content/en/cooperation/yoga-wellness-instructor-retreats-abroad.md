@@ -49,7 +49,7 @@ If the platform is the client and signs the engagement, online classes follow th
 
 ## Fictional example
 
-Fictional example: imagine Chiara, a yoga teacher in Bologna. Every year she leads three retreats for a German organiser in Sardinia and Greece, and from September to June she teaches two weekly online classes for a London-based platform. Instead of opening a VAT number, she becomes a member of the cooperative. Each organisation signs an engagement with the cooperative. Chiara records her retreat days and teaching hours on the platform, uploads the train receipts for getting to the ferry and receives her payslip every month. When she stops for a week with flu in February, the medical certificate follows the rules for employees. She negotiated her rates with the clients herself; the cooperative put everything else in writing and handled it.
+Fictional example: imagine Chiara, a yoga teacher in Bologna. Every year she leads three retreats for a German organiser in Sardinia and Greece, and from September to June she teaches two weekly online classes for a London-based platform. Instead of opening a VAT number, she becomes a member of the cooperative. Each organisation signs an engagement with the cooperative. Chiara records the retreats and classes delivered on the platform, uploads the train receipts for getting to the ferry and receives her payslip every month. When she stops for a week with flu in February, the medical certificate follows the rules for employees. She negotiated her rates with the clients herself; the cooperative put everything else in writing and handled it.
 
 ## How it works with the cooperative
 
@@ -57,7 +57,7 @@ Fictional example: imagine Chiara, a yoga teacher in Bologna. Every year she lea
 2. **Admission.** You become a member by subscribing the share and accepting the by-laws and internal regulation.
 3. **Engagement.** The cooperative signs a contract with the organiser or platform covering dates, activity, fee and expenses.
 4. **Employment contract.** You are hired with your own contract, consistent with the type of activity.
-5. **Work and records.** You teach, log hours and days and upload expenses on the platform.
+5. **Work and records.** You teach, log classes and retreats and upload expenses on the platform.
 6. **Invoice and payslip.** The cooperative invoices and collects; you receive a monthly payslip.
 
 ## What to consider first

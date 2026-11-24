@@ -46,7 +46,7 @@ Quale sia la scelta migliore dipende dal cliente e dall'importo. Come si documen
 
 Esempio di fantasia: immaginiamo Davide, formatore esperto di gestione dei progetti, che vive a Torino. Un gruppo industriale con sede a Lione gli chiede tre workshop di due giorni, uno al mese, per i capi reparto di tre stabilimenti diversi in Francia.
 
-Davide concorda con l'azienda programma, tariffa giornaliera e un forfait di preparazione. La cooperativa redige il contratto commerciale: date, sedi, clausola di cancellazione, e una regola chiara sulle spese, con hotel prenotati direttamente dal cliente e treni anticipati da Davide e rimborsati. Dopo ogni workshop Davide carica sulla piattaforma le giornate lavorate e le ricevute del treno; la cooperativa fattura al cliente, incassa e gli riconosce retribuzione e rimborsi in busta paga.
+Davide concorda con l'azienda programma, tariffa giornaliera e un forfait di preparazione. La cooperativa redige il contratto commerciale: date, sedi, clausola di cancellazione, e una regola chiara sulle spese, con hotel prenotati direttamente dal cliente e treni anticipati da Davide e rimborsati. Dopo ogni workshop Davide registra sulla piattaforma il workshop svolto e le ricevute del treno; la cooperativa fattura al cliente, incassa e gli riconosce retribuzione e rimborsi in busta paga.
 
 Il quarto mese l'azienda propone di estendere il programma ad altri due Paesi. Nuove date, stesse regole, contratto aggiornato.
 

@@ -25,7 +25,7 @@ That does not mean exchange rate risk disappears by magic: it must be clearly se
 
 ## Example: Giacomo and the dollars
 
-Example: imagine Giacomo, a technical consultant working for a company in Austin. Before, he invoiced in dollars via a payment platform, paying fees and losing hours reconciling amounts. In the cooperative, the engagement provides a daily rate in dollars; the cooperative invoices, collects and manages the exchange. Giacomo logs the days worked, and each month his pay in euro is calculated under the agreed employment relationship. If the dollar moves a lot, the clause in the engagement determines how that is accounted for.
+Example: imagine Giacomo, a technical consultant working for a company in Austin. Before, he invoiced in dollars via a payment platform, paying fees and losing hours reconciling amounts. In the cooperative, the engagement sets a price in dollars for each phase of the consultancy; the cooperative invoices, collects and manages the exchange. Giacomo logs activities and deliveries, and each month his pay in euro is calculated under the agreed employment relationship. If the dollar moves a lot, the clause in the engagement determines how that is accounted for.
 
 ## How it works with the cooperative
 
@@ -33,7 +33,7 @@ Example: imagine Giacomo, a technical consultant working for a company in Austin
 2. **Invoicing.** The cooperative issues the invoice to the client, with VAT treatment assessed case by case (B2B services: reverse charge for the EU, generally not subject to Italian VAT for non-EU).
 3. **Collection.** Payment arrives in the cooperative's accounts.
 4. **Exchange and charges.** Handled by the cooperative within what was agreed.
-5. **Pay.** You receive a payslip in euro; logged days form the basis of calculation.
+5. **Pay.** You receive a payslip in euro; pay follows your employment contract and your activity budget.
 6. **Advance.** If the client pays slowly, an advance through the fund can be considered.
 
 ## Always clarify

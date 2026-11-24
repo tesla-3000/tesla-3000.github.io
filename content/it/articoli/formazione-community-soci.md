@@ -25,14 +25,14 @@ La community dei soci è uno spazio dove si condividono:
 
 - esperienze con clienti di paesi diversi e modalità di lavoro;
 - strumenti e metodi per organizzarsi;
-- domande pratiche su amministrazione, presenze e note spese;
+- domande pratiche su amministrazione, attività e note spese;
 - segnalazioni di opportunità e competenze complementari.
 
 Essendo soci di una cooperativa, il rapporto non è quello tra cliente e fornitore: è una comunità di persone con interessi comuni, in linea con lo spirito mutualistico previsto dalla normativa sulle cooperative.
 
 ## La formazione: cosa aspettarsi
 
-La formazione può avere due volti. Da un lato ci sono i temi di base legati al rapporto di lavoro: sicurezza sul lavoro, uso corretto della piattaforma, regole su presenze e rendicontazione. Dall'altro ci sono percorsi di crescita professionale: comunicazione con clienti internazionali, gestione del tempo, lingue, strumenti digitali del proprio settore.
+La formazione può avere due volti. Da un lato ci sono i temi di base legati al rapporto di lavoro: sicurezza sul lavoro, uso corretto della piattaforma, regole di rendicontazione delle attività. Dall'altro ci sono percorsi di crescita professionale: comunicazione con clienti internazionali, gestione del tempo, lingue, strumenti digitali del proprio settore.
 
 Alcune attività formative possono essere obbligatorie per legge, in particolare in materia di sicurezza; per le altre vale il principio dell'interesse del socio. Il programma concreto dipende dal periodo e dalle esigenze dei soci: va sempre verificato con la cooperativa.
 

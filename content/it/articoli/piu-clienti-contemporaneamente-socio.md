@@ -47,7 +47,7 @@ Più clienti in paesi diversi significano riunioni a orari scomodi. Serve una re
 
 ## Esempio: Silvia, traduttrice e revisora
 
-Esempio di fantasia: Silvia lavora per due clienti, un editore francese (venti ore settimanali) e una società di software tedesca (dodici ore). In cooperativa ha due commesse. Prima di accettare la seconda controlla che la clausola di esclusiva non fosse presente nella prima e chiede alla cooperativa di aggiornare il contratto di lavoro per riflettere il nuovo impegno. Ogni settimana usa la piattaforma per registrare le ore per cliente e chiude il venerdì con un riepilogo. Quando il cliente tedesco chiede di aumentare le ore, valuta se ha capacità e rifiuta con garbo.
+Esempio di fantasia: Silvia lavora per due clienti, un editore francese (venti ore settimanali) e una società di software tedesca (dodici ore). In cooperativa ha due commesse. Prima di accettare la seconda controlla che la clausola di esclusiva non fosse presente nella prima e chiede alla cooperativa di aggiornare il contratto di lavoro per riflettere il nuovo impegno. Ogni settimana usa la piattaforma per registrare le attività per cliente e chiude il venerdì con un riepilogo. Quando il cliente tedesco chiede di aumentare le ore, valuta se ha capacità e rifiuta con garbo.
 
 ## Come funziona con la cooperativa
 
@@ -55,7 +55,7 @@ Esempio di fantasia: Silvia lavora per due clienti, un editore francese (venti o
 2. **Verifica di compatibilità.** Si controllano orario, esclusiva, conflitti e riservatezza.
 3. **Nuova commessa.** La cooperativa la firma con il secondo cliente.
 4. **Adeguamento del contratto di lavoro.** Se necessario, si aggiornano orario e impegno.
-5. **Gestione quotidiana.** Presenze e attività per ciascun cliente sono registrate sulla piattaforma.
+5. **Gestione quotidiana.** Attività e consegne per ciascun cliente sono registrate sulla piattaforma.
 
 ## Cosa verificare
 

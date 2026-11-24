@@ -40,7 +40,7 @@ In an employment relationship, employee protections apply: INPS contributions pa
 
 - **Share capital.** Subscribe and pay it as set out in the by-laws.
 - **Respect the rules.** By-laws, internal regulation and resolutions of the cooperative's bodies apply to every member.
-- **Work as agreed.** Carry out the agreed activities diligently, report attendance and activity, meet client deadlines.
+- **Work as agreed.** Carry out the agreed activities diligently, report activities and deliveries, meet client deadlines.
 - **Fair conduct.** Behave loyally towards the cooperative and other members; for example, do not misuse the cooperative's name and keep client information confidential.
 - **Participation.** It is not only a right: staying informed, reading communications and attending the members' meeting is what keeps a member-owned business alive.
 - **Keep data up to date.** Report changes of residence, contact details and relevant circumstances, which affect payroll and paperwork.
@@ -58,7 +58,7 @@ Fictional example: imagine Davide, a developer working remotely for a German sof
 1. **Read the documents.** By-laws and regulation are available before admission.
 2. **Admission and share.** The membership relationship begins.
 3. **Employment contract.** The working relationship begins, with its protections.
-4. **Day to day.** With {{< brand >}} the member uses the digital platform for engagements, attendance, expenses, payslips and documents, with support via WhatsApp and email.
+4. **Day to day.** With {{< brand >}} the member uses the digital platform for engagements, activities, expenses, payslips and documents, with support via WhatsApp and email.
 5. **Cooperative life.** Communications, members' meeting, access to corporate documents.
 
 ## What to check

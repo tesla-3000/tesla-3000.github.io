@@ -8,7 +8,7 @@ categories: ["use-cases"]
 tags: ["interpreters", "events", "travel"]
 faq:
   - q: "How are conference days paid?"
-    a: "Usually by the day or half day, at a rate agreed in the contract with the organiser. The cooperative invoices and the member receives a payslip for the days logged."
+    a: "Usually by the day or half day, at a rate agreed in the contract with the organiser. The cooperative invoices and the member receives a payslip for the services performed."
   - q: "Are trips abroad covered?"
     a: "Travel, board and lodging are agreed in the contract and reported as expense claims. Rules on cover and tax treatment of trips must be checked case by case."
   - q: "Can I work for several organisers at once?"
@@ -56,6 +56,6 @@ Anyone working for several organisers risks accepting two events in the same per
 
 ## Weighing the alternatives
 
-With a flat-rate VAT number (revenue under 85,000 euro, 15% substitute tax, 5% for the first five years if requirements are met) the interpreter has maximum freedom on rates and clients, but handles e-invoices, returns and Separate Management contributions. Some choose a mixed solution: a VAT number for stable clients, the cooperative for foreign events where organisers want a structured counterpart. If your work is very discontinuous, having a payslip that follows the days logged simplifies personal bookkeeping.
+With a flat-rate VAT number (revenue under 85,000 euro, 15% substitute tax, 5% for the first five years if requirements are met) the interpreter has maximum freedom on rates and clients, but handles e-invoices, returns and Separate Management contributions. Some choose a mixed solution: a VAT number for stable clients, the cooperative for foreign events where organisers want a structured counterpart. If your work is very discontinuous, having a payslip that follows the services performed simplifies personal bookkeeping.
 
 If your calendar is full of events abroad, [talk to us through the contact page](/en/contact/): we will see how to manage contracts and travel.

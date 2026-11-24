@@ -29,7 +29,7 @@ Per un artista visivo il reddito ha più facce: la vendita di opere a collezioni
 
 Esempio: immaginiamo Elena, pittrice, che riceve da un ristorante di Vienna la richiesta di realizzare un murale in due settimane. Elena vende anche quadri tramite una galleria, ma per il murale vuole un inquadramento chiaro. Si associa alla cooperativa.
 
-La cooperativa firma con il locale il contratto commerciale: descrizione dell'opera, tempi, compenso, materiali, regole sull'uso dell'immagine e sui diritti. Elena lavora in loco, registra le giornate sulla piattaforma, chiede il rimborso dei materiali e del viaggio. Riceve busta paga e ha copertura INAIL, un aspetto importante quando si lavora su ponteggi.
+La cooperativa firma con il locale il contratto commerciale: descrizione dell'opera, tempi, compenso, materiali, regole sull'uso dell'immagine e sui diritti. Elena lavora in loco, registra le attività sulla piattaforma, chiede il rimborso dei materiali e del viaggio. Riceve busta paga e ha copertura INAIL, un aspetto importante quando si lavora su ponteggi.
 
 ## Come funziona con la cooperativa
 

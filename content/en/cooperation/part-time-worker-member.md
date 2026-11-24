@@ -15,7 +15,7 @@ faq:
     a: "Yes, with a written agreement. Hours can be increased or moved to full time, and vice versa, in line with the law and the collective agreement."
 ---
 
-Not every freelancer works eight hours a day for one client. Some support a foreign client three days a week, some have peaks in certain months, some combine it with another activity. For these situations a worker-member of a cooperative can have a **part-time** employment contract. This guide explains the possible forms and their effects in general terms.
+Not every freelancer works full time. Some support a foreign client three days a week, some have peaks in certain months, some combine it with another activity. For these situations a worker-member of a cooperative can have a **part-time** employment contract. This guide explains the possible forms and their effects in general terms.
 
 ## The three forms of part-time
 
@@ -44,7 +44,7 @@ Part-time is a useful tool when client work does not cover a full-time job. Some
 - **Align hours with the client contract:** contract hours should match those the client actually needs.
 - **Plan for growth:** if the client may increase the workload, it helps to know in advance how hours will be raised.
 - **Handle peaks:** vertical or mixed part-time lets you concentrate work in the busiest periods.
-- **Report regularly:** logging activity and attendance on the platform keeps the contract consistent with actual work.
+- **Report regularly:** logging activities and deliveries on the platform keeps the contract consistent with actual work.
 
 More on working time in [hours and autonomy in remote work](/en/articles/hours-autonomy-remote-work/).
 
@@ -73,7 +73,7 @@ Fictional example: imagine Chiara, a copywriter who works for a German publisher
 1. **Map the work.** Estimate the client's workload across the year.
 2. **Choose the form.** {{< brand >}} proposes horizontal, vertical or mixed according to the client contract.
 3. **Written contract.** Stating the amount and scheduling of hours.
-4. **Reporting.** Attendance and activity logged on the platform.
+4. **Reporting.** Activities and deliveries logged on the platform.
 5. **Adjustment.** If the workload changes, hours are updated by written agreement.
 
 Want to know which part-time fits your client work? [Contact us](/en/contact/).

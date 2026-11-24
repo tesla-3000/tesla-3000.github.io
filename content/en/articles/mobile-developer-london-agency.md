@@ -10,7 +10,7 @@ faq:
   - q: "Who owns the Apple and Google developer accounts?"
     a: "Normally the end client or the agency. Never publish apps under your personal account unless agreed in the contract."
   - q: "How is sprint-based development paid?"
-    a: "The agreement can set a daily or monthly rate with invoicing per sprint, with defined approval times."
+    a: "The agreement can set a price per sprint or per milestone, with defined approval criteria and times."
   - q: "Does the cooperative invoice in pounds?"
     a: "Yes, it can invoice and collect in foreign currency. Your pay on the payslip remains in euro."
 ---
@@ -40,7 +40,7 @@ The cooperative signs the agreement with the agency and invoices in pounds. Sinc
 
 ## Example
 
-Example: imagine Nicola, a Flutter developer from Lecce, hired by a London agency to build a booking app for a gym chain: five months, day rate, two-week sprints. The agreement includes a 30-day post-release warranty. The cooperative invoices in pounds per sprint; Nicola logs days on the platform and receives a monthly payslip. Fictional character.
+Example: imagine Nicola, a Flutter developer from Lecce, hired by a London agency to build a booking app for a gym chain: five months, two-week sprints priced per sprint with agreed features. The agreement includes a 30-day post-release warranty. The cooperative invoices in pounds per sprint; Nicola logs activities and deliveries on the platform and receives a monthly payslip. Fictional character.
 
 ## How it works with the cooperative
 

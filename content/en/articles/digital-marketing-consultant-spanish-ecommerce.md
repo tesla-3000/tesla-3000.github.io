@@ -40,7 +40,7 @@ The cooperative signs the agreement with the Spanish company and invoices the re
 
 ## Example
 
-Example: imagine Andrea, a consultant from Padua, working with a Valencia e-commerce selling pet products. Six-month retainer: Meta and Google campaign management for Italy, one monthly report, two calls. The ad budget is the client's with shared access. The cooperative invoices the retainer in euro under reverse charge; Andrea logs hours and activities on the platform and gets a monthly payslip. Fictional character.
+Example: imagine Andrea, a consultant from Padua, working with a Valencia e-commerce selling pet products. Six-month retainer: Meta and Google campaign management for Italy, one monthly report, two calls. The ad budget is the client's with shared access. The cooperative invoices the retainer in euro under reverse charge; Andrea logs activities and deliveries on the platform and gets a monthly payslip. Fictional character.
 
 ## How it works with the cooperative
 

@@ -44,7 +44,7 @@ La cooperativa firma la commessa con la piattaforma e fattura. Per clienti UE di
 
 ## Esempio
 
-Esempio: immaginiamo Federica, formatrice in comunicazione di Trieste, ingaggiata da una piattaforma di corsi tedesca per un corso di italiano commerciale di dodici lezioni live e dispense. La commessa riconosce 12 ore di docenza e 20 ore di preparazione, con licenza dei materiali per due anni. Federica registra ore e lezioni sulla piattaforma e riceve la busta paga; la cooperativa fattura con reverse charge. Personaggio di fantasia.
+Esempio: immaginiamo Federica, formatrice in comunicazione di Trieste, ingaggiata da una piattaforma di corsi tedesca per un corso di italiano commerciale di dodici lezioni live e dispense. La commessa riconosce 12 ore di docenza e 20 ore di preparazione, con licenza dei materiali per due anni. Federica registra attività e lezioni sulla piattaforma e riceve la busta paga; la cooperativa fattura con reverse charge. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

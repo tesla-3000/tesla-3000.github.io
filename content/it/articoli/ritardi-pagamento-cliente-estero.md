@@ -44,7 +44,7 @@ Il rapporto di lavoro del socio prevede la retribuzione secondo il contratto e i
 
 Anche se la gestione dei solleciti è della cooperativa, ci sono comportamenti che aiutano:
 
-- registrare con puntualità attività e presenze sulla piattaforma;
+- registrare con puntualità attività e consegne sulla piattaforma;
 - ottenere conferma scritta delle consegne e approvazioni da parte del cliente;
 - segnalare subito alla cooperativa segnali di difficoltà, come mancate risposte o contestazioni;
 - non fare accordi paralleli con il cliente su compensi o scadenze, perché il contratto è della cooperativa.

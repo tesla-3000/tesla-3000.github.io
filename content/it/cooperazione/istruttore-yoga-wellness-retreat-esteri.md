@@ -49,7 +49,7 @@ Se la piattaforma è il committente e firma la commessa, le lezioni online seguo
 
 ## Esempio di fantasia
 
-Esempio di fantasia: immaginiamo Chiara, insegnante di yoga a Bologna. Ogni anno tiene tre retreat per un organizzatore tedesco in Sardegna e in Grecia, e da settembre a giugno conduce due lezioni online settimanali per una piattaforma con sede a Londra. Invece di aprire partita IVA, diventa socia della cooperativa. Le due realtà firmano ciascuna una commessa con la cooperativa. Chiara registra le giornate di retreat e le ore di lezione sulla piattaforma, carica le ricevute del treno per raggiungere il porto e riceve ogni mese la busta paga. Quando a febbraio si ferma una settimana per l'influenza, il certificato medico segue le regole del lavoro dipendente. Le tariffe le ha discusse lei con i committenti: la cooperativa ha messo per iscritto e gestito tutto il resto.
+Esempio di fantasia: immaginiamo Chiara, insegnante di yoga a Bologna. Ogni anno tiene tre retreat per un organizzatore tedesco in Sardegna e in Grecia, e da settembre a giugno conduce due lezioni online settimanali per una piattaforma con sede a Londra. Invece di aprire partita IVA, diventa socia della cooperativa. Le due realtà firmano ciascuna una commessa con la cooperativa. Chiara registra retreat e lezioni svolti sulla piattaforma, carica le ricevute del treno per raggiungere il porto e riceve ogni mese la busta paga. Quando a febbraio si ferma una settimana per l'influenza, il certificato medico segue le regole del lavoro dipendente. Le tariffe le ha discusse lei con i committenti: la cooperativa ha messo per iscritto e gestito tutto il resto.
 
 ## Come funziona con la cooperativa
 
@@ -57,7 +57,7 @@ Esempio di fantasia: immaginiamo Chiara, insegnante di yoga a Bologna. Ogni anno
 2. **Ammissione.** Diventi socio sottoscrivendo la quota sociale e accettando statuto e regolamento interno.
 3. **Commessa.** La cooperativa firma con l'organizzatore o la piattaforma il contratto con date, attività, compenso e spese.
 4. **Contratto di lavoro.** Vieni assunto con il tuo contratto, coerente con il tipo di attività.
-5. **Lavoro e registrazione.** Insegni, registri ore e giornate e carichi le spese sulla piattaforma.
+5. **Lavoro e registrazione.** Insegni, registri lezioni e retreat e carichi le spese sulla piattaforma.
 6. **Fattura e busta paga.** La cooperativa fattura e incassa; tu ricevi la busta paga mensile.
 
 ## Cosa valutare prima

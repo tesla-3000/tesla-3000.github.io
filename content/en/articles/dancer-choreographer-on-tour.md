@@ -36,7 +36,7 @@ The cooperative signs the agreement with the company or festival, invoices and c
 
 ## Example
 
-Example: imagine Elisa, a dancer from Reggio Emilia, hired by a German company for six weeks of rehearsals and fourteen performances in three countries. The agreement between cooperative and company sets rehearsals, shows, reimbursements and rest days. Elisa logs days and expenses on the platform, the cooperative invoices the company and she receives a monthly payslip, with INAIL cover during work. Fictional character.
+Example: imagine Elisa, a dancer from Reggio Emilia, hired by a German company for six weeks of rehearsals and fourteen performances in three countries. The agreement between cooperative and company sets rehearsals, shows, reimbursements and rest days. Elisa logs activities and expenses on the platform, the cooperative invoices the company and she receives a monthly payslip, with INAIL cover during work. Fictional character.
 
 ## How it works with the cooperative
 

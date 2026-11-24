@@ -38,7 +38,7 @@ Gli ingaggi sono a **giornata** (con una tariffa diversa per giorni di viaggio e
 
 ## Esempio: un tour di sei date
 
-*Esempio di fantasia.* Immaginiamo Andrea, tecnico luci con dieci anni di esperienza su palchi italiani. Una produzione di Amburgo gli propone un tour in sei città tedesche e austriache, nove giorni di lavoro in tutto più due di trasferimento. Andrea non vuole aprire una partita IVA per un solo ingaggio internazionale, e la produzione vuole una sola fattura. Con la cooperativa, {{< brand >}} firma la commessa con la produzione e Andrea viene inquadrato come socio lavoratore per il periodo del tour. Sulla piattaforma registra giornate, trasferte e le ricevute di treno e hotel; la busta paga arriva a fine mese.
+*Esempio di fantasia.* Immaginiamo Andrea, tecnico luci con dieci anni di esperienza su palchi italiani. Una produzione di Amburgo gli propone un tour in sei città tedesche e austriache, nove giorni di lavoro in tutto più due di trasferimento. Andrea non vuole aprire una partita IVA per un solo ingaggio internazionale, e la produzione vuole una sola fattura. Con la cooperativa, {{< brand >}} firma la commessa con la produzione e Andrea viene inquadrato come socio lavoratore per il periodo del tour. Sulla piattaforma registra attività, trasferte e le ricevute di treno e hotel; la busta paga arriva a fine mese.
 
 ## Checklist prima di partire
 
@@ -49,7 +49,7 @@ Prima di ogni trasferta controlla: rider tecnico aggiornato, elenco di chi è re
 1. **Descrivi l'ingaggio**: date, luoghi, rider, tariffa proposta.
 2. **Adesione** con quota di capitale sociale rimborsabile (L. 142/2001).
 3. **Commessa** con la produzione: tariffe per giornata, straordinari, trasferte, cancellazioni.
-4. **Operatività**: presenze, note spese e documenti sulla piattaforma; supporto WhatsApp durante il tour.
+4. **Operatività**: attività, note spese e documenti sulla piattaforma; supporto WhatsApp durante il tour.
 5. **Tutele**: contributi INPS, copertura INAIL, ferie, malattia e TFR secondo il rapporto di lavoro; RC professionale inclusa.
 6. **Fatturazione**: la cooperativa fattura alla produzione estera, in valuta se necessario, con regole da verificare caso per caso.
 

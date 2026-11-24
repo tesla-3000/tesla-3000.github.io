@@ -42,7 +42,7 @@ Esempio: immaginiamo Davide, chitarrista jazz di Perugia, che ha tre ingaggi est
 1. **Calendario.** Mandi l'elenco degli ingaggi con date, luoghi e cachet.
 2. **Adesione.** Sottoscrivi una quota di capitale sociale, rimborsabile all'uscita secondo statuto.
 3. **Commesse.** La cooperativa firma con ogni promoter.
-4. **Attività.** Presenze e note spese sulla piattaforma.
+4. **Attività.** Attività e note spese sulla piattaforma.
 5. **Incasso.** La cooperativa fattura e incassa, anche in valuta.
 6. **Busta paga.** Ricevi il compenso con busta paga e documenti sulla piattaforma.
 

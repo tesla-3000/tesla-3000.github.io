@@ -10,7 +10,7 @@ faq:
   - q: "Chi firma la commessa?"
     a: "La firmano la cooperativa e il cliente. Il socio lavoratore non è parte del contratto commerciale, ma ne rispetta l'oggetto nello svolgimento dell'attività."
   - q: "Posso chiedere modifiche alla commessa?"
-    a: "Sì, prima della firma: il socio negozia di fatto condizioni di lavoro e tariffa, che la cooperativa traduce nel contratto. Alcune clausole standard possono avere margini limitati."
+    a: "Sì, prima della firma: il socio definisce di fatto oggetto, consegne e prezzo del servizio, che la cooperativa traduce nel contratto. Alcune clausole standard possono avere margini limitati."
   - q: "In che lingua è il contratto?"
     a: "Spesso in italiano o in inglese, a seconda del cliente. Se è in una lingua che non padroneggi, fatti spiegare i punti principali prima di procedere."
 ---
@@ -30,10 +30,10 @@ Descrive il servizio: attività, risultati attesi, eventuali esclusioni. Un ogge
 Data di inizio, scadenza, modalità di rinnovo, preavviso di recesso per entrambe le parti.
 
 ### Corrispettivo e fatturazione
-Tariffa (oraria, giornaliera, a corpo), valuta, periodicità di fatturazione, termini di pagamento, eventuali interessi di mora. Per i clienti esteri, indicazioni su dati di fatturazione e IVA da verificare caso per caso.
+Prezzo a corpo, per fase o a canone per servizi definiti; tariffe orarie o giornaliere solo dove sono uso del settore (per esempio interpretariato o eventi) e per prestazioni definite, oppure per valorizzare le variazioni. Poi valuta, periodicità di fatturazione, termini di pagamento, eventuali interessi di mora. Per i clienti esteri, indicazioni su dati di fatturazione e IVA da verificare caso per caso.
 
 ### Modalità di esecuzione
-Luogo di lavoro (remoto, presso il cliente), strumenti, reperibilità, riunioni, referenti. Importante: indica l'organizzazione, non va letta come potere di direzione illimitato.
+Il servizio è organizzato dal socio e dalla cooperativa, con propri strumenti. Il cliente indica un referente che fornisce requisiti, approva le consegne e concorda le finestre per le riunioni; non dirige il lavoro né dà ordini come a un proprio dipendente. Le attività presso la sede del cliente sono solo quelle necessarie e puntuali (installazioni, workshop, eventi).
 
 ### Riservatezza e proprietà intellettuale
 Obblighi di riservatezza, uso dei risultati, titolarità di quanto prodotto. Sono clausole che coinvolgono direttamente il socio.
@@ -49,15 +49,15 @@ Quali spese sono rimborsabili, con quali documenti e limiti.
 
 ## Esempio: Elena, analista dati
 
-Esempio di fantasia: Elena fa analisi dati per una società britannica. La commessa prevede 80 ore al mese, tariffa oraria concordata, consegna di un report mensile, fatturazione a fine mese con pagamento a 30 giorni, riservatezza sui dati e proprietà dei report al cliente. Elena nota che l'oggetto non specifica chi fornisce gli strumenti software: lo segnala prima della firma, e la clausola viene integrata. Senza quella lettura, il dubbio sarebbe emerso al primo mese.
+Esempio di fantasia: Elena fa analisi dati per una società britannica. La commessa prevede un canone mensile per un report di analisi con contenuti definiti, una revisione per ogni report, fatturazione a fine mese con pagamento a 30 giorni, riservatezza sui dati e proprietà dei report al cliente. Elena nota che l'oggetto non specifica chi fornisce gli strumenti software: lo segnala prima della firma, e la clausola viene integrata. Senza quella lettura, il dubbio sarebbe emerso al primo mese.
 
 ## Come funziona con la cooperativa
 
 1. **Raccolta delle condizioni.** Il socio indica a {{< brand >}} i termini concordati con il cliente.
 2. **Bozza di commessa.** La cooperativa prepara il contratto (o adatta quello del cliente) e lo condivide con il socio.
-3. **Lettura e osservazioni.** Il socio verifica che oggetto, tempi e tariffa rispecchino l'accordo e segnala le modifiche.
+3. **Lettura e osservazioni.** Il socio verifica che oggetto, consegne, tempi e prezzo rispecchino l'accordo e segnala le modifiche.
 4. **Negoziazione con il cliente.** La cooperativa tratta le clausole critiche.
-5. **Firma e avvio.** Firmata la commessa, il lavoro si registra sulla piattaforma.
+5. **Firma e avvio.** Firmata la commessa, attività e consegne si registrano sulla piattaforma.
 
 ## Cosa verificare
 

@@ -39,7 +39,7 @@ Tariffe a **secondo di video finito**, a **giornata** o a **forfait**. In pubbli
 
 ## Esempio: venti animazioni in due settimane
 
-*Esempio di fantasia.* Immaginiamo Irene, motion designer freelance a Bologna. Un'agenzia americana le commissiona venti brevi animazioni per una campagna, a forfait per video, con tre formati ciascuna e consegna in due settimane. Pagamento a 45 giorni. Irene non vuole attendere un mese e mezzo per avere un compenso, e l'agenzia desidera una sola fattura in dollari. Con la cooperativa, {{< brand >}} firma la commessa; Irene registra giornate e consegne sulla piattaforma e riceve la busta paga mensile, mentre l'anticipo tramite fondo copre il ritardo dell'incasso.
+*Esempio di fantasia.* Immaginiamo Irene, motion designer freelance a Bologna. Un'agenzia americana le commissiona venti brevi animazioni per una campagna, a forfait per video, con tre formati ciascuna e consegna in due settimane. Pagamento a 45 giorni. Irene non vuole attendere un mese e mezzo per avere un compenso, e l'agenzia desidera una sola fattura in dollari. Con la cooperativa, {{< brand >}} firma la commessa; Irene registra attività e consegne sulla piattaforma e riceve la busta paga mensile, mentre l'anticipo tramite fondo copre il ritardo dell'incasso.
 
 ## Organizzare il file e la consegna
 

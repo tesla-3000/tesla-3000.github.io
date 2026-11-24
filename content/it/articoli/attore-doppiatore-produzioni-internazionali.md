@@ -35,7 +35,7 @@ La cooperativa firma la commessa con la produzione, fattura e incassa (anche in 
 
 ## Esempio
 
-Esempio: immaginiamo Lorenzo, attore e doppiatore di Milano, che ottiene un ruolo di quattro giornate di ripresa in una serie girata in Repubblica Ceca e, nello stesso periodo, otto sessioni di voce per un videogioco di uno studio canadese da home studio professionale. La cooperativa firma le due commesse; Lorenzo registra giornate e sessioni sulla piattaforma, carica le note spese di viaggio e riceve la busta paga. Il personaggio è di fantasia; l'ammissibilità di ogni caso si verifica prima.
+Esempio: immaginiamo Lorenzo, attore e doppiatore di Milano, che ottiene un ruolo di quattro giornate di ripresa in una serie girata in Repubblica Ceca e, nello stesso periodo, otto sessioni di voce per un videogioco di uno studio canadese da home studio professionale. La cooperativa firma le due commesse; Lorenzo registra attività e sessioni sulla piattaforma, carica le note spese di viaggio e riceve la busta paga. Il personaggio è di fantasia; l'ammissibilità di ogni caso si verifica prima.
 
 ## Come funziona con la cooperativa
 

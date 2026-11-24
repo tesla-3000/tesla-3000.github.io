@@ -44,7 +44,7 @@ The cooperative signs the agreement with the platform and invoices. For EU clien
 
 ## Example
 
-Example: imagine Federica, a communication trainer from Trieste, hired by a German course platform for a twelve-lesson live business Italian course with handouts. The agreement recognises 12 teaching hours and 20 preparation hours, with a two-year licence on the materials. Federica logs hours and lessons on the platform and receives a payslip; the cooperative invoices under reverse charge. Fictional character.
+Example: imagine Federica, a communication trainer from Trieste, hired by a German course platform for a twelve-lesson live business Italian course with handouts. The agreement recognises 12 teaching hours and 20 preparation hours, with a two-year licence on the materials. Federica logs activities and lessons on the platform and receives a payslip; the cooperative invoices under reverse charge. Fictional character.
 
 ## How it works with the cooperative
 

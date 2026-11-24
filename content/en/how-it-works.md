@@ -34,3 +34,8 @@ From the billed amount (excl. VAT) we deduct the cooperative's service fee (see 
 - Professions reserved to members of a professional register.
 - Activities requiring licences the cooperative does not hold.
 - People living abroad permanently, unless tax residence and social security have been checked first.
+- Companies looking for staff to fold into their own organisation: we do not place people with companies that manage them as their own employees. In that case we recommend direct hiring.
+
+## What stays with you
+
+Finding clients, setting the price, doing the work. The cooperative does not assign you clients and does not take away your professional autonomy with the clients you already know.

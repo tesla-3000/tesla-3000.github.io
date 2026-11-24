@@ -40,3 +40,4 @@ Trovare i clienti, decidere il prezzo, fare il lavoro. La cooperativa non ti ass
 - Professioni riservate agli iscritti a un albo per le attività in esclusiva.
 - Attività che richiedono licenze o requisiti specifici non posseduti dalla cooperativa.
 - Chi vive stabilmente all'estero senza una verifica preventiva su residenza fiscale e previdenza.
+- Aziende che cercano personale da inserire nella propria organizzazione: non mettiamo persone a disposizione di aziende che le dirigono come propri dipendenti. In quel caso consigliamo l'assunzione diretta.

@@ -35,7 +35,7 @@ Con la cooperativa il rapporto cambia: per le scuole e le aziende estere la comm
 
 ## Esempio
 
-Esempio: immaginiamo Silvia, insegnante di italiano di Siena, che segue una scuola di lingue di Toronto (tre gruppi a settimana) e dodici studenti privati sparsi tra Stati Uniti e Australia. La cooperativa firma la commessa con la scuola e definisce con noi come gestire gli studenti privati. Silvia registra le ore sulla piattaforma e riceve un'unica busta paga mensile. Personaggio di fantasia.
+Esempio: immaginiamo Silvia, insegnante di italiano di Siena, che segue una scuola di lingue di Toronto (tre gruppi a settimana) e dodici studenti privati sparsi tra Stati Uniti e Australia. La cooperativa firma la commessa con la scuola e definisce con noi come gestire gli studenti privati. Silvia registra le attività sulla piattaforma e riceve un'unica busta paga mensile. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

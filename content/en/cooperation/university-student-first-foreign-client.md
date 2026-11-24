@@ -31,7 +31,7 @@ On the first two points we give no figures or thresholds: they change over time 
 
 ## An employment contract instead of a VAT number
 
-For a student, opening a VAT number for one client and a few hours can be disproportionate: e-invoicing, contributions, tax returns, often an accountant. For truly occasional work there is also the *prestazione occasionale*, with its limits (see [occasional work, cooperative or VAT number](/en/articles/occasional-work-cooperative-or-vat/)).
+For a student, opening a VAT number for a single short project can be disproportionate: e-invoicing, contributions, tax returns, often an accountant. For truly occasional work there is also the *prestazione occasionale*, with its limits (see [occasional work, cooperative or VAT number](/en/articles/occasional-work-cooperative-or-vat/)).
 
 With the cooperative the route is different: you become a member, you have an employment contract, part-time if needed, and you receive a payslip. The foreign client signs a commercial contract with the cooperative, which invoices and collects. You receive your salary with INPS contributions and INAIL cover. For many students it is also their first real payslip, and the first contributions toward a future pension.
 

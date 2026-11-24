@@ -27,7 +27,7 @@ Questo non significa che il socio sia sempre al riparo da ogni conseguenza: la c
 
 1. **Controlla la scadenza.** Spesso il ritardo dipende da un'approvazione interna del cliente non ancora arrivata.
 2. **Avvisa subito la cooperativa.** Più il problema è segnalato presto, più facile è risolverlo.
-3. **Raccogli la documentazione.** Presenze, attività consegnate, conferme del cliente, email di approvazione.
+3. **Raccogli la documentazione.** Attività consegnate, conferme del cliente, email di approvazione.
 4. **Non promettere nulla al cliente da solo.** Concessioni su sconti o dilazioni vanno concordate con la cooperativa.
 5. **Mantieni un tono professionale.** Il rapporto può ancora recuperare.
 

@@ -39,14 +39,14 @@ The member receives the internal regulation and signs the employment contract (n
 The cooperative signs the commercial contract with the client. The member does not sign as a supplier: the agreement is between cooperative and client.
 
 ### 6. Platform access
-You receive credentials to log hours and activities, upload expense claims and consult documents.
+You receive credentials to log activities and deliveries, upload expense claims and consult documents.
 
 ### 7. Work, reporting, payslip
 You work, report within the stated deadlines, the cooperative invoices the client, runs payroll and pays contributions and withholdings. Then the first pay arrives.
 
 ## Example: Andrea, marketing consultant
 
-A fictional example: Andrea is a marketing consultant working with an Irish company. On Monday he has the intake call, within a few days receives the admission paperwork, subscribes the share and signs contract and regulation. Meanwhile the cooperative agrees the commercial contract with the company. Andrea starts working, logs hours and activities on the platform and at month end sees his first payslip. The real time between steps depends on how quickly client and member respond.
+A fictional example: Andrea is a marketing consultant working with an Irish company. On Monday he has the intake call, within a few days receives the admission paperwork, subscribes the share and signs contract and regulation. Meanwhile the cooperative agrees the commercial contract with the company. Andrea starts working, logs activities and deliveries on the platform and at month end sees his first payslip. The real time between steps depends on how quickly client and member respond.
 
 ## Where time is lost
 
@@ -59,7 +59,7 @@ A fictional example: Andrea is a marketing consultant working with an Irish comp
 
 - Amount of the share and refund conditions.
 - Type of employment contract, duration, job classification.
-- Service costs and how they are calculated: see also the guide on how client cost is worked out.
+- Service costs and how they are calculated: see also the guide [from the price of your service to your payslip](/en/articles/how-client-cost-and-pay-are-calculated/).
 - Indicative payment times.
 
 Ready to see what your path would be? [Contact us](/en/contact/): tell us about your activity and we will explain the next steps.

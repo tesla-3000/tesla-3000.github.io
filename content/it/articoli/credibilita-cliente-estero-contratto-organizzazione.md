@@ -43,7 +43,7 @@ Esempio di fantasia: Giulia traduce manuali tecnici per un'azienda olandese. Il 
 1. **Accordo di massima con il cliente.** Il socio concorda contenuti, durata e tariffa di principio.
 2. **Contratto commerciale.** La cooperativa predispone la commessa e la firma con il cliente; il socio non firma come fornitore.
 3. **Rapporto di lavoro del socio.** Parallelamente, il socio lavora con un contratto con la cooperativa (di norma subordinato), con busta paga mensile.
-4. **Attività e rendicontazione.** Presenze e attività si registrano sulla piattaforma, utili anche per documentare il lavoro al cliente.
+4. **Attività e rendicontazione.** Attività e consegne si registrano sulla piattaforma, utili anche per documentare il lavoro al cliente.
 5. **Fattura e incasso.** La cooperativa fattura al cliente, anche in valuta estera, e incassa.
 
 ## Cosa verificare

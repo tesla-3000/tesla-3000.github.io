@@ -31,7 +31,7 @@ Il rapporto con il cliente estero è contrattualizzato dalla cooperativa, che si
 
 ## Cosa resta a tuo carico
 
-Essere onesti è importante: non sparisce tutto. Resta la tua situazione fiscale personale. Il reddito da lavoro dipendente è soggetto a IRPEF progressiva, con ritenute alla fonte e conguaglio, oltre ad addizionali regionali e comunali. Ricevi una CU, che puoi usare per la tua dichiarazione dei redditi quando prevista. Se hai altri redditi o detrazioni particolari, puoi rivolgerti a un CAF o a un consulente personale. Resta inoltre l'organizzazione del tuo lavoro: registrare attività e presenze sulla piattaforma e caricare le note spese.
+Essere onesti è importante: non sparisce tutto. Resta la tua situazione fiscale personale. Il reddito da lavoro dipendente è soggetto a IRPEF progressiva, con ritenute alla fonte e conguaglio, oltre ad addizionali regionali e comunali. Ricevi una CU, che puoi usare per la tua dichiarazione dei redditi quando prevista. Se hai altri redditi o detrazioni particolari, puoi rivolgerti a un CAF o a un consulente personale. Resta inoltre l'organizzazione del tuo lavoro: registrare attività e consegne sulla piattaforma e caricare le note spese.
 
 ## Esempio: Stefania e la fine dei mercoledì sera
 

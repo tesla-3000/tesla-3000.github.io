@@ -42,7 +42,7 @@ Ogni cliente firma una commessa con la cooperativa, che fattura per ciascuno. Pe
 
 ## Esempio
 
-Esempio: immaginiamo Valentina, SEO specialist di Firenze, che segue tre clienti: un sito di viaggi a Lione, un SaaS a Berlino e un e-commerce di arredo a Manchester. Ognuno ha il suo retainer, in euro e in sterline. La cooperativa firma tre commesse e fattura a ciascuno; Valentina registra le ore per cliente e riceve un'unica busta paga mensile. Un cliente che paga a 60 giorni non blocca il suo reddito grazie al fondo per l'anticipo. Personaggio di fantasia.
+Esempio: immaginiamo Valentina, SEO specialist di Firenze, che segue tre clienti: un sito di viaggi a Lione, un SaaS a Berlino e un e-commerce di arredo a Manchester. Ognuno ha il suo retainer, in euro e in sterline. La cooperativa firma tre commesse e fattura a ciascuno; Valentina registra le attività per cliente e riceve un'unica busta paga mensile. Un cliente che paga a 60 giorni non blocca il suo reddito grazie al fondo per l'anticipo. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

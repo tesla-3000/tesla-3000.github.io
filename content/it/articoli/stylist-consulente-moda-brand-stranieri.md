@@ -38,7 +38,7 @@ I deliverable sono moodboard, schede di sourcing, set di immagini e rapporti di 
 
 ## Esempio: una collezione capsula
 
-*Esempio di fantasia.* Immaginiamo Francesca, stylist a Firenze con una rete di contatti in laboratori toscani. Un brand scandinavo di maglieria le affida una capsula: quattro viaggi tra Prato e Biella, uno shooting di due giorni a Milano, un report finale sui fornitori. Contratto di tre mesi con giornate concordate. Francesca non ha partita IVA e il brand non vuole gestire un incarico a persona fisica. Con la cooperativa, {{< brand >}} firma la commessa, Francesca registra le giornate e carica le ricevute di treno, campioni e hotel; riceve la busta paga e il cliente paga una sola fattura.
+*Esempio di fantasia.* Immaginiamo Francesca, stylist a Firenze con una rete di contatti in laboratori toscani. Un brand scandinavo di maglieria le affida una capsula: quattro viaggi tra Prato e Biella, uno shooting di due giorni a Milano, un report finale sui fornitori. Contratto di tre mesi con giornate concordate. Francesca non ha partita IVA e il brand non vuole gestire un incarico a persona fisica. Con la cooperativa, {{< brand >}} firma la commessa, Francesca registra attività e carica le ricevute di treno, campioni e hotel; riceve la busta paga e il cliente paga una sola fattura.
 
 ## Organizzare il lavoro sul set
 
@@ -49,7 +49,7 @@ Prepara una scheda per ogni look con riferimenti, taglie, accessori e provenienz
 1. **Raccontaci il progetto**: durata, giornate, deliverable, budget campioni.
 2. **Adesione** come socio con quota di capitale sociale rimborsabile all'uscita (L. 142/2001).
 3. **Commessa** con il brand: tariffe a giornata, spese, diritti d'immagine.
-4. **Piattaforma**: registri giornate e note spese; documenti firmati online.
+4. **Piattaforma**: registri attività e note spese; documenti firmati online.
 5. **Fatturazione ed estero**: la cooperativa fattura al brand (UE o extra-UE) con regole B2B da verificare caso per caso.
 6. **Retribuzione**: busta paga con contributi, INAIL e RC professionale inclusa; anticipo se serve.
 

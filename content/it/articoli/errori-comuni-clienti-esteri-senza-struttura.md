@@ -67,7 +67,7 @@ Esempio di fantasia: Nicola lavora per una startup americana senza contratto scr
 2. **Contratto di lavoro.** Il socio ha il suo rapporto con la cooperativa e relative tutele.
 3. **Fatturazione e incasso.** Gestiti dalla cooperativa, anche in valuta.
 4. **Coperture.** INAIL e assicurazione RC professionale incluse nel pacchetto.
-5. **Piattaforma.** Presenze, note spese e documenti sono ordinati e consultabili.
+5. **Piattaforma.** Attività, note spese e documenti sono ordinati e consultabili.
 
 ## Cosa verificare
 

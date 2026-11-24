@@ -38,7 +38,7 @@ Quella parola, "fattura", presuppone una partita IVA, con i relativi adempimenti
 
 ## Esempio: tre mesi di analisi per una startup
 
-*Esempio di fantasia.* Immaginiamo Lorenzo, laureato in economia da due mesi. Una startup finlandese gli propone tre mesi di analisi di mercato sul settore alimentare italiano: venti ore a settimana, report intermedio e finale. Lorenzo non sa se continuerà come libero professionista e non vuole aprire una partita IVA per un solo cliente. Con la cooperativa, {{< brand >}} firma la commessa con la startup, Lorenzo viene inquadrato come socio lavoratore con contratto di lavoro per la durata del progetto, registra le attività sulla piattaforma e riceve la busta paga. Contributi, INAIL e RC professionale sono inclusi; se vorrà proseguire con altri clienti, potrà valutarlo a fine incarico.
+*Esempio di fantasia.* Immaginiamo Lorenzo, laureato in economia da due mesi. Una startup finlandese gli propone tre mesi di analisi di mercato sul settore alimentare italiano: un report intermedio e uno finale, a prezzo concordato per fase. Lorenzo non sa se continuerà come libero professionista e non vuole aprire una partita IVA per un solo progetto. Con la cooperativa, {{< brand >}} firma la commessa con la startup, Lorenzo viene inquadrato come socio lavoratore con contratto di lavoro per la durata del progetto, registra le attività sulla piattaforma e riceve la busta paga. Contributi, INAIL e RC professionale sono inclusi; se vorrà proseguire con altri clienti, potrà valutarlo a fine incarico.
 
 ## Costruire un portfolio fin dal primo incarico
 

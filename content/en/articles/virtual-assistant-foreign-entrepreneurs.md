@@ -48,7 +48,7 @@ Prepare a sheet for each client with preferences, email tone, hours they can be 
 1. **Analysis**: we list clients, hours and currencies.
 2. **Membership** with a share of capital refundable on exit (Law 142/2001).
 3. **Separate contracts** for each entrepreneur, with hour package and confidentiality.
-4. **Hour log** on the platform: the client can check how much was worked.
+4. **Activity log** on the platform: the client receives a summary of the services delivered.
 5. **Invoicing**: the cooperative invoices foreign clients under the B2B rules to be verified case by case, in foreign currency too.
 6. **Monthly payslip** with contributions, INAIL and professional liability; **advance** available if a client pays late.
 

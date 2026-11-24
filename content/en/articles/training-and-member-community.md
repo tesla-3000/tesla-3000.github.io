@@ -25,14 +25,14 @@ The member community is a place to share:
 
 - experience with clients in different countries and ways of working;
 - tools and methods for staying organised;
-- practical questions about administration, timesheets and expense claims;
+- practical questions about administration, activities and expense claims;
 - opportunities and complementary skills.
 
 As a member of a cooperative, you are not in a client-supplier relationship: it is a community of people with shared interests, in line with the mutual-benefit spirit of Italian cooperative law.
 
 ## Training: what to expect
 
-Training has two sides. One covers the basics of the employment relationship: workplace safety, correct use of the platform, rules on timesheets and reporting. The other covers professional growth: communicating with international clients, time management, languages, digital tools for your field.
+Training has two sides. One covers the basics of the employment relationship: workplace safety, correct use of the platform, rules on activity reporting. The other covers professional growth: communicating with international clients, time management, languages, digital tools for your field.
 
 Some training may be mandatory by law, especially on safety; for the rest, it follows the member's interest. The actual programme depends on the period and on members' needs, so always check it with the cooperative.
 

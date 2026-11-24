@@ -42,7 +42,7 @@ Example: imagine Davide, a jazz guitarist from Perugia with three summer booking
 1. **Calendar.** You send your bookings with dates, venues and fees.
 2. **Joining.** You subscribe a share of capital, refundable on exit under the bylaws.
 3. **Agreements.** The cooperative signs with each promoter.
-4. **Activity.** Attendance and expenses on the platform.
+4. **Activity.** Activities and expenses on the platform.
 5. **Collection.** The cooperative invoices and collects, also in foreign currency.
 6. **Payslip.** You receive pay with payslip and documents on the platform.
 

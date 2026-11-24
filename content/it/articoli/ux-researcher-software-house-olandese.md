@@ -40,7 +40,7 @@ La cooperativa firma con la software house la commessa e fattura. Per servizi B2
 
 ## Esempio
 
-Esempio: immaginiamo Sara, UX researcher di Milano, ingaggiata da una software house di Utrecht per capire come i fisioterapisti italiani usano un'app di esercizi: 12 interviste e 2 sessioni di usability in otto settimane. La cooperativa firma la commessa, che prevede 25 giorni di lavoro e un budget per compensare i partecipanti. Sara registra giornate e spese sulla piattaforma, consegna il report e presenta i risultati al team in videochiamata. A fine mese riceve la busta paga. Personaggio di fantasia.
+Esempio: immaginiamo Sara, UX researcher di Milano, ingaggiata da una software house di Utrecht per capire come i fisioterapisti italiani usano un'app di esercizi: 12 interviste e 2 sessioni di usability in otto settimane. La cooperativa firma la commessa, che prevede 25 giorni di lavoro e un budget per compensare i partecipanti. Sara registra attività e spese sulla piattaforma, consegna il report e presenta i risultati al team in videochiamata. A fine mese riceve la busta paga. Personaggio di fantasia.
 
 ## Come funziona con la cooperativa
 

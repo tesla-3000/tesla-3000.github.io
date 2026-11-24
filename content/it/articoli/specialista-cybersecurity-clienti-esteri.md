@@ -37,7 +37,7 @@ I deliverable sono report con vulnerabilità classificate per gravità, prove te
 
 ## Esempio: un test di tre settimane
 
-*Esempio di fantasia.* Immaginiamo Roberto, penetration tester con certificazioni riconosciute e dieci anni di esperienza. Una fintech asiatica gli commissiona un test di tre settimane sulle API di pagamento, più un retest a due mesi. Roberto ha lavorato sempre come dipendente e non vuole partita IVA per un incarico singolo. Con la cooperativa, {{< brand >}} firma la commessa con perimetro, riservatezza e limiti di responsabilità; Roberto viene inquadrato come socio lavoratore, registra le giornate di test e di report sulla piattaforma e riceve la busta paga mensile; il cliente paga alla cooperativa in dollari a consegna del report.
+*Esempio di fantasia.* Immaginiamo Roberto, penetration tester con certificazioni riconosciute e dieci anni di esperienza. Una fintech asiatica gli commissiona un test di tre settimane sulle API di pagamento, più un retest a due mesi. Roberto ha lavorato sempre come dipendente e non vuole partita IVA per un incarico singolo. Con la cooperativa, {{< brand >}} firma la commessa con perimetro, riservatezza e limiti di responsabilità; Roberto viene inquadrato come socio lavoratore, registra le attività di test e di report sulla piattaforma e riceve la busta paga mensile; il cliente paga alla cooperativa in dollari a consegna del report.
 
 ## Buone pratiche operative
 

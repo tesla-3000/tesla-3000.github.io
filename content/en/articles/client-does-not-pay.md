@@ -27,7 +27,7 @@ This does not mean the member is always sheltered from every consequence: cover 
 
 1. **Check the due date.** Delay often comes from an internal client approval not yet given.
 2. **Tell the cooperative immediately.** The earlier the problem is flagged, the easier it is to solve.
-3. **Gather documentation.** Timesheets, delivered work, client confirmations, approval emails.
+3. **Gather documentation.** Activity records, delivered work, client confirmations, approval emails.
 4. **Do not promise anything to the client alone.** Concessions on discounts or instalments must be agreed with the cooperative.
 5. **Keep a professional tone.** The relationship may still recover.
 

@@ -40,7 +40,7 @@ The cooperative signs the agreement with the software house and invoices. For B2
 
 ## Example
 
-Example: imagine Sara, a UX researcher in Milan, hired by a software house in Utrecht to understand how Italian physiotherapists use an exercise app: 12 interviews and 2 usability sessions in eight weeks. The cooperative signs the agreement, covering 25 working days and a budget for participant incentives. Sara records days and expenses on the platform, delivers the report and presents findings to the team by video call. At month end she receives her payslip. Fictional character.
+Example: imagine Sara, a UX researcher in Milan, hired by a software house in Utrecht to understand how Italian physiotherapists use an exercise app: 12 interviews and 2 usability sessions in eight weeks. The cooperative signs the agreement, covering 25 working days and a budget for participant incentives. Sara records activities and expenses on the platform, delivers the report and presents findings to the team by video call. At month end she receives her payslip. Fictional character.
 
 ## How it works with the cooperative
 
