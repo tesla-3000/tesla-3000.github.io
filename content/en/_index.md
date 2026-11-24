@@ -23,7 +23,7 @@ incl:
   - "Commercial contract with your foreign client"
   - "Invoices and collections, in USD, GBP or CHF too"
   - "Employment, payslip, contributions and annual tax statement"
-  - "Salary on a fixed date even if the client pays late"
+  - "Payment reminders and debt recovery when clients pay late"
   - "Expense and travel refunds"
   - "Digital member platform and e-signature"
   - "WhatsApp support with a named contact"

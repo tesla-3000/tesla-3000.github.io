@@ -18,7 +18,6 @@
 - cat: {it: "Pagamenti e anticipi", en: "Payments and advances"}
   items:
     - {inc: true, it: "Incasso dei pagamenti, anche in dollari, sterline, franchi e altre valute", en: "Collecting payments, including USD, GBP, CHF and other currencies"}
-    - {inc: true, it: "Stipendio a data fissa (il 10 del mese successivo) anche se il cliente paga in ritardo, tramite fondo mutualistico", en: "Salary on a fixed date (the 10th of the following month) even if the client pays late, through a mutual fund"}
     - {inc: true, it: "Rimborso spese professionali e trasferte, con recupero IVA", en: "Refunds of professional and travel expenses, with VAT recovery"}
     - {inc: true, it: "Solleciti e recupero dei crediti verso i clienti che non pagano", en: "Payment reminders and debt recovery from clients who do not pay"}
     - {inc: false, it: "Anticipo dei compensi su commesse firmate, secondo le regole del fondo", en: "Advance on pay for signed contracts, under the fund's rules"}

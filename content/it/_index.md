@@ -23,7 +23,7 @@ incl:
   - "Contratto commerciale con il tuo cliente estero"
   - "Fatture e incassi, anche in dollari, sterline o franchi"
   - "Assunzione, busta paga, contributi e CU"
-  - "Stipendio a data fissa anche se il cliente ritarda"
+  - "Solleciti e recupero crediti verso i clienti che pagano in ritardo"
   - "Rimborsi spese e trasferte"
   - "Piattaforma digitale del socio e firma online"
   - "Supporto WhatsApp con un referente"
