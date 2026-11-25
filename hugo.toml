@@ -10,9 +10,11 @@ disableKinds = ["taxonomy", "term", "RSS"]
 [params]
   brandName = "Tesla3000"                 # <-- unico punto per il nome
   legalSuffix = "Società Cooperativa"     # ragione sociale = brandName + legalSuffix
-  vatNumber = ""                          # P.IVA / C.F. da compilare
-  reaNumber = ""                          # REA e Albo cooperative da compilare
-  address = ""                            # sede legale da compilare
+  vatNumber = "03290730591"             # C.F. e P.IVA (visura 14/10/2025)
+  legalName = "Tesla 3000 Società Cooperativa"
+  pec = "tesla3000soccoop@pec.it"
+  reaNumber = "REA LT-324740"
+  address = "Via dei Martiri del Lavoro 12, 04010 Norma (LT)"
   email = "coop@tesla3000.it"
   whatsapp = ""                           # numero WhatsApp (formato 39XXXXXXXXXX)
   formEndpoint = ""                       # URL POST del modulo; vuoto = fallback mailto

@@ -3,8 +3,8 @@
   <div class="wrap foot-in">
     <div>
       <p class="logo light"><img src="{{ "img/mark.svg" | relURL }}" alt="" width="32" height="32"><span>{{ site.Params.brandName }}</span></p>
-      <p>{{ site.Params.brandName }} {{ site.Params.legalSuffix }}{{ with site.Params.address }} · {{ . }}{{ end }}<br>
-      {{ with site.Params.vatNumber }}P.IVA {{ . }}{{ else }}{{ i18n "footer_legal" }}{{ end }}{{ with site.Params.reaNumber }} · {{ . }}{{ end }}</p>
+      <p>{{ with site.Params.legalName }}{{ . }}{{ else }}{{ site.Params.brandName }} {{ site.Params.legalSuffix }}{{ end }}{{ with site.Params.address }} · {{ . }}{{ end }}<br>
+      {{ with site.Params.vatNumber }}P.IVA {{ . }}{{ else }}{{ i18n "footer_legal" }}{{ end }}{{ with site.Params.reaNumber }} · {{ . }}{{ end }}{{ with site.Params.pec }} · PEC {{ . }}{{ end }}</p>
     </div>
     <ul>
       {{ range site.Menus.main }}<li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>{{ end }}
